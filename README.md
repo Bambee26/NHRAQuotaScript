@@ -34,6 +34,3 @@ Use your own current values in GitHub Secrets, not in the code.
 
 ## Run schedule
 The workflow is set to run every 15 minutes.
-
-## Important
-If you pasted an app password into chat or a file anywhere else, revoke it and generate a fresh one before using this.
