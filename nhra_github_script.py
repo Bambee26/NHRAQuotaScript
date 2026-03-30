@@ -227,7 +227,7 @@ def check_once(class_name: str = "Super Comp") -> None:
                 if status.entries < status.quota:
                     prev = state.get(key)
                     if prev != payload:
-                        subject = f"{class_name} below quota"
+                        subject = f"{class_name} is Below Quota!"
                         body = (
                             f"{event.label}\n"
                             f"{class_name}: {status.entries}/{status.quota}\n"
