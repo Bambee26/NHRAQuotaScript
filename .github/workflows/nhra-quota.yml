@@ -39,4 +39,4 @@ jobs:
 
       - name: Run watcher
         run: |
-          python nhra_github_script.py
+          python nhra_github_script_with_json.py
