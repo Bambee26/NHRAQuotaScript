@@ -130,19 +130,26 @@ def extract_all_class_statuses_from_html(html: str) -> list[ClassStatus]:
                 continue
 
             texts = [" ".join(c.get_text(" ", strip=True).split()) for c in cells]
+
+            # NHRA layout:
+            # [0] blank, [1] category, [2] quota, [3] entries, [4] % full
             category = texts[1].strip()
-
-            if not category or category.lower() in {"category", "event total"}:
-                continue
-
-            quota = parse_int_cell(texts[2])
-            entries = parse_int_cell(texts[3])
+            quota_text = texts[2].strip()
+            entries_text = texts[3].strip()
             percent_full = texts[4].strip() or None
 
-            # keep only real category rows that have numeric quota/entries
-            if quota is None or entries is None:
+            if not category:
                 continue
-            if quota < 0 or entries < 0 or quota > 500 or entries > 500:
+
+            lowered = category.lower()
+            if lowered in {"category", "event total"}:
+                continue
+
+            quota = parse_int_cell(quota_text)
+            entries = parse_int_cell(entries_text)
+
+            # Skip only if we truly don't have both numbers
+            if quota is None or entries is None:
                 continue
 
             results.append(
@@ -154,17 +161,18 @@ def extract_all_class_statuses_from_html(html: str) -> list[ClassStatus]:
                 )
             )
 
-    # de-dupe
+    # de-dupe by class name only, keeping the first parsed row
     seen = set()
     deduped: list[ClassStatus] = []
     for item in results:
-        key = (item.label.lower(), item.quota, item.entries, item.percent_full)
+        key = item.label.strip().lower()
         if key not in seen:
             seen.add(key)
             deduped.append(item)
 
     return deduped
 
+log(f"[debug] {event.label} classes: {[c.label for c in all_statuses]}")
 
 def write_json_feed(events_payload: list[dict]) -> None:
     payload = {
