@@ -45,12 +45,27 @@ jobs:
           ls -la
           ls -la docs || true
           cat docs/quota_data.json || true
-
+          
+      - name: Show generated JSON timestamp
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path("docs/quota_data.json")
+          data = json.loads(p.read_text(encoding="utf-8"))
+          print("last_checked:", data.get("last_checked"))
+          print("generated_epoch:", data.get("generated_epoch"))
+          PY
+          
       - name: Commit updated JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/quota_data.json
           git status
-          git diff --staged --quiet || git commit -m "Update quota data"
-          git push
+          if git diff --staged --quiet; then
+            echo "No staged changes to commit"
+          else
+            git commit -m "Update quota data"
+            git push
+          fi
