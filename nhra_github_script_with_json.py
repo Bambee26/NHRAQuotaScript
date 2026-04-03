@@ -172,8 +172,6 @@ def extract_all_class_statuses_from_html(html: str) -> list[ClassStatus]:
 
     return deduped
 
-log(f"[debug] {event.label} classes: {[c.label for c in all_statuses]}")
-
 def write_json_feed(events_payload: list[dict]) -> None:
     payload = {
         "last_checked": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
@@ -220,19 +218,22 @@ def run() -> None:
                 html = page.content()
 
                 all_statuses = extract_all_class_statuses_from_html(html)
-                if all_statuses:
-                    event_payload["classes"] = [
-                        {
-                            "name": s.label,
-                            "quota": s.quota,
-                            "entries": s.entries,
-                            "percent_full": s.percent_full,
-                        }
-                        for s in all_statuses
-                    ]
-                    event_payload["has_data"] = True
-                    log(f"[ok] Parsed {len(all_statuses)} classes for {event.label}")
-                else:
+log(f"[debug] {event.label} classes: {[c.label for c in all_statuses]}")
+
+if all_statuses:
+    event_payload["classes"] = [
+        {
+            "name": s.label,
+            "quota": s.quota,
+            "entries": s.entries,
+            "percent_full": s.percent_full,
+        }
+        for s in all_statuses
+    ]
+    event_payload["has_data"] = True
+    log(f"[ok] Parsed {len(all_statuses)} classes for {event.label}")
+else:
+    log(f"[info] No class data yet for {event.label}; including event anyway")
                     log(f"[info] No class data yet for {event.label}; including event anyway")
 
             except Exception as e:
