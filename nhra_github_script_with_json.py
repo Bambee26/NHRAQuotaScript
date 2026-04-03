@@ -131,24 +131,17 @@ def extract_all_class_statuses_from_html(html: str) -> list[ClassStatus]:
 
             texts = [" ".join(c.get_text(" ", strip=True).split()) for c in cells]
 
-            # NHRA layout:
-            # [0] blank, [1] category, [2] quota, [3] entries, [4] % full
             category = texts[1].strip()
-            quota_text = texts[2].strip()
-            entries_text = texts[3].strip()
+            quota = parse_int_cell(texts[2])
+            entries = parse_int_cell(texts[3])
             percent_full = texts[4].strip() or None
 
             if not category:
                 continue
 
-            lowered = category.lower()
-            if lowered in {"category", "event total"}:
+            if category.lower() in {"category", "event total"}:
                 continue
 
-            quota = parse_int_cell(quota_text)
-            entries = parse_int_cell(entries_text)
-
-            # Skip only if we truly don't have both numbers
             if quota is None or entries is None:
                 continue
 
@@ -161,16 +154,16 @@ def extract_all_class_statuses_from_html(html: str) -> list[ClassStatus]:
                 )
             )
 
-    # de-dupe by class name only, keeping the first parsed row
     seen = set()
-    deduped: list[ClassStatus] = []
+    deduped = []
     for item in results:
-        key = item.label.strip().lower()
+        key = item.label.lower()
         if key not in seen:
             seen.add(key)
             deduped.append(item)
 
     return deduped
+
 
 def write_json_feed(events_payload: list[dict]) -> None:
     payload = {
@@ -184,19 +177,16 @@ def write_json_feed(events_payload: list[dict]) -> None:
 
 
 def run() -> None:
-    json_events: list[dict] = []
+    json_events = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto(BASE_URL, wait_until="domcontentloaded", timeout=30000)
-        page.wait_for_timeout(1200)
+        page.goto(BASE_URL)
+        page.wait_for_timeout(1000)
 
         events = extract_events(page)
         future_events = [e for e in events if is_future_or_today(e.event_date)]
-
-        log(f"Found {len(events)} event(s) on {BASE_URL}")
-        log(f"Keeping {len(future_events)} future/today event(s); skipped {len(events) - len(future_events)} past event(s)")
 
         for event in future_events:
             date_text, location_text, name_text = parse_event_label_parts(event.label)
@@ -211,33 +201,32 @@ def run() -> None:
             }
 
             try:
-                page.goto(BASE_URL, wait_until="domcontentloaded", timeout=30000)
-                page.wait_for_timeout(800)
+                page.goto(BASE_URL)
+                page.wait_for_timeout(500)
 
                 choose_event(page, event)
                 html = page.content()
 
                 all_statuses = extract_all_class_statuses_from_html(html)
-log(f"[debug] {event.label} classes: {[c.label for c in all_statuses]}")
 
-if all_statuses:
-    event_payload["classes"] = [
-        {
-            "name": s.label,
-            "quota": s.quota,
-            "entries": s.entries,
-            "percent_full": s.percent_full,
-        }
-        for s in all_statuses
-    ]
-    event_payload["has_data"] = True
-    log(f"[ok] Parsed {len(all_statuses)} classes for {event.label}")
-else:
-    log(f"[info] No class data yet for {event.label}; including event anyway")
-                    log(f"[info] No class data yet for {event.label}; including event anyway")
+                log(f"[debug] {event.label} classes: {[c.label for c in all_statuses]}")
+
+                if all_statuses:
+                    event_payload["classes"] = [
+                        {
+                            "name": s.label,
+                            "quota": s.quota,
+                            "entries": s.entries,
+                            "percent_full": s.percent_full,
+                        }
+                        for s in all_statuses
+                    ]
+                    event_payload["has_data"] = True
+                else:
+                    log(f"[info] No class data yet for {event.label}")
 
             except Exception as e:
-                log(f"[warn] Failed to parse class data for {event.label}: {e}; including event anyway")
+                log(f"[warn] Failed for {event.label}: {e}")
 
             json_events.append(event_payload)
 
