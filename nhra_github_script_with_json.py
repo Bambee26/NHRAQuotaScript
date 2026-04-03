@@ -168,11 +168,15 @@ def extract_all_class_statuses_from_html(html: str) -> list[ClassStatus]:
 def write_json_feed(events_payload: list[dict]) -> None:
     payload = {
         "last_checked": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        "generated_epoch": int(datetime.now(timezone.utc).timestamp()),
         "events": events_payload,
     }
 
     JSON_OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    JSON_OUTPUT_FILE.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    JSON_OUTPUT_FILE.write_text(
+        json.dumps(payload, indent=2, sort_keys=True),
+        encoding="utf-8",
+    )
     log(f"Wrote JSON feed to {JSON_OUTPUT_FILE}")
 
 
