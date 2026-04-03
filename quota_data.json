@@ -1,0 +1,38 @@
+{
+  "last_checked": "2026-04-03T20:30:00Z",
+  "events": [
+    {
+      "id": "2026PC1",
+      "name": "Lucas Oil NHRA Winternationals",
+      "date": "04/09/2026",
+      "location": "Pomona, CA",
+      "classes": [
+        { "name": "Super Comp", "quota": 60, "entries": 61 },
+        { "name": "Super Gas", "quota": 60, "entries": 58 },
+        { "name": "Super Street", "quota": 50, "entries": 36 }
+      ]
+    },
+    {
+      "id": "2026CN1",
+      "name": "NHRA 4-Wide Nationals",
+      "date": "04/23/2026",
+      "location": "Charlotte, NC",
+      "classes": [
+        { "name": "Super Comp", "quota": 60, "entries": 61 },
+        { "name": "Super Gas", "quota": 60, "entries": 61 },
+        { "name": "Stock Eliminator", "quota": 60, "entries": 60 }
+      ]
+    },
+    {
+      "id": "2026VG1",
+      "name": "NHRA Southern Nationals",
+      "date": "05/01/2026",
+      "location": "Cecil, GA",
+      "classes": [
+        { "name": "Super Comp", "quota": 50, "entries": 50 },
+        { "name": "Super Gas", "quota": 50, "entries": 46 },
+        { "name": "Top Dragster", "quota": 36, "entries": 20 }
+      ]
+    }
+  ]
+}
