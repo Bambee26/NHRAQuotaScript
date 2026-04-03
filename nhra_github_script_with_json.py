@@ -47,7 +47,7 @@ def parse_event_date(label: str) -> Optional[date]:
     return None
 
 
-def parse_event_label_parts(label: str):
+def parse_event_label_parts(label: str) -> tuple[str, str, str]:
     parts = [p.strip() for p in label.split(" - ", 2)]
     if len(parts) == 3:
         return parts[0], parts[1], parts[2]
@@ -93,12 +93,22 @@ def choose_event(page, event: Event) -> None:
         page.select_option(selector, value=event.value)
         page.wait_for_timeout(500)
 
-        page.locator("input[type='submit']").first.click()
-        page.wait_for_load_state("domcontentloaded")
+        for sub in [
+            "input[type='submit'][name='Submit']",
+            "input[type='submit'][value='Submit']",
+            "input[type='submit']",
+        ]:
+            locator = page.locator(sub)
+            if locator.count() > 0:
+                locator.first.click(timeout=2500)
+                page.wait_for_load_state("domcontentloaded", timeout=10000)
+                page.wait_for_timeout(1000)
+                return
+
         page.wait_for_timeout(1000)
         return
 
-    raise RuntimeError(f"Could not activate event: {event.label}")
+    raise RuntimeError(f"Could not activate event in page UI: {event.label}")
 
 
 def parse_int_cell(text: str) -> Optional[int]:
@@ -109,9 +119,9 @@ def parse_int_cell(text: str) -> Optional[int]:
     return int(m.group()) if m else None
 
 
-def extract_all_class_statuses(html: str) -> list[ClassStatus]:
+def extract_all_class_statuses_from_html(html: str) -> list[ClassStatus]:
     soup = BeautifulSoup(html, "lxml")
-    results = []
+    results: list[ClassStatus] = []
 
     for table in soup.find_all("table"):
         for row in table.find_all("tr"):
@@ -129,17 +139,34 @@ def extract_all_class_statuses(html: str) -> list[ClassStatus]:
             entries = parse_int_cell(texts[3])
             percent_full = texts[4].strip() or None
 
+            # keep only real category rows that have numeric quota/entries
             if quota is None or entries is None:
+                continue
+            if quota < 0 or entries < 0 or quota > 500 or entries > 500:
                 continue
 
             results.append(
-                ClassStatus(category, entries, quota, percent_full)
+                ClassStatus(
+                    label=category,
+                    entries=entries,
+                    quota=quota,
+                    percent_full=percent_full,
+                )
             )
 
-    return results
+    # de-dupe
+    seen = set()
+    deduped: list[ClassStatus] = []
+    for item in results:
+        key = (item.label.lower(), item.quota, item.entries, item.percent_full)
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    return deduped
 
 
-def write_json(events_payload):
+def write_json_feed(events_payload: list[dict]) -> None:
     payload = {
         "last_checked": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "events": events_payload,
@@ -147,64 +174,67 @@ def write_json(events_payload):
 
     JSON_OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     JSON_OUTPUT_FILE.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    log(f"Wrote JSON feed to {JSON_OUTPUT_FILE}")
 
-    log(f"Updated JSON: {JSON_OUTPUT_FILE}")
 
-
-def run():
-    json_events = []
+def run() -> None:
+    json_events: list[dict] = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-
-        page.goto(BASE_URL)
+        page.goto(BASE_URL, wait_until="domcontentloaded", timeout=30000)
         page.wait_for_timeout(1200)
 
         events = extract_events(page)
         future_events = [e for e in events if is_future_or_today(e.event_date)]
 
-        log(f"{len(future_events)} future events found")
+        log(f"Found {len(events)} event(s) on {BASE_URL}")
+        log(f"Keeping {len(future_events)} future/today event(s); skipped {len(events) - len(future_events)} past event(s)")
 
         for event in future_events:
+            date_text, location_text, name_text = parse_event_label_parts(event.label)
+
+            event_payload = {
+                "id": event.value,
+                "name": name_text,
+                "date": date_text,
+                "location": location_text,
+                "classes": [],
+                "has_data": False,
+            }
+
             try:
-                page.goto(BASE_URL)
+                page.goto(BASE_URL, wait_until="domcontentloaded", timeout=30000)
                 page.wait_for_timeout(800)
 
                 choose_event(page, event)
                 html = page.content()
 
-                classes = extract_all_class_statuses(html)
-                if not classes:
-                    log(f"Skipping {event.label}")
-                    continue
-
-                date_text, location, name = parse_event_label_parts(event.label)
-
-                json_events.append({
-                    "id": event.value,
-                    "name": name,
-                    "date": date_text,
-                    "location": location,
-                    "classes": [
+                all_statuses = extract_all_class_statuses_from_html(html)
+                if all_statuses:
+                    event_payload["classes"] = [
                         {
-                            "name": c.label,
-                            "quota": c.quota,
-                            "entries": c.entries,
-                            "percent_full": c.percent_full
+                            "name": s.label,
+                            "quota": s.quota,
+                            "entries": s.entries,
+                            "percent_full": s.percent_full,
                         }
-                        for c in classes
+                        for s in all_statuses
                     ]
-                })
-
-                log(f"Parsed {event.label}")
+                    event_payload["has_data"] = True
+                    log(f"[ok] Parsed {len(all_statuses)} classes for {event.label}")
+                else:
+                    log(f"[info] No class data yet for {event.label}; including event anyway")
 
             except Exception as e:
-                log(f"[ERROR] {event.label}: {e}")
+                log(f"[warn] Failed to parse class data for {event.label}: {e}; including event anyway")
+
+            json_events.append(event_payload)
 
         browser.close()
 
-    write_json(json_events)
+    write_json_feed(json_events)
 
 
 if __name__ == "__main__":
