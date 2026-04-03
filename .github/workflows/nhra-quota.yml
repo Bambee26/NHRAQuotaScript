@@ -42,6 +42,7 @@ jobs:
 
       - name: Show generated JSON
         run: |
+          ls -la
           ls -la docs || true
           cat docs/quota_data.json || true
 
