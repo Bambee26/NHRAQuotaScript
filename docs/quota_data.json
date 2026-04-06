@@ -3,15 +3,15 @@
     {
       "classes": [
         {
-          "entries": 41,
+          "entries": 43,
           "name": "Super Stock",
-          "percent_full": "68.3%",
+          "percent_full": "71.7%",
           "quota": 60
         },
         {
-          "entries": 49,
+          "entries": 50,
           "name": "Stock Eliminator",
-          "percent_full": "81.7%",
+          "percent_full": "83.3%",
           "quota": 60
         },
         {
@@ -27,9 +27,9 @@
           "quota": 60
         },
         {
-          "entries": 50,
+          "entries": 49,
           "name": "Super Street",
-          "percent_full": "100.0%",
+          "percent_full": "98.0%",
           "quota": 50
         },
         {
@@ -39,9 +39,9 @@
           "quota": 36
         },
         {
-          "entries": 36,
+          "entries": 35,
           "name": "Top Dragster",
-          "percent_full": "100.0%",
+          "percent_full": "97.2%",
           "quota": 36
         }
       ],
@@ -90,9 +90,9 @@
           "quota": 36
         },
         {
-          "entries": 30,
+          "entries": 32,
           "name": "Top Dragster",
-          "percent_full": "83.3%",
+          "percent_full": "88.9%",
           "quota": 36
         }
       ],
@@ -129,9 +129,9 @@
           "quota": 50
         },
         {
-          "entries": 23,
+          "entries": 24,
           "name": "Top Dragster",
-          "percent_full": "63.9%",
+          "percent_full": "66.7%",
           "quota": 36
         }
       ],
@@ -300,6 +300,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1775488365,
-  "last_checked": "2026-04-06T15:12:45.165013Z"
+  "generated_epoch": 1775491318,
+  "last_checked": "2026-04-06T16:01:58.029793Z"
 }
