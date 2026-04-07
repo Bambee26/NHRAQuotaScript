@@ -52,52 +52,9 @@
       "name": "Lucas Oil NHRA Winternationals"
     },
     {
-      "classes": [
-        {
-          "entries": 48,
-          "name": "Super Stock",
-          "percent_full": "80.0%",
-          "quota": 60
-        },
-        {
-          "entries": 60,
-          "name": "Stock Eliminator",
-          "percent_full": "100.0%",
-          "quota": 60
-        },
-        {
-          "entries": 61,
-          "name": "Super Comp",
-          "percent_full": "101.7%",
-          "quota": 60
-        },
-        {
-          "entries": 58,
-          "name": "Super Gas",
-          "percent_full": "96.7%",
-          "quota": 60
-        },
-        {
-          "entries": 33,
-          "name": "Super Street",
-          "percent_full": "66.0%",
-          "quota": 50
-        },
-        {
-          "entries": 6,
-          "name": "Top Sportsman",
-          "percent_full": "16.7%",
-          "quota": 36
-        },
-        {
-          "entries": 32,
-          "name": "Top Dragster",
-          "percent_full": "88.9%",
-          "quota": 36
-        }
-      ],
+      "classes": [],
       "date": "04/24/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026CN1",
       "location": "Charlotte NC",
       "name": "NHRA 4-Wide Nationals"
@@ -300,6 +257,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1775549725,
-  "last_checked": "2026-04-07T08:15:25.152981Z"
+  "generated_epoch": 1775554530,
+  "last_checked": "2026-04-07T09:35:30.927953Z"
 }
