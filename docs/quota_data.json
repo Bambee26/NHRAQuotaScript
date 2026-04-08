@@ -150,9 +150,9 @@
           "quota": 60
         },
         {
-          "entries": 58,
+          "entries": 59,
           "name": "Stock Eliminator",
-          "percent_full": "96.7%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -300,6 +300,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1775682772,
-  "last_checked": "2026-04-08T21:12:52.586613Z"
+  "generated_epoch": 1775685672,
+  "last_checked": "2026-04-08T22:01:12.781514Z"
 }
