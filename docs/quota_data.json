@@ -15,9 +15,9 @@
           "quota": 60
         },
         {
-          "entries": 57,
+          "entries": 55,
           "name": "Super Comp",
-          "percent_full": "95.0%",
+          "percent_full": "91.7%",
           "quota": 60
         },
         {
@@ -27,9 +27,9 @@
           "quota": 60
         },
         {
-          "entries": 44,
+          "entries": 43,
           "name": "Super Street",
-          "percent_full": "88.0%",
+          "percent_full": "86.0%",
           "quota": 50
         },
         {
@@ -39,9 +39,9 @@
           "quota": 36
         },
         {
-          "entries": 33,
+          "entries": 32,
           "name": "Top Dragster",
-          "percent_full": "91.7%",
+          "percent_full": "88.9%",
           "quota": 36
         }
       ],
@@ -90,9 +90,9 @@
           "quota": 36
         },
         {
-          "entries": 33,
+          "entries": 34,
           "name": "Top Dragster",
-          "percent_full": "91.7%",
+          "percent_full": "94.4%",
           "quota": 36
         }
       ],
@@ -144,9 +144,9 @@
     {
       "classes": [
         {
-          "entries": 49,
+          "entries": 51,
           "name": "Super Stock",
-          "percent_full": "81.7%",
+          "percent_full": "85.0%",
           "quota": 60
         },
         {
@@ -174,9 +174,9 @@
           "quota": 36
         },
         {
-          "entries": 9,
+          "entries": 10,
           "name": "Top Dragster",
-          "percent_full": "25.0%",
+          "percent_full": "27.8%",
           "quota": 36
         }
       ],
@@ -218,9 +218,9 @@
           "quota": 50
         },
         {
-          "entries": 43,
+          "entries": 48,
           "name": "Stock Eliminator",
-          "percent_full": "86.0%",
+          "percent_full": "96.0%",
           "quota": 50
         },
         {
@@ -248,9 +248,9 @@
           "quota": 36
         },
         {
-          "entries": 1,
+          "entries": 2,
           "name": "Top Dragster",
-          "percent_full": "2.8%",
+          "percent_full": "5.6%",
           "quota": 36
         }
       ],
@@ -263,9 +263,9 @@
     {
       "classes": [
         {
-          "entries": 24,
+          "entries": 25,
           "name": "Super Stock",
-          "percent_full": "43.6%",
+          "percent_full": "45.5%",
           "quota": 55
         },
         {
@@ -281,9 +281,9 @@
           "quota": 55
         },
         {
-          "entries": 32,
+          "entries": 33,
           "name": "Super Gas",
-          "percent_full": "58.2%",
+          "percent_full": "60.0%",
           "quota": 55
         },
         {
@@ -300,6 +300,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1775657674,
-  "last_checked": "2026-04-08T14:14:34.106877Z"
+  "generated_epoch": 1775663173,
+  "last_checked": "2026-04-08T15:46:13.589936Z"
 }
