@@ -263,9 +263,9 @@
     {
       "classes": [
         {
-          "entries": 26,
+          "entries": 27,
           "name": "Super Stock",
-          "percent_full": "47.3%",
+          "percent_full": "49.1%",
           "quota": 55
         },
         {
@@ -300,6 +300,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1775730038,
-  "last_checked": "2026-04-09T10:20:38.210566Z"
+  "generated_epoch": 1775734161,
+  "last_checked": "2026-04-09T11:29:21.853160Z"
 }
