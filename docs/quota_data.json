@@ -3,57 +3,6 @@
     {
       "classes": [
         {
-          "entries": 40,
-          "name": "Super Stock",
-          "percent_full": "66.7%",
-          "quota": 60
-        },
-        {
-          "entries": 43,
-          "name": "Stock Eliminator",
-          "percent_full": "71.7%",
-          "quota": 60
-        },
-        {
-          "entries": 55,
-          "name": "Super Comp",
-          "percent_full": "91.7%",
-          "quota": 60
-        },
-        {
-          "entries": 54,
-          "name": "Super Gas",
-          "percent_full": "90.0%",
-          "quota": 60
-        },
-        {
-          "entries": 43,
-          "name": "Super Street",
-          "percent_full": "86.0%",
-          "quota": 50
-        },
-        {
-          "entries": 22,
-          "name": "Top Sportsman",
-          "percent_full": "61.1%",
-          "quota": 36
-        },
-        {
-          "entries": 30,
-          "name": "Top Dragster",
-          "percent_full": "83.3%",
-          "quota": 36
-        }
-      ],
-      "date": "04/09/2026",
-      "has_data": true,
-      "id": "2026PC1",
-      "location": "Pomona CA",
-      "name": "Lucas Oil NHRA Winternationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 48,
           "name": "Super Stock",
           "percent_full": "80.0%",
@@ -84,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 6,
+          "entries": 7,
           "name": "Top Sportsman",
-          "percent_full": "16.7%",
+          "percent_full": "19.4%",
           "quota": 36
         },
         {
@@ -300,6 +249,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1775777957,
-  "last_checked": "2026-04-09T23:39:17.322949Z"
+  "generated_epoch": 1775779617,
+  "last_checked": "2026-04-10T00:06:57.777641Z"
 }
