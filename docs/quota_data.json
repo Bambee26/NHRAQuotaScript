@@ -179,9 +179,9 @@
           "quota": 50
         },
         {
-          "entries": 7,
+          "entries": 8,
           "name": "Super Gas",
-          "percent_full": "14.0%",
+          "percent_full": "16.0%",
           "quota": 50
         },
         {
@@ -249,6 +249,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1775828810,
-  "last_checked": "2026-04-10T13:46:50.667377Z"
+  "generated_epoch": 1775831923,
+  "last_checked": "2026-04-10T14:38:43.281326Z"
 }
