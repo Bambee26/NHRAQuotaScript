@@ -66,9 +66,9 @@
           "quota": 50
         },
         {
-          "entries": 49,
+          "entries": 50,
           "name": "Super Comp",
-          "percent_full": "98.0%",
+          "percent_full": "100.0%",
           "quota": 50
         },
         {
@@ -249,6 +249,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1776084450,
-  "last_checked": "2026-04-13T12:47:30.231376Z"
+  "generated_epoch": 1776090142,
+  "last_checked": "2026-04-13T14:22:22.331958Z"
 }
