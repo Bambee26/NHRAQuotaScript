@@ -9,9 +9,9 @@
           "quota": 60
         },
         {
-          "entries": 59,
+          "entries": 58,
           "name": "Stock Eliminator",
-          "percent_full": "98.3%",
+          "percent_full": "96.7%",
           "quota": 60
         },
         {
@@ -21,9 +21,9 @@
           "quota": 60
         },
         {
-          "entries": 56,
+          "entries": 57,
           "name": "Super Gas",
-          "percent_full": "93.3%",
+          "percent_full": "95.0%",
           "quota": 60
         },
         {
@@ -249,6 +249,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1776116472,
-  "last_checked": "2026-04-13T21:41:12.480024Z"
+  "generated_epoch": 1776119340,
+  "last_checked": "2026-04-13T22:29:00.764487Z"
 }
