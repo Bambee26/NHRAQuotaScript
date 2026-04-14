@@ -33,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 10,
+          "entries": 12,
           "name": "Top Sportsman",
-          "percent_full": "27.8%",
+          "percent_full": "33.3%",
           "quota": 36
         },
         {
@@ -249,6 +249,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1776175714,
-  "last_checked": "2026-04-14T14:08:34.511070Z"
+  "generated_epoch": 1776180199,
+  "last_checked": "2026-04-14T15:23:19.510546Z"
 }
