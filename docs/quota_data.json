@@ -136,14 +136,6 @@
       "name": "Gerber Collision & Glass Route 66 NHRA Nationals presented by PEAK Performance"
     },
     {
-      "classes": [],
-      "date": "05/21/2026",
-      "has_data": false,
-      "id": "2026CO2",
-      "location": "Bowling Green KY",
-      "name": "JEGS NHRA SPORTSnationals"
-    },
-    {
       "classes": [
         {
           "entries": 1,
@@ -156,7 +148,7 @@
       "has_data": true,
       "id": "2026MM1",
       "location": "27861 Budds Creek rd Md",
-      "name": "NHRA Ponomac Nationals"
+      "name": "NHRA Potomac Nationals"
     },
     {
       "classes": [
@@ -218,9 +210,9 @@
           "quota": 55
         },
         {
-          "entries": 39,
+          "entries": 40,
           "name": "Stock Eliminator",
-          "percent_full": "70.9%",
+          "percent_full": "72.7%",
           "quota": 55
         },
         {
@@ -249,6 +241,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1776202639,
-  "last_checked": "2026-04-14T21:37:19.927518Z"
+  "generated_epoch": 1776205619,
+  "last_checked": "2026-04-14T22:26:59.242468Z"
 }
