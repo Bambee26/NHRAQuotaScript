@@ -66,9 +66,9 @@
           "quota": 50
         },
         {
-          "entries": 48,
+          "entries": 47,
           "name": "Super Comp",
-          "percent_full": "96.0%",
+          "percent_full": "94.0%",
           "quota": 50
         },
         {
@@ -105,9 +105,9 @@
           "quota": 60
         },
         {
-          "entries": 61,
+          "entries": 60,
           "name": "Super Comp",
-          "percent_full": "101.7%",
+          "percent_full": "100.0%",
           "quota": 60
         },
         {
@@ -123,9 +123,9 @@
           "quota": 36
         },
         {
-          "entries": 11,
+          "entries": 12,
           "name": "Top Dragster",
-          "percent_full": "30.6%",
+          "percent_full": "33.3%",
           "quota": 36
         }
       ],
@@ -249,6 +249,6 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     }
   ],
-  "generated_epoch": 1776192630,
-  "last_checked": "2026-04-14T18:50:30.762724Z"
+  "generated_epoch": 1776196567,
+  "last_checked": "2026-04-14T19:56:07.220945Z"
 }
