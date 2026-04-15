@@ -3,15 +3,15 @@
     {
       "classes": [
         {
-          "entries": 48,
+          "entries": 47,
           "name": "Super Stock",
-          "percent_full": "80.0%",
+          "percent_full": "78.3%",
           "quota": 60
         },
         {
-          "entries": 59,
+          "entries": 60,
           "name": "Stock Eliminator",
-          "percent_full": "98.3%",
+          "percent_full": "100.0%",
           "quota": 60
         },
         {
@@ -222,9 +222,9 @@
           "quota": 55
         },
         {
-          "entries": 40,
+          "entries": 41,
           "name": "Super Gas",
-          "percent_full": "72.7%",
+          "percent_full": "74.5%",
           "quota": 55
         },
         {
@@ -243,15 +243,15 @@
     {
       "classes": [
         {
-          "entries": 33,
+          "entries": 34,
           "name": "Super Stock",
-          "percent_full": "60.0%",
+          "percent_full": "61.8%",
           "quota": 55
         },
         {
-          "entries": 34,
+          "entries": 37,
           "name": "Stock Eliminator",
-          "percent_full": "61.8%",
+          "percent_full": "67.3%",
           "quota": 55
         },
         {
@@ -261,15 +261,15 @@
           "quota": 55
         },
         {
-          "entries": 56,
+          "entries": 55,
           "name": "Super Gas",
-          "percent_full": "101.8%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
-          "entries": 21,
+          "entries": 22,
           "name": "Super Street",
-          "percent_full": "42.0%",
+          "percent_full": "44.0%",
           "quota": 50
         },
         {
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776273663,
-  "last_checked": "2026-04-15T17:21:03.872841Z"
+  "generated_epoch": 1776278318,
+  "last_checked": "2026-04-15T18:38:38.433825Z"
 }
