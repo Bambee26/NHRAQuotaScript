@@ -33,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 13,
+          "entries": 14,
           "name": "Top Sportsman",
-          "percent_full": "36.1%",
+          "percent_full": "38.9%",
           "quota": 36
         },
         {
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776365278,
-  "last_checked": "2026-04-16T18:47:58.887645Z"
+  "generated_epoch": 1776369064,
+  "last_checked": "2026-04-16T19:51:04.850334Z"
 }
