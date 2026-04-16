@@ -9,15 +9,15 @@
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 61,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "101.7%",
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 59,
           "name": "Super Comp",
-          "percent_full": "100.0%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -39,9 +39,9 @@
           "quota": 36
         },
         {
-          "entries": 36,
+          "entries": 35,
           "name": "Top Dragster",
-          "percent_full": "100.0%",
+          "percent_full": "97.2%",
           "quota": 36
         }
       ],
@@ -66,9 +66,9 @@
           "quota": 50
         },
         {
-          "entries": 47,
+          "entries": 46,
           "name": "Super Comp",
-          "percent_full": "94.0%",
+          "percent_full": "92.0%",
           "quota": 50
         },
         {
@@ -78,9 +78,9 @@
           "quota": 50
         },
         {
-          "entries": 27,
+          "entries": 26,
           "name": "Top Dragster",
-          "percent_full": "75.0%",
+          "percent_full": "72.2%",
           "quota": 36
         }
       ],
@@ -153,9 +153,9 @@
     {
       "classes": [
         {
-          "entries": 15,
+          "entries": 14,
           "name": "Super Stock",
-          "percent_full": "30.0%",
+          "percent_full": "28.0%",
           "quota": 50
         },
         {
@@ -165,9 +165,9 @@
           "quota": 50
         },
         {
-          "entries": 18,
+          "entries": 17,
           "name": "Super Comp",
-          "percent_full": "36.0%",
+          "percent_full": "34.0%",
           "quota": 50
         },
         {
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776369064,
-  "last_checked": "2026-04-16T19:51:04.850334Z"
+  "generated_epoch": 1776371745,
+  "last_checked": "2026-04-16T20:35:45.224135Z"
 }
