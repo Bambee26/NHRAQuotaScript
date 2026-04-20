@@ -9,15 +9,15 @@
           "quota": 60
         },
         {
-          "entries": 55,
+          "entries": 54,
           "name": "Stock Eliminator",
-          "percent_full": "91.7%",
+          "percent_full": "90.0%",
           "quota": 60
         },
         {
-          "entries": 54,
+          "entries": 55,
           "name": "Super Comp",
-          "percent_full": "90.0%",
+          "percent_full": "91.7%",
           "quota": 60
         },
         {
@@ -45,7 +45,7 @@
           "quota": 36
         }
       ],
-      "date": "04/24/2026",
+      "date": "04/23/2026",
       "has_data": true,
       "id": "2026CN1",
       "location": "Charlotte NC",
@@ -148,7 +148,7 @@
       "has_data": true,
       "id": "2026MM1",
       "location": "27861 Budds Creek rd Md",
-      "name": "NHRA Potomac Nationals"
+      "name": "NHRA Ponomac Nationals"
     },
     {
       "classes": [
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776703523,
-  "last_checked": "2026-04-20T16:45:23.000594Z"
+  "generated_epoch": 1776706965,
+  "last_checked": "2026-04-20T17:42:45.690483Z"
 }
