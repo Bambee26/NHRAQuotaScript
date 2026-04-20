@@ -3,33 +3,33 @@
     {
       "classes": [
         {
-          "entries": 46,
+          "entries": 45,
           "name": "Super Stock",
-          "percent_full": "76.7%",
+          "percent_full": "75.0%",
           "quota": 60
         },
         {
-          "entries": 57,
+          "entries": 56,
           "name": "Stock Eliminator",
-          "percent_full": "95.0%",
+          "percent_full": "93.3%",
           "quota": 60
         },
         {
-          "entries": 55,
+          "entries": 54,
           "name": "Super Comp",
-          "percent_full": "91.7%",
+          "percent_full": "90.0%",
           "quota": 60
         },
         {
-          "entries": 52,
+          "entries": 51,
           "name": "Super Gas",
-          "percent_full": "86.7%",
+          "percent_full": "85.0%",
           "quota": 60
         },
         {
-          "entries": 25,
+          "entries": 26,
           "name": "Super Street",
-          "percent_full": "50.0%",
+          "percent_full": "52.0%",
           "quota": 50
         },
         {
@@ -39,9 +39,9 @@
           "quota": 36
         },
         {
-          "entries": 34,
+          "entries": 33,
           "name": "Top Dragster",
-          "percent_full": "94.4%",
+          "percent_full": "91.7%",
           "quota": 36
         }
       ],
@@ -54,9 +54,9 @@
     {
       "classes": [
         {
-          "entries": 35,
+          "entries": 36,
           "name": "Super Stock",
-          "percent_full": "70.0%",
+          "percent_full": "72.0%",
           "quota": 50
         },
         {
@@ -72,9 +72,9 @@
           "quota": 50
         },
         {
-          "entries": 43,
+          "entries": 42,
           "name": "Super Gas",
-          "percent_full": "86.0%",
+          "percent_full": "84.0%",
           "quota": 50
         },
         {
@@ -222,9 +222,9 @@
           "quota": 55
         },
         {
-          "entries": 43,
+          "entries": 42,
           "name": "Super Gas",
-          "percent_full": "78.2%",
+          "percent_full": "76.4%",
           "quota": 55
         },
         {
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776687017,
-  "last_checked": "2026-04-20T12:10:17.607613Z"
+  "generated_epoch": 1776694202,
+  "last_checked": "2026-04-20T14:10:02.047052Z"
 }
