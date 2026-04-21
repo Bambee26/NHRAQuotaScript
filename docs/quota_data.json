@@ -52,17 +52,85 @@
       "name": "NHRA 4-Wide Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 36,
+          "name": "Super Stock",
+          "percent_full": "72.0%",
+          "quota": 50
+        },
+        {
+          "entries": 51,
+          "name": "Stock Eliminator",
+          "percent_full": "102.0%",
+          "quota": 50
+        },
+        {
+          "entries": 48,
+          "name": "Super Comp",
+          "percent_full": "96.0%",
+          "quota": 50
+        },
+        {
+          "entries": 44,
+          "name": "Super Gas",
+          "percent_full": "88.0%",
+          "quota": 50
+        },
+        {
+          "entries": 29,
+          "name": "Top Dragster",
+          "percent_full": "80.6%",
+          "quota": 36
+        }
+      ],
       "date": "05/01/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026VG1",
       "location": "Cecil GA",
       "name": "NHRA Southern Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 60,
+          "name": "Super Stock",
+          "percent_full": "100.0%",
+          "quota": 60
+        },
+        {
+          "entries": 60,
+          "name": "Stock Eliminator",
+          "percent_full": "100.0%",
+          "quota": 60
+        },
+        {
+          "entries": 60,
+          "name": "Super Comp",
+          "percent_full": "100.0%",
+          "quota": 60
+        },
+        {
+          "entries": 61,
+          "name": "Super Gas",
+          "percent_full": "101.7%",
+          "quota": 60
+        },
+        {
+          "entries": 6,
+          "name": "Top Sportsman",
+          "percent_full": "16.7%",
+          "quota": 36
+        },
+        {
+          "entries": 18,
+          "name": "Top Dragster",
+          "percent_full": "50.0%",
+          "quota": 36
+        }
+      ],
       "date": "05/14/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026CI1",
       "location": "Joliet IL",
       "name": "Gerber Collision & Glass Route 66 NHRA Nationals presented by PEAK Performance"
@@ -134,9 +202,40 @@
       "name": "NHRA New England Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 31,
+          "name": "Super Stock",
+          "percent_full": "56.4%",
+          "quota": 55
+        },
+        {
+          "entries": 43,
+          "name": "Stock Eliminator",
+          "percent_full": "78.2%",
+          "quota": 55
+        },
+        {
+          "entries": 38,
+          "name": "Super Comp",
+          "percent_full": "69.1%",
+          "quota": 55
+        },
+        {
+          "entries": 43,
+          "name": "Super Gas",
+          "percent_full": "78.2%",
+          "quota": 55
+        },
+        {
+          "entries": 2,
+          "name": "Top Sportsman",
+          "percent_full": "5.6%",
+          "quota": 36
+        }
+      ],
       "date": "06/12/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026BT1",
       "location": "Bristol TN",
       "name": "Super Grip NHRA Thunder Valley Nationals"
@@ -193,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776759029,
-  "last_checked": "2026-04-21T08:10:29.088792Z"
+  "generated_epoch": 1776765065,
+  "last_checked": "2026-04-21T09:51:05.078634Z"
 }
