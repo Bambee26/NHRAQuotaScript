@@ -243,9 +243,9 @@
     {
       "classes": [
         {
-          "entries": 50,
+          "entries": 51,
           "name": "Super Stock",
-          "percent_full": "90.9%",
+          "percent_full": "92.7%",
           "quota": 55
         },
         {
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776821433,
-  "last_checked": "2026-04-22T01:30:33.707801Z"
+  "generated_epoch": 1776832218,
+  "last_checked": "2026-04-22T04:30:18.015025Z"
 }
