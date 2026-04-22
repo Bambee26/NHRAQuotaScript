@@ -279,9 +279,9 @@
           "quota": 36
         },
         {
-          "entries": 4,
+          "entries": 5,
           "name": "Top Dragster",
-          "percent_full": "11.1%",
+          "percent_full": "13.9%",
           "quota": 36
         }
       ],
@@ -292,6 +292,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776890447,
-  "last_checked": "2026-04-22T20:40:47.250412Z"
+  "generated_epoch": 1776893742,
+  "last_checked": "2026-04-22T21:35:42.752045Z"
 }
