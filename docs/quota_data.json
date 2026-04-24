@@ -3,57 +3,6 @@
     {
       "classes": [
         {
-          "entries": 44,
-          "name": "Super Stock",
-          "percent_full": "73.3%",
-          "quota": 60
-        },
-        {
-          "entries": 53,
-          "name": "Stock Eliminator",
-          "percent_full": "88.3%",
-          "quota": 60
-        },
-        {
-          "entries": 55,
-          "name": "Super Comp",
-          "percent_full": "91.7%",
-          "quota": 60
-        },
-        {
-          "entries": 50,
-          "name": "Super Gas",
-          "percent_full": "83.3%",
-          "quota": 60
-        },
-        {
-          "entries": 27,
-          "name": "Super Street",
-          "percent_full": "54.0%",
-          "quota": 50
-        },
-        {
-          "entries": 18,
-          "name": "Top Sportsman",
-          "percent_full": "50.0%",
-          "quota": 36
-        },
-        {
-          "entries": 32,
-          "name": "Top Dragster",
-          "percent_full": "88.9%",
-          "quota": 36
-        }
-      ],
-      "date": "04/23/2026",
-      "has_data": true,
-      "id": "2026CN1",
-      "location": "Charlotte NC",
-      "name": "NHRA 4-Wide Nationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 35,
           "name": "Super Stock",
           "percent_full": "70.0%",
@@ -292,6 +241,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1776985880,
-  "last_checked": "2026-04-23T23:11:20.830734Z"
+  "generated_epoch": 1776988912,
+  "last_checked": "2026-04-24T00:01:52.140187Z"
 }
