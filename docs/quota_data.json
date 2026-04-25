@@ -15,9 +15,9 @@
           "quota": 50
         },
         {
-          "entries": 48,
+          "entries": 47,
           "name": "Super Comp",
-          "percent_full": "96.0%",
+          "percent_full": "94.0%",
           "quota": 50
         },
         {
@@ -241,6 +241,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1777079401,
-  "last_checked": "2026-04-25T01:10:01.989165Z"
+  "generated_epoch": 1777090052,
+  "last_checked": "2026-04-25T04:07:32.783008Z"
 }
