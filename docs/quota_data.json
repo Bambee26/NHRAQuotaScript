@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 27,
+          "entries": 26,
           "name": "Super Stock",
-          "percent_full": "54.0%",
+          "percent_full": "52.0%",
           "quota": 50
         },
         {
@@ -15,15 +15,15 @@
           "quota": 50
         },
         {
-          "entries": 41,
+          "entries": 40,
           "name": "Super Comp",
-          "percent_full": "82.0%",
+          "percent_full": "80.0%",
           "quota": 50
         },
         {
-          "entries": 35,
+          "entries": 34,
           "name": "Super Gas",
-          "percent_full": "70.0%",
+          "percent_full": "68.0%",
           "quota": 50
         },
         {
@@ -241,6 +241,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1777246170,
-  "last_checked": "2026-04-26T23:29:30.309535Z"
+  "generated_epoch": 1777248361,
+  "last_checked": "2026-04-27T00:06:01.018998Z"
 }
