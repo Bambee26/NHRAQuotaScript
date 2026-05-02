@@ -3,45 +3,6 @@
     {
       "classes": [
         {
-          "entries": 19,
-          "name": "Super Stock",
-          "percent_full": "38.0%",
-          "quota": 50
-        },
-        {
-          "entries": 37,
-          "name": "Stock Eliminator",
-          "percent_full": "74.0%",
-          "quota": 50
-        },
-        {
-          "entries": 33,
-          "name": "Super Comp",
-          "percent_full": "66.0%",
-          "quota": 50
-        },
-        {
-          "entries": 28,
-          "name": "Super Gas",
-          "percent_full": "56.0%",
-          "quota": 50
-        },
-        {
-          "entries": 21,
-          "name": "Top Dragster",
-          "percent_full": "58.3%",
-          "quota": 36
-        }
-      ],
-      "date": "05/01/2026",
-      "has_data": true,
-      "id": "2026VG1",
-      "location": "Cecil GA",
-      "name": "NHRA Southern Nationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 60,
           "name": "Super Stock",
           "percent_full": "100.0%",
@@ -241,6 +202,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1777678089,
-  "last_checked": "2026-05-01T23:28:09.874145Z"
+  "generated_epoch": 1777680780,
+  "last_checked": "2026-05-02T00:13:00.325176Z"
 }
