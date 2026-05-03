@@ -87,9 +87,9 @@
           "quota": 50
         },
         {
-          "entries": 8,
+          "entries": 9,
           "name": "Super Street",
-          "percent_full": "16.0%",
+          "percent_full": "18.0%",
           "quota": 50
         },
         {
@@ -202,6 +202,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1777837378,
-  "last_checked": "2026-05-03T19:42:58.256086Z"
+  "generated_epoch": 1777839889,
+  "last_checked": "2026-05-03T20:24:49.706476Z"
 }
