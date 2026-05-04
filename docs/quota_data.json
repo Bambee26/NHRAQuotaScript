@@ -132,9 +132,9 @@
           "quota": 55
         },
         {
-          "entries": 52,
+          "entries": 53,
           "name": "Super Gas",
-          "percent_full": "94.5%",
+          "percent_full": "96.4%",
           "quota": 55
         },
         {
@@ -202,6 +202,6 @@
       "name": "Summit Racing Equipment NHRA Nationals"
     }
   ],
-  "generated_epoch": 1777893312,
-  "last_checked": "2026-05-04T11:15:12.608135Z"
+  "generated_epoch": 1777899433,
+  "last_checked": "2026-05-04T12:57:13.600237Z"
 }
