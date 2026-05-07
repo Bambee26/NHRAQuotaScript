@@ -9,15 +9,15 @@
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 59,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 59,
           "name": "Super Comp",
-          "percent_full": "100.0%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -33,9 +33,9 @@
           "quota": 36
         },
         {
-          "entries": 23,
+          "entries": 22,
           "name": "Top Dragster",
-          "percent_full": "63.9%",
+          "percent_full": "61.1%",
           "quota": 36
         }
       ],
@@ -75,15 +75,15 @@
           "quota": 50
         },
         {
-          "entries": 23,
+          "entries": 24,
           "name": "Super Comp",
-          "percent_full": "46.0%",
+          "percent_full": "48.0%",
           "quota": 50
         },
         {
-          "entries": 13,
+          "entries": 15,
           "name": "Super Gas",
-          "percent_full": "26.0%",
+          "percent_full": "30.0%",
           "quota": 50
         },
         {
@@ -132,9 +132,9 @@
           "quota": 55
         },
         {
-          "entries": 54,
+          "entries": 55,
           "name": "Super Gas",
-          "percent_full": "98.2%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
@@ -247,6 +247,6 @@
       "name": "DENSO NHRA Sonoma Nationals"
     }
   ],
-  "generated_epoch": 1778112261,
-  "last_checked": "2026-05-07T00:04:21.752650Z"
+  "generated_epoch": 1778126273,
+  "last_checked": "2026-05-07T03:57:53.679415Z"
 }
