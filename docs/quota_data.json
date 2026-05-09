@@ -99,9 +99,9 @@
           "quota": 36
         },
         {
-          "entries": 7,
+          "entries": 8,
           "name": "Top Dragster",
-          "percent_full": "19.4%",
+          "percent_full": "22.2%",
           "quota": 36
         }
       ],
@@ -247,6 +247,6 @@
       "name": "DENSO NHRA Sonoma Nationals"
     }
   ],
-  "generated_epoch": 1778289457,
-  "last_checked": "2026-05-09T01:17:37.722325Z"
+  "generated_epoch": 1778301300,
+  "last_checked": "2026-05-09T04:35:00.018642Z"
 }
