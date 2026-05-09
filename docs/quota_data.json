@@ -9,9 +9,9 @@
           "quota": 60
         },
         {
-          "entries": 52,
+          "entries": 53,
           "name": "Stock Eliminator",
-          "percent_full": "86.7%",
+          "percent_full": "88.3%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "DENSO NHRA Sonoma Nationals"
     }
   ],
-  "generated_epoch": 1778283150,
-  "last_checked": "2026-05-08T23:32:30.454042Z"
+  "generated_epoch": 1778289457,
+  "last_checked": "2026-05-09T01:17:37.722325Z"
 }
