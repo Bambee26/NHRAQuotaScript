@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 47,
+          "entries": 48,
           "name": "Super Stock",
-          "percent_full": "78.3%",
+          "percent_full": "80.0%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "DENSO NHRA Sonoma Nationals"
     }
   ],
-  "generated_epoch": 1778522759,
-  "last_checked": "2026-05-11T18:05:59.741031Z"
+  "generated_epoch": 1778529678,
+  "last_checked": "2026-05-11T20:01:18.361276Z"
 }
