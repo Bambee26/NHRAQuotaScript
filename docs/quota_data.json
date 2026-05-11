@@ -3,21 +3,21 @@
     {
       "classes": [
         {
-          "entries": 49,
-          "name": "Super Stock",
-          "percent_full": "81.7%",
-          "quota": 60
-        },
-        {
           "entries": 48,
-          "name": "Stock Eliminator",
+          "name": "Super Stock",
           "percent_full": "80.0%",
           "quota": 60
         },
         {
-          "entries": 49,
+          "entries": 47,
+          "name": "Stock Eliminator",
+          "percent_full": "78.3%",
+          "quota": 60
+        },
+        {
+          "entries": 48,
           "name": "Super Comp",
-          "percent_full": "81.7%",
+          "percent_full": "80.0%",
           "quota": 60
         },
         {
@@ -27,9 +27,9 @@
           "quota": 60
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Top Sportsman",
-          "percent_full": "50.0%",
+          "percent_full": "52.8%",
           "quota": 36
         },
         {
@@ -87,9 +87,9 @@
           "quota": 50
         },
         {
-          "entries": 9,
+          "entries": 11,
           "name": "Super Street",
-          "percent_full": "18.0%",
+          "percent_full": "22.0%",
           "quota": 50
         },
         {
@@ -126,15 +126,15 @@
           "quota": 55
         },
         {
-          "entries": 46,
+          "entries": 45,
           "name": "Super Comp",
-          "percent_full": "83.6%",
+          "percent_full": "81.8%",
           "quota": 55
         },
         {
-          "entries": 55,
+          "entries": 54,
           "name": "Super Gas",
-          "percent_full": "100.0%",
+          "percent_full": "98.2%",
           "quota": 55
         },
         {
@@ -183,9 +183,9 @@
           "quota": 50
         },
         {
-          "entries": 2,
+          "entries": 3,
           "name": "Top Sportsman",
-          "percent_full": "5.6%",
+          "percent_full": "8.3%",
           "quota": 36
         },
         {
@@ -222,9 +222,9 @@
           "quota": 55
         },
         {
-          "entries": 23,
+          "entries": 24,
           "name": "Super Gas",
-          "percent_full": "41.8%",
+          "percent_full": "43.6%",
           "quota": 55
         },
         {
@@ -247,6 +247,6 @@
       "name": "DENSO NHRA Sonoma Nationals"
     }
   ],
-  "generated_epoch": 1778505956,
-  "last_checked": "2026-05-11T13:25:56.590049Z"
+  "generated_epoch": 1778516098,
+  "last_checked": "2026-05-11T16:14:58.384426Z"
 }
