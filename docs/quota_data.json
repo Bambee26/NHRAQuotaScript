@@ -93,9 +93,9 @@
           "quota": 50
         },
         {
-          "entries": 2,
+          "entries": 3,
           "name": "Top Sportsman",
-          "percent_full": "5.6%",
+          "percent_full": "8.3%",
           "quota": 36
         },
         {
@@ -126,9 +126,9 @@
           "quota": 55
         },
         {
-          "entries": 45,
+          "entries": 44,
           "name": "Super Comp",
-          "percent_full": "81.8%",
+          "percent_full": "80.0%",
           "quota": 55
         },
         {
@@ -247,6 +247,6 @@
       "name": "DENSO NHRA Sonoma Nationals"
     }
   ],
-  "generated_epoch": 1778597356,
-  "last_checked": "2026-05-12T14:49:16.647643Z"
+  "generated_epoch": 1778605156,
+  "last_checked": "2026-05-12T16:59:16.709441Z"
 }
