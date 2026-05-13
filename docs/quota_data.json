@@ -63,9 +63,9 @@
     {
       "classes": [
         {
-          "entries": 21,
+          "entries": 22,
           "name": "Super Stock",
-          "percent_full": "42.0%",
+          "percent_full": "44.0%",
           "quota": 50
         },
         {
@@ -75,9 +75,9 @@
           "quota": 50
         },
         {
-          "entries": 26,
+          "entries": 29,
           "name": "Super Comp",
-          "percent_full": "52.0%",
+          "percent_full": "58.0%",
           "quota": 50
         },
         {
@@ -87,9 +87,9 @@
           "quota": 50
         },
         {
-          "entries": 17,
+          "entries": 19,
           "name": "Super Street",
-          "percent_full": "34.0%",
+          "percent_full": "38.0%",
           "quota": 50
         },
         {
@@ -99,9 +99,9 @@
           "quota": 36
         },
         {
-          "entries": 12,
+          "entries": 13,
           "name": "Top Dragster",
-          "percent_full": "33.3%",
+          "percent_full": "36.1%",
           "quota": 36
         }
       ],
@@ -114,9 +114,9 @@
     {
       "classes": [
         {
-          "entries": 41,
+          "entries": 42,
           "name": "Super Stock",
-          "percent_full": "74.5%",
+          "percent_full": "76.4%",
           "quota": 55
         },
         {
@@ -204,15 +204,15 @@
     {
       "classes": [
         {
-          "entries": 4,
+          "entries": 5,
           "name": "Super Stock",
-          "percent_full": "7.3%",
+          "percent_full": "9.1%",
           "quota": 55
         },
         {
-          "entries": 7,
+          "entries": 8,
           "name": "Stock Eliminator",
-          "percent_full": "12.7%",
+          "percent_full": "14.5%",
           "quota": 55
         },
         {
@@ -222,9 +222,9 @@
           "quota": 55
         },
         {
-          "entries": 40,
+          "entries": 42,
           "name": "Super Gas",
-          "percent_full": "72.7%",
+          "percent_full": "76.4%",
           "quota": 55
         },
         {
@@ -234,9 +234,9 @@
           "quota": 36
         },
         {
-          "entries": 12,
+          "entries": 13,
           "name": "Top Dragster",
-          "percent_full": "33.3%",
+          "percent_full": "36.1%",
           "quota": 36
         }
       ],
@@ -261,15 +261,15 @@
           "quota": 45
         },
         {
-          "entries": 4,
+          "entries": 6,
           "name": "Super Comp",
-          "percent_full": "8.9%",
+          "percent_full": "13.3%",
           "quota": 45
         },
         {
-          "entries": 3,
+          "entries": 4,
           "name": "Super Gas",
-          "percent_full": "6.7%",
+          "percent_full": "8.9%",
           "quota": 45
         },
         {
@@ -285,9 +285,9 @@
           "quota": 36
         },
         {
-          "entries": 3,
+          "entries": 4,
           "name": "Top Dragster",
-          "percent_full": "8.3%",
+          "percent_full": "11.1%",
           "quota": 36
         }
       ],
@@ -298,6 +298,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1778686025,
-  "last_checked": "2026-05-13T15:27:05.507642Z"
+  "generated_epoch": 1778693610,
+  "last_checked": "2026-05-13T17:33:30.362398Z"
 }
