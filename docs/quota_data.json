@@ -75,9 +75,9 @@
           "quota": 50
         },
         {
-          "entries": 29,
+          "entries": 30,
           "name": "Super Comp",
-          "percent_full": "58.0%",
+          "percent_full": "60.0%",
           "quota": 50
         },
         {
@@ -126,15 +126,15 @@
           "quota": 55
         },
         {
-          "entries": 44,
+          "entries": 45,
           "name": "Super Comp",
-          "percent_full": "80.0%",
+          "percent_full": "81.8%",
           "quota": 55
         },
         {
-          "entries": 54,
+          "entries": 55,
           "name": "Super Gas",
-          "percent_full": "98.2%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
@@ -204,15 +204,15 @@
     {
       "classes": [
         {
-          "entries": 6,
+          "entries": 7,
           "name": "Super Stock",
-          "percent_full": "10.9%",
+          "percent_full": "12.7%",
           "quota": 55
         },
         {
-          "entries": 8,
+          "entries": 9,
           "name": "Stock Eliminator",
-          "percent_full": "14.5%",
+          "percent_full": "16.4%",
           "quota": 55
         },
         {
@@ -222,9 +222,9 @@
           "quota": 55
         },
         {
-          "entries": 45,
+          "entries": 48,
           "name": "Super Gas",
-          "percent_full": "81.8%",
+          "percent_full": "87.3%",
           "quota": 55
         },
         {
@@ -249,9 +249,9 @@
     {
       "classes": [
         {
-          "entries": 0,
+          "entries": 1,
           "name": "Super Stock",
-          "percent_full": "0.0%",
+          "percent_full": "2.2%",
           "quota": 45
         },
         {
@@ -261,15 +261,15 @@
           "quota": 45
         },
         {
-          "entries": 6,
+          "entries": 7,
           "name": "Super Comp",
-          "percent_full": "13.3%",
+          "percent_full": "15.6%",
           "quota": 45
         },
         {
-          "entries": 5,
+          "entries": 6,
           "name": "Super Gas",
-          "percent_full": "11.1%",
+          "percent_full": "13.3%",
           "quota": 45
         },
         {
@@ -298,6 +298,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1778700044,
-  "last_checked": "2026-05-13T19:20:44.593201Z"
+  "generated_epoch": 1778705983,
+  "last_checked": "2026-05-13T20:59:43.847416Z"
 }
