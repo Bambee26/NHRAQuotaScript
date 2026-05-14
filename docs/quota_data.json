@@ -58,7 +58,7 @@
       "has_data": true,
       "id": "2026MM1",
       "location": "27861 Budds Creek rd Md",
-      "name": "NHRA Ponomac Nationals"
+      "name": "presented by JEGS NHRA Potomac Nationals"
     },
     {
       "classes": [
@@ -222,9 +222,9 @@
           "quota": 55
         },
         {
-          "entries": 49,
+          "entries": 50,
           "name": "Super Gas",
-          "percent_full": "89.1%",
+          "percent_full": "90.9%",
           "quota": 55
         },
         {
@@ -298,6 +298,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1778782410,
-  "last_checked": "2026-05-14T18:13:30.230324Z"
+  "generated_epoch": 1778788917,
+  "last_checked": "2026-05-14T20:01:57.762675Z"
 }
