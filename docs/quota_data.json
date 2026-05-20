@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 6,
+          "entries": 8,
           "name": "Top Sportsman",
-          "percent_full": "16.7%",
+          "percent_full": "22.2%",
           "quota": 36
         }
       ],
@@ -75,9 +75,9 @@
           "quota": 55
         },
         {
-          "entries": 54,
+          "entries": 55,
           "name": "Stock Eliminator",
-          "percent_full": "98.2%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
@@ -108,9 +108,9 @@
     {
       "classes": [
         {
-          "entries": 55,
+          "entries": 56,
           "name": "Super Stock",
-          "percent_full": "100.0%",
+          "percent_full": "101.8%",
           "quota": 55
         },
         {
@@ -132,9 +132,9 @@
           "quota": 55
         },
         {
-          "entries": 44,
+          "entries": 47,
           "name": "Super Street",
-          "percent_full": "88.0%",
+          "percent_full": "94.0%",
           "quota": 50
         },
         {
@@ -144,9 +144,9 @@
           "quota": 36
         },
         {
-          "entries": 15,
+          "entries": 17,
           "name": "Top Dragster",
-          "percent_full": "41.7%",
+          "percent_full": "47.2%",
           "quota": 36
         }
       ],
@@ -189,9 +189,9 @@
           "quota": 36
         },
         {
-          "entries": 14,
+          "entries": 19,
           "name": "Top Dragster",
-          "percent_full": "38.9%",
+          "percent_full": "52.8%",
           "quota": 36
         }
       ],
@@ -253,6 +253,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1779286191,
-  "last_checked": "2026-05-20T14:09:51.111168Z"
+  "generated_epoch": 1779297983,
+  "last_checked": "2026-05-20T17:26:23.226731Z"
 }
