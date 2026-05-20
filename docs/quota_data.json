@@ -13,7 +13,7 @@
       "has_data": true,
       "id": "2026MM1",
       "location": "27861 Budds Creek rd Md",
-      "name": "presented by JEGS NHRA Potomac Nationals"
+      "name": "NHRA Potomac Nationals presented by JEGS"
     },
     {
       "classes": [
@@ -30,21 +30,21 @@
           "quota": 50
         },
         {
-          "entries": 33,
+          "entries": 36,
           "name": "Super Comp",
-          "percent_full": "66.0%",
+          "percent_full": "72.0%",
           "quota": 50
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Super Gas",
-          "percent_full": "36.0%",
+          "percent_full": "38.0%",
           "quota": 50
         },
         {
-          "entries": 22,
+          "entries": 23,
           "name": "Super Street",
-          "percent_full": "44.0%",
+          "percent_full": "46.0%",
           "quota": 50
         },
         {
@@ -64,7 +64,7 @@
       "has_data": true,
       "id": "2026NH1",
       "location": "Epping NH",
-      "name": "NHRA New England Nationals"
+      "name": "NHRA New England Nationals presented by bproauto"
     },
     {
       "classes": [
@@ -81,9 +81,9 @@
           "quota": 55
         },
         {
-          "entries": 48,
+          "entries": 50,
           "name": "Super Comp",
-          "percent_full": "87.3%",
+          "percent_full": "90.9%",
           "quota": 55
         },
         {
@@ -253,6 +253,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1779276874,
-  "last_checked": "2026-05-20T11:34:34.393214Z"
+  "generated_epoch": 1779286191,
+  "last_checked": "2026-05-20T14:09:51.111168Z"
 }
