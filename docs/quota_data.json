@@ -18,9 +18,9 @@
     {
       "classes": [
         {
-          "entries": 27,
+          "entries": 28,
           "name": "Super Stock",
-          "percent_full": "54.0%",
+          "percent_full": "56.0%",
           "quota": 50
         },
         {
@@ -36,9 +36,9 @@
           "quota": 50
         },
         {
-          "entries": 25,
+          "entries": 26,
           "name": "Super Gas",
-          "percent_full": "50.0%",
+          "percent_full": "52.0%",
           "quota": 50
         },
         {
@@ -75,9 +75,9 @@
           "quota": 55
         },
         {
-          "entries": 53,
+          "entries": 54,
           "name": "Stock Eliminator",
-          "percent_full": "96.4%",
+          "percent_full": "98.2%",
           "quota": 55
         },
         {
@@ -216,9 +216,9 @@
           "quota": 45
         },
         {
-          "entries": 16,
+          "entries": 17,
           "name": "Super Comp",
-          "percent_full": "35.6%",
+          "percent_full": "37.8%",
           "quota": 45
         },
         {
@@ -253,6 +253,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1779811820,
-  "last_checked": "2026-05-26T16:10:20.253506Z"
+  "generated_epoch": 1779820564,
+  "last_checked": "2026-05-26T18:36:04.188559Z"
 }
