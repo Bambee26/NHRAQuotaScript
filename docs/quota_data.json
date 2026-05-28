@@ -36,9 +36,9 @@
           "quota": 50
         },
         {
-          "entries": 29,
+          "entries": 30,
           "name": "Super Gas",
-          "percent_full": "58.0%",
+          "percent_full": "60.0%",
           "quota": 50
         },
         {
@@ -48,9 +48,9 @@
           "quota": 50
         },
         {
-          "entries": 15,
+          "entries": 14,
           "name": "Top Sportsman",
-          "percent_full": "41.7%",
+          "percent_full": "38.9%",
           "quota": 36
         },
         {
@@ -67,40 +67,9 @@
       "name": "NHRA New England Nationals presented by bproauto"
     },
     {
-      "classes": [
-        {
-          "entries": 46,
-          "name": "Super Stock",
-          "percent_full": "83.6%",
-          "quota": 55
-        },
-        {
-          "entries": 54,
-          "name": "Stock Eliminator",
-          "percent_full": "98.2%",
-          "quota": 55
-        },
-        {
-          "entries": 54,
-          "name": "Super Comp",
-          "percent_full": "98.2%",
-          "quota": 55
-        },
-        {
-          "entries": 55,
-          "name": "Super Gas",
-          "percent_full": "100.0%",
-          "quota": 55
-        },
-        {
-          "entries": 9,
-          "name": "Top Sportsman",
-          "percent_full": "25.0%",
-          "quota": 36
-        }
-      ],
+      "classes": [],
       "date": "06/12/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026BT1",
       "location": "Bristol TN",
       "name": "Super Grip NHRA Thunder Valley Nationals"
@@ -108,9 +77,9 @@
     {
       "classes": [
         {
-          "entries": 56,
+          "entries": 55,
           "name": "Super Stock",
-          "percent_full": "101.8%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
@@ -144,9 +113,9 @@
           "quota": 36
         },
         {
-          "entries": 25,
+          "entries": 26,
           "name": "Top Dragster",
-          "percent_full": "69.4%",
+          "percent_full": "72.2%",
           "quota": 36
         }
       ],
@@ -253,6 +222,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1779971945,
-  "last_checked": "2026-05-28T12:39:05.704338Z"
+  "generated_epoch": 1779986509,
+  "last_checked": "2026-05-28T16:41:49.481159Z"
 }
