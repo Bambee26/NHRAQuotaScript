@@ -159,9 +159,9 @@
     {
       "classes": [
         {
-          "entries": 15,
+          "entries": 16,
           "name": "Super Stock",
-          "percent_full": "27.3%",
+          "percent_full": "29.1%",
           "quota": 55
         },
         {
@@ -240,9 +240,9 @@
           "quota": 36
         },
         {
-          "entries": 10,
+          "entries": 11,
           "name": "Top Dragster",
-          "percent_full": "27.8%",
+          "percent_full": "30.6%",
           "quota": 36
         }
       ],
@@ -253,6 +253,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1779925218,
-  "last_checked": "2026-05-27T23:40:18.234591Z"
+  "generated_epoch": 1779931490,
+  "last_checked": "2026-05-28T01:24:50.587524Z"
 }
