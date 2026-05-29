@@ -16,9 +16,52 @@
       "name": "NHRA Potomac Nationals presented by JEGS"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 34,
+          "name": "Super Stock",
+          "percent_full": "68.0%",
+          "quota": 50
+        },
+        {
+          "entries": 51,
+          "name": "Stock Eliminator",
+          "percent_full": "102.0%",
+          "quota": 50
+        },
+        {
+          "entries": 43,
+          "name": "Super Comp",
+          "percent_full": "86.0%",
+          "quota": 50
+        },
+        {
+          "entries": 29,
+          "name": "Super Gas",
+          "percent_full": "58.0%",
+          "quota": 50
+        },
+        {
+          "entries": 25,
+          "name": "Super Street",
+          "percent_full": "50.0%",
+          "quota": 50
+        },
+        {
+          "entries": 14,
+          "name": "Top Sportsman",
+          "percent_full": "38.9%",
+          "quota": 36
+        },
+        {
+          "entries": 32,
+          "name": "Top Dragster",
+          "percent_full": "88.9%",
+          "quota": 36
+        }
+      ],
       "date": "06/05/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026NH1",
       "location": "Epping NH",
       "name": "NHRA New England Nationals presented by bproauto"
@@ -26,15 +69,15 @@
     {
       "classes": [
         {
-          "entries": 47,
+          "entries": 48,
           "name": "Super Stock",
-          "percent_full": "85.5%",
+          "percent_full": "87.3%",
           "quota": 55
         },
         {
-          "entries": 54,
+          "entries": 55,
           "name": "Stock Eliminator",
-          "percent_full": "98.2%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
@@ -44,15 +87,15 @@
           "quota": 55
         },
         {
-          "entries": 55,
+          "entries": 54,
           "name": "Super Gas",
-          "percent_full": "100.0%",
+          "percent_full": "98.2%",
           "quota": 55
         },
         {
-          "entries": 9,
+          "entries": 10,
           "name": "Top Sportsman",
-          "percent_full": "25.0%",
+          "percent_full": "27.8%",
           "quota": 36
         }
       ],
@@ -210,6 +253,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780052012,
-  "last_checked": "2026-05-29T10:53:32.675979Z"
+  "generated_epoch": 1780062666,
+  "last_checked": "2026-05-29T13:51:06.730148Z"
 }
