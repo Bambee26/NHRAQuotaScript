@@ -48,9 +48,9 @@
           "quota": 50
         },
         {
-          "entries": 14,
+          "entries": 15,
           "name": "Top Sportsman",
-          "percent_full": "38.9%",
+          "percent_full": "41.7%",
           "quota": 36
         },
         {
@@ -67,9 +67,40 @@
       "name": "NHRA New England Nationals presented by bproauto"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 48,
+          "name": "Super Stock",
+          "percent_full": "87.3%",
+          "quota": 55
+        },
+        {
+          "entries": 55,
+          "name": "Stock Eliminator",
+          "percent_full": "100.0%",
+          "quota": 55
+        },
+        {
+          "entries": 54,
+          "name": "Super Comp",
+          "percent_full": "98.2%",
+          "quota": 55
+        },
+        {
+          "entries": 55,
+          "name": "Super Gas",
+          "percent_full": "100.0%",
+          "quota": 55
+        },
+        {
+          "entries": 10,
+          "name": "Top Sportsman",
+          "percent_full": "27.8%",
+          "quota": 36
+        }
+      ],
       "date": "06/12/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026BT1",
       "location": "Bristol TN",
       "name": "Super Grip NHRA Thunder Valley Nationals"
@@ -222,6 +253,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780095010,
-  "last_checked": "2026-05-29T22:50:10.966963Z"
+  "generated_epoch": 1780099080,
+  "last_checked": "2026-05-29T23:58:00.660718Z"
 }
