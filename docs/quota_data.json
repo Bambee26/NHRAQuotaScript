@@ -9,9 +9,9 @@
           "quota": 50
         },
         {
-          "entries": 51,
+          "entries": 50,
           "name": "Stock Eliminator",
-          "percent_full": "102.0%",
+          "percent_full": "100.0%",
           "quota": 50
         },
         {
@@ -238,6 +238,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780141931,
-  "last_checked": "2026-05-30T11:52:11.870437Z"
+  "generated_epoch": 1780145667,
+  "last_checked": "2026-05-30T12:54:27.177332Z"
 }
