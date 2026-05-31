@@ -91,52 +91,9 @@
       "name": "Super Grip NHRA Thunder Valley Nationals"
     },
     {
-      "classes": [
-        {
-          "entries": 56,
-          "name": "Super Stock",
-          "percent_full": "101.8%",
-          "quota": 55
-        },
-        {
-          "entries": 55,
-          "name": "Stock Eliminator",
-          "percent_full": "100.0%",
-          "quota": 55
-        },
-        {
-          "entries": 58,
-          "name": "Super Comp",
-          "percent_full": "105.5%",
-          "quota": 55
-        },
-        {
-          "entries": 56,
-          "name": "Super Gas",
-          "percent_full": "101.8%",
-          "quota": 55
-        },
-        {
-          "entries": 50,
-          "name": "Super Street",
-          "percent_full": "100.0%",
-          "quota": 50
-        },
-        {
-          "entries": 5,
-          "name": "Top Sportsman",
-          "percent_full": "13.9%",
-          "quota": 36
-        },
-        {
-          "entries": 31,
-          "name": "Top Dragster",
-          "percent_full": "86.1%",
-          "quota": 36
-        }
-      ],
+      "classes": [],
       "date": "06/25/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026NO1",
       "location": "Norwalk OH",
       "name": "Summit Racing Equipment NHRA Nationals"
@@ -238,6 +195,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780203063,
-  "last_checked": "2026-05-31T04:51:03.728547Z"
+  "generated_epoch": 1780214434,
+  "last_checked": "2026-05-31T08:00:34.143134Z"
 }
