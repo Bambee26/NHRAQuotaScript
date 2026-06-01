@@ -3,21 +3,21 @@
     {
       "classes": [
         {
-          "entries": 37,
+          "entries": 38,
           "name": "Super Stock",
-          "percent_full": "74.0%",
+          "percent_full": "76.0%",
           "quota": 50
         },
         {
-          "entries": 50,
+          "entries": 49,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "98.0%",
           "quota": 50
         },
         {
-          "entries": 44,
+          "entries": 45,
           "name": "Super Comp",
-          "percent_full": "88.0%",
+          "percent_full": "90.0%",
           "quota": 50
         },
         {
@@ -27,9 +27,9 @@
           "quota": 50
         },
         {
-          "entries": 30,
+          "entries": 31,
           "name": "Super Street",
-          "percent_full": "60.0%",
+          "percent_full": "62.0%",
           "quota": 50
         },
         {
@@ -39,9 +39,9 @@
           "quota": 36
         },
         {
-          "entries": 33,
+          "entries": 34,
           "name": "Top Dragster",
-          "percent_full": "91.7%",
+          "percent_full": "94.4%",
           "quota": 36
         }
       ],
@@ -54,21 +54,21 @@
     {
       "classes": [
         {
-          "entries": 51,
+          "entries": 48,
           "name": "Super Stock",
-          "percent_full": "92.7%",
+          "percent_full": "87.3%",
           "quota": 55
         },
         {
-          "entries": 55,
+          "entries": 54,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "98.2%",
           "quota": 55
         },
         {
-          "entries": 55,
+          "entries": 54,
           "name": "Super Comp",
-          "percent_full": "100.0%",
+          "percent_full": "98.2%",
           "quota": 55
         },
         {
@@ -123,9 +123,9 @@
           "quota": 50
         },
         {
-          "entries": 6,
+          "entries": 7,
           "name": "Top Sportsman",
-          "percent_full": "16.7%",
+          "percent_full": "19.4%",
           "quota": 36
         },
         {
@@ -238,6 +238,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780318027,
-  "last_checked": "2026-06-01T12:47:07.083554Z"
+  "generated_epoch": 1780338563,
+  "last_checked": "2026-06-01T18:29:23.637319Z"
 }
