@@ -27,9 +27,9 @@
           "quota": 50
         },
         {
-          "entries": 31,
+          "entries": 32,
           "name": "Super Street",
-          "percent_full": "62.0%",
+          "percent_full": "64.0%",
           "quota": 50
         },
         {
@@ -238,6 +238,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780397900,
-  "last_checked": "2026-06-02T10:58:20.638980Z"
+  "generated_epoch": 1780411965,
+  "last_checked": "2026-06-02T14:52:45.655004Z"
 }
