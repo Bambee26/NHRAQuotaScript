@@ -60,15 +60,15 @@
           "quota": 55
         },
         {
-          "entries": 51,
+          "entries": 52,
           "name": "Stock Eliminator",
-          "percent_full": "92.7%",
+          "percent_full": "94.5%",
           "quota": 55
         },
         {
-          "entries": 53,
+          "entries": 54,
           "name": "Super Comp",
-          "percent_full": "96.4%",
+          "percent_full": "98.2%",
           "quota": 55
         },
         {
@@ -105,9 +105,9 @@
           "quota": 55
         },
         {
-          "entries": 57,
+          "entries": 58,
           "name": "Super Comp",
-          "percent_full": "103.6%",
+          "percent_full": "105.5%",
           "quota": 55
         },
         {
@@ -123,9 +123,9 @@
           "quota": 50
         },
         {
-          "entries": 8,
+          "entries": 10,
           "name": "Top Sportsman",
-          "percent_full": "22.2%",
+          "percent_full": "27.8%",
           "quota": 36
         },
         {
@@ -144,9 +144,9 @@
     {
       "classes": [
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Super Stock",
-          "percent_full": "34.5%",
+          "percent_full": "36.4%",
           "quota": 55
         },
         {
@@ -201,9 +201,9 @@
           "quota": 45
         },
         {
-          "entries": 21,
+          "entries": 24,
           "name": "Super Comp",
-          "percent_full": "46.7%",
+          "percent_full": "53.3%",
           "quota": 45
         },
         {
@@ -225,9 +225,9 @@
           "quota": 36
         },
         {
-          "entries": 13,
+          "entries": 14,
           "name": "Top Dragster",
-          "percent_full": "36.1%",
+          "percent_full": "38.9%",
           "quota": 36
         }
       ],
@@ -238,6 +238,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780502549,
-  "last_checked": "2026-06-03T16:02:29.410289Z"
+  "generated_epoch": 1780516589,
+  "last_checked": "2026-06-03T19:56:29.470445Z"
 }
