@@ -123,9 +123,9 @@
           "quota": 50
         },
         {
-          "entries": 10,
+          "entries": 11,
           "name": "Top Sportsman",
-          "percent_full": "27.8%",
+          "percent_full": "30.6%",
           "quota": 36
         },
         {
@@ -238,6 +238,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780516589,
-  "last_checked": "2026-06-03T19:56:29.470445Z"
+  "generated_epoch": 1780525548,
+  "last_checked": "2026-06-03T22:25:48.782560Z"
 }
