@@ -3,57 +3,6 @@
     {
       "classes": [
         {
-          "entries": 37,
-          "name": "Super Stock",
-          "percent_full": "74.0%",
-          "quota": 50
-        },
-        {
-          "entries": 49,
-          "name": "Stock Eliminator",
-          "percent_full": "98.0%",
-          "quota": 50
-        },
-        {
-          "entries": 45,
-          "name": "Super Comp",
-          "percent_full": "90.0%",
-          "quota": 50
-        },
-        {
-          "entries": 31,
-          "name": "Super Gas",
-          "percent_full": "62.0%",
-          "quota": 50
-        },
-        {
-          "entries": 32,
-          "name": "Super Street",
-          "percent_full": "64.0%",
-          "quota": 50
-        },
-        {
-          "entries": 17,
-          "name": "Top Sportsman",
-          "percent_full": "47.2%",
-          "quota": 36
-        },
-        {
-          "entries": 34,
-          "name": "Top Dragster",
-          "percent_full": "94.4%",
-          "quota": 36
-        }
-      ],
-      "date": "06/05/2026",
-      "has_data": true,
-      "id": "2026NH1",
-      "location": "Epping NH",
-      "name": "NHRA New England Nationals presented by bproauto"
-    },
-    {
-      "classes": [
-        {
           "entries": 49,
           "name": "Super Stock",
           "percent_full": "89.1%",
@@ -168,15 +117,15 @@
           "quota": 55
         },
         {
-          "entries": 9,
+          "entries": 10,
           "name": "Top Sportsman",
-          "percent_full": "25.0%",
+          "percent_full": "27.8%",
           "quota": 36
         },
         {
-          "entries": 29,
+          "entries": 30,
           "name": "Top Dragster",
-          "percent_full": "80.6%",
+          "percent_full": "83.3%",
           "quota": 36
         }
       ],
@@ -238,6 +187,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780703585,
-  "last_checked": "2026-06-05T23:53:05.636881Z"
+  "generated_epoch": 1780710526,
+  "last_checked": "2026-06-06T01:48:46.657439Z"
 }
