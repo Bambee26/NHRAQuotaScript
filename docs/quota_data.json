@@ -3,33 +3,33 @@
     {
       "classes": [
         {
-          "entries": 48,
+          "entries": 45,
           "name": "Super Stock",
-          "percent_full": "87.3%",
+          "percent_full": "81.8%",
           "quota": 55
         },
         {
-          "entries": 50,
+          "entries": 47,
           "name": "Stock Eliminator",
-          "percent_full": "90.9%",
+          "percent_full": "85.5%",
           "quota": 55
         },
         {
-          "entries": 43,
+          "entries": 41,
           "name": "Super Comp",
-          "percent_full": "78.2%",
+          "percent_full": "74.5%",
           "quota": 55
         },
         {
-          "entries": 56,
+          "entries": 55,
           "name": "Super Gas",
-          "percent_full": "101.8%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
-          "entries": 15,
+          "entries": 16,
           "name": "Top Sportsman",
-          "percent_full": "41.7%",
+          "percent_full": "44.4%",
           "quota": 36
         }
       ],
@@ -54,15 +54,15 @@
           "quota": 55
         },
         {
-          "entries": 58,
+          "entries": 59,
           "name": "Super Comp",
-          "percent_full": "105.5%",
+          "percent_full": "107.3%",
           "quota": 55
         },
         {
-          "entries": 56,
+          "entries": 57,
           "name": "Super Gas",
-          "percent_full": "101.8%",
+          "percent_full": "103.6%",
           "quota": 55
         },
         {
@@ -156,9 +156,9 @@
           "quota": 45
         },
         {
-          "entries": 14,
+          "entries": 15,
           "name": "Super Gas",
-          "percent_full": "31.1%",
+          "percent_full": "33.3%",
           "quota": 45
         },
         {
@@ -187,6 +187,6 @@
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
     }
   ],
-  "generated_epoch": 1780918266,
-  "last_checked": "2026-06-08T11:31:06.116593Z"
+  "generated_epoch": 1780930710,
+  "last_checked": "2026-06-08T14:58:30.990755Z"
 }
