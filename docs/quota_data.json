@@ -3,21 +3,21 @@
     {
       "classes": [
         {
-          "entries": 42,
-          "name": "Super Stock",
-          "percent_full": "76.4%",
-          "quota": 55
-        },
-        {
           "entries": 41,
-          "name": "Stock Eliminator",
+          "name": "Super Stock",
           "percent_full": "74.5%",
           "quota": 55
         },
         {
-          "entries": 38,
+          "entries": 39,
+          "name": "Stock Eliminator",
+          "percent_full": "70.9%",
+          "quota": 55
+        },
+        {
+          "entries": 36,
           "name": "Super Comp",
-          "percent_full": "69.1%",
+          "percent_full": "65.5%",
           "quota": 55
         },
         {
@@ -27,9 +27,9 @@
           "quota": 55
         },
         {
-          "entries": 16,
+          "entries": 15,
           "name": "Top Sportsman",
-          "percent_full": "44.4%",
+          "percent_full": "41.7%",
           "quota": 36
         }
       ],
@@ -93,9 +93,9 @@
     {
       "classes": [
         {
-          "entries": 20,
+          "entries": 21,
           "name": "Super Stock",
-          "percent_full": "36.4%",
+          "percent_full": "38.2%",
           "quota": 55
         },
         {
@@ -105,9 +105,9 @@
           "quota": 55
         },
         {
-          "entries": 56,
+          "entries": 55,
           "name": "Super Comp",
-          "percent_full": "101.8%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
@@ -123,9 +123,9 @@
           "quota": 36
         },
         {
-          "entries": 30,
+          "entries": 32,
           "name": "Top Dragster",
-          "percent_full": "83.3%",
+          "percent_full": "88.9%",
           "quota": 36
         }
       ],
@@ -156,9 +156,9 @@
           "quota": 45
         },
         {
-          "entries": 15,
+          "entries": 16,
           "name": "Super Gas",
-          "percent_full": "33.3%",
+          "percent_full": "35.6%",
           "quota": 45
         },
         {
@@ -185,8 +185,59 @@
       "id": "2026SW1",
       "location": "Seattle WA",
       "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
+    },
+    {
+      "classes": [
+        {
+          "entries": 6,
+          "name": "Super Stock",
+          "percent_full": "10.0%",
+          "quota": 60
+        },
+        {
+          "entries": 38,
+          "name": "Stock Eliminator",
+          "percent_full": "63.3%",
+          "quota": 60
+        },
+        {
+          "entries": 30,
+          "name": "Super Comp",
+          "percent_full": "50.0%",
+          "quota": 60
+        },
+        {
+          "entries": 22,
+          "name": "Super Gas",
+          "percent_full": "36.7%",
+          "quota": 60
+        },
+        {
+          "entries": 7,
+          "name": "Super Street",
+          "percent_full": "14.0%",
+          "quota": 50
+        },
+        {
+          "entries": 0,
+          "name": "Top Sportsman",
+          "percent_full": "0.0%",
+          "quota": 36
+        },
+        {
+          "entries": 3,
+          "name": "Top Dragster",
+          "percent_full": "8.3%",
+          "quota": 36
+        }
+      ],
+      "date": "08/20/2026",
+      "has_data": true,
+      "id": "2026BM1",
+      "location": "Brainerd MN",
+      "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781099515,
-  "last_checked": "2026-06-10T13:51:55.519770Z"
+  "generated_epoch": 1781110324,
+  "last_checked": "2026-06-10T16:52:04.475649Z"
 }
