@@ -195,9 +195,9 @@
           "quota": 60
         },
         {
-          "entries": 47,
+          "entries": 48,
           "name": "Stock Eliminator",
-          "percent_full": "78.3%",
+          "percent_full": "80.0%",
           "quota": 60
         },
         {
@@ -207,9 +207,9 @@
           "quota": 60
         },
         {
-          "entries": 27,
+          "entries": 28,
           "name": "Super Gas",
-          "percent_full": "45.0%",
+          "percent_full": "46.7%",
           "quota": 60
         },
         {
@@ -238,6 +238,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781175762,
-  "last_checked": "2026-06-11T11:02:42.070539Z"
+  "generated_epoch": 1781189365,
+  "last_checked": "2026-06-11T14:49:25.599823Z"
 }
