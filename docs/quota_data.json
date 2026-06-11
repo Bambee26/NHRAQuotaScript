@@ -201,9 +201,9 @@
           "quota": 60
         },
         {
-          "entries": 35,
+          "entries": 36,
           "name": "Super Comp",
-          "percent_full": "58.3%",
+          "percent_full": "60.0%",
           "quota": 60
         },
         {
@@ -238,6 +238,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781133096,
-  "last_checked": "2026-06-10T23:11:36.017478Z"
+  "generated_epoch": 1781141899,
+  "last_checked": "2026-06-11T01:38:19.300857Z"
 }
