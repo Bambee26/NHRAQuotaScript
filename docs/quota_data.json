@@ -168,15 +168,15 @@
           "quota": 45
         },
         {
-          "entries": 1,
+          "entries": 2,
           "name": "Top Sportsman",
-          "percent_full": "2.8%",
+          "percent_full": "5.6%",
           "quota": 36
         },
         {
-          "entries": 16,
+          "entries": 18,
           "name": "Top Dragster",
-          "percent_full": "44.4%",
+          "percent_full": "50.0%",
           "quota": 36
         }
       ],
@@ -238,6 +238,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781292227,
-  "last_checked": "2026-06-12T19:23:47.944773Z"
+  "generated_epoch": 1781298570,
+  "last_checked": "2026-06-12T21:09:30.990025Z"
 }
