@@ -3,45 +3,6 @@
     {
       "classes": [
         {
-          "entries": 41,
-          "name": "Super Stock",
-          "percent_full": "74.5%",
-          "quota": 55
-        },
-        {
-          "entries": 39,
-          "name": "Stock Eliminator",
-          "percent_full": "70.9%",
-          "quota": 55
-        },
-        {
-          "entries": 35,
-          "name": "Super Comp",
-          "percent_full": "63.6%",
-          "quota": 55
-        },
-        {
-          "entries": 50,
-          "name": "Super Gas",
-          "percent_full": "90.9%",
-          "quota": 55
-        },
-        {
-          "entries": 15,
-          "name": "Top Sportsman",
-          "percent_full": "41.7%",
-          "quota": 36
-        }
-      ],
-      "date": "06/12/2026",
-      "has_data": true,
-      "id": "2026BT1",
-      "location": "Bristol TN",
-      "name": "Super Grip NHRA Thunder Valley Nationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 58,
           "name": "Super Stock",
           "percent_full": "105.5%",
@@ -72,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Top Sportsman",
-          "percent_full": "52.8%",
+          "percent_full": "55.6%",
           "quota": 36
         },
         {
@@ -238,6 +199,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781304295,
-  "last_checked": "2026-06-12T22:44:55.199627Z"
+  "generated_epoch": 1781309207,
+  "last_checked": "2026-06-13T00:06:47.507108Z"
 }
