@@ -33,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 26,
+          "entries": 27,
           "name": "Top Sportsman",
-          "percent_full": "72.2%",
+          "percent_full": "75.0%",
           "quota": 36
         },
         {
@@ -199,6 +199,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781612898,
-  "last_checked": "2026-06-16T12:28:18.115301Z"
+  "generated_epoch": 1781631096,
+  "last_checked": "2026-06-16T17:31:36.281388Z"
 }
