@@ -39,9 +39,9 @@
           "quota": 36
         },
         {
-          "entries": 37,
+          "entries": 38,
           "name": "Top Dragster",
-          "percent_full": "102.8%",
+          "percent_full": "105.6%",
           "quota": 36
         }
       ],
@@ -99,9 +99,9 @@
     {
       "classes": [
         {
-          "entries": 12,
+          "entries": 13,
           "name": "Super Stock",
-          "percent_full": "26.7%",
+          "percent_full": "28.9%",
           "quota": 45
         },
         {
@@ -150,33 +150,33 @@
     {
       "classes": [
         {
-          "entries": 20,
+          "entries": 23,
           "name": "Super Stock",
-          "percent_full": "33.3%",
+          "percent_full": "38.3%",
           "quota": 60
         },
         {
-          "entries": 57,
+          "entries": 56,
           "name": "Stock Eliminator",
-          "percent_full": "95.0%",
+          "percent_full": "93.3%",
           "quota": 60
         },
         {
-          "entries": 46,
+          "entries": 48,
           "name": "Super Comp",
-          "percent_full": "76.7%",
+          "percent_full": "80.0%",
           "quota": 60
         },
         {
-          "entries": 34,
+          "entries": 36,
           "name": "Super Gas",
-          "percent_full": "56.7%",
+          "percent_full": "60.0%",
           "quota": 60
         },
         {
-          "entries": 11,
+          "entries": 12,
           "name": "Super Street",
-          "percent_full": "22.0%",
+          "percent_full": "24.0%",
           "quota": 50
         },
         {
@@ -199,6 +199,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781713570,
-  "last_checked": "2026-06-17T16:26:10.365322Z"
+  "generated_epoch": 1781721580,
+  "last_checked": "2026-06-17T18:39:40.060606Z"
 }
