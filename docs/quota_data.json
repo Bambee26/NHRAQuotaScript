@@ -33,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 27,
+          "entries": 28,
           "name": "Top Sportsman",
-          "percent_full": "75.0%",
+          "percent_full": "77.8%",
           "quota": 36
         },
         {
@@ -129,9 +129,9 @@
           "quota": 45
         },
         {
-          "entries": 2,
+          "entries": 3,
           "name": "Top Sportsman",
-          "percent_full": "5.6%",
+          "percent_full": "8.3%",
           "quota": 36
         },
         {
@@ -174,15 +174,15 @@
           "quota": 60
         },
         {
-          "entries": 14,
+          "entries": 15,
           "name": "Super Street",
-          "percent_full": "28.0%",
+          "percent_full": "30.0%",
           "quota": 50
         },
         {
-          "entries": 1,
+          "entries": 2,
           "name": "Top Sportsman",
-          "percent_full": "2.8%",
+          "percent_full": "5.6%",
           "quota": 36
         },
         {
@@ -199,6 +199,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781740583,
-  "last_checked": "2026-06-17T23:56:23.883294Z"
+  "generated_epoch": 1781751412,
+  "last_checked": "2026-06-18T02:56:52.554190Z"
 }
