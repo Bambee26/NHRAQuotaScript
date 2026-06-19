@@ -60,9 +60,9 @@
           "quota": 55
         },
         {
-          "entries": 25,
+          "entries": 27,
           "name": "Stock Eliminator",
-          "percent_full": "45.5%",
+          "percent_full": "49.1%",
           "quota": 55
         },
         {
@@ -84,9 +84,9 @@
           "quota": 36
         },
         {
-          "entries": 36,
+          "entries": 37,
           "name": "Top Dragster",
-          "percent_full": "100.0%",
+          "percent_full": "102.8%",
           "quota": 36
         }
       ],
@@ -199,6 +199,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1781827330,
-  "last_checked": "2026-06-19T00:02:10.133478Z"
+  "generated_epoch": 1781846172,
+  "last_checked": "2026-06-19T05:16:12.681616Z"
 }
