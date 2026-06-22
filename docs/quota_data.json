@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 54,
+          "entries": 55,
           "name": "Super Stock",
-          "percent_full": "98.2%",
+          "percent_full": "100.0%",
           "quota": 55
         },
         {
@@ -199,6 +199,6 @@
       "name": "NHRA Brainerd Nationals"
     }
   ],
-  "generated_epoch": 1782113909,
-  "last_checked": "2026-06-22T07:38:29.376520Z"
+  "generated_epoch": 1782134130,
+  "last_checked": "2026-06-22T13:15:30.424839Z"
 }
