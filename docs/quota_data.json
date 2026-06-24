@@ -150,9 +150,9 @@
     {
       "classes": [
         {
-          "entries": 27,
+          "entries": 29,
           "name": "Super Stock",
-          "percent_full": "45.0%",
+          "percent_full": "48.3%",
           "quota": 60
         },
         {
@@ -162,21 +162,21 @@
           "quota": 60
         },
         {
-          "entries": 55,
+          "entries": 56,
           "name": "Super Comp",
-          "percent_full": "91.7%",
+          "percent_full": "93.3%",
           "quota": 60
         },
         {
-          "entries": 39,
+          "entries": 40,
           "name": "Super Gas",
-          "percent_full": "65.0%",
+          "percent_full": "66.7%",
           "quota": 60
         },
         {
-          "entries": 16,
+          "entries": 17,
           "name": "Super Street",
-          "percent_full": "32.0%",
+          "percent_full": "34.0%",
           "quota": 50
         },
         {
@@ -197,8 +197,53 @@
       "id": "2026BM1",
       "location": "Brainerd MN",
       "name": "NHRA Brainerd Nationals"
+    },
+    {
+      "classes": [
+        {
+          "entries": 17,
+          "name": "Super Stock",
+          "percent_full": "11.3%",
+          "quota": 150
+        },
+        {
+          "entries": 30,
+          "name": "Stock Eliminator",
+          "percent_full": "20.0%",
+          "quota": 150
+        },
+        {
+          "entries": 23,
+          "name": "Super Comp",
+          "percent_full": "15.3%",
+          "quota": 150
+        },
+        {
+          "entries": 12,
+          "name": "Super Gas",
+          "percent_full": "8.0%",
+          "quota": 150
+        },
+        {
+          "entries": 0,
+          "name": "Top Sportsman",
+          "percent_full": "0.0%",
+          "quota": 40
+        },
+        {
+          "entries": 7,
+          "name": "Top Dragster",
+          "percent_full": "17.5%",
+          "quota": 40
+        }
+      ],
+      "date": "09/02/2026",
+      "has_data": true,
+      "id": "2026II1",
+      "location": "Brownsburg IN",
+      "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782306834,
-  "last_checked": "2026-06-24T13:13:54.155755Z"
+  "generated_epoch": 1782315538,
+  "last_checked": "2026-06-24T15:38:58.080832Z"
 }
