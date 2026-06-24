@@ -78,9 +78,9 @@
           "quota": 55
         },
         {
-          "entries": 16,
+          "entries": 17,
           "name": "Top Sportsman",
-          "percent_full": "44.4%",
+          "percent_full": "47.2%",
           "quota": 36
         },
         {
@@ -123,9 +123,9 @@
           "quota": 45
         },
         {
-          "entries": 9,
+          "entries": 10,
           "name": "Super Street",
-          "percent_full": "20.0%",
+          "percent_full": "22.2%",
           "quota": 45
         },
         {
@@ -156,9 +156,9 @@
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 59,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -186,9 +186,9 @@
           "quota": 36
         },
         {
-          "entries": 6,
+          "entries": 7,
           "name": "Top Dragster",
-          "percent_full": "16.7%",
+          "percent_full": "19.4%",
           "quota": 36
         }
       ],
@@ -201,21 +201,21 @@
     {
       "classes": [
         {
-          "entries": 19,
+          "entries": 21,
           "name": "Super Stock",
-          "percent_full": "12.7%",
+          "percent_full": "14.0%",
           "quota": 150
         },
         {
-          "entries": 42,
+          "entries": 46,
           "name": "Stock Eliminator",
-          "percent_full": "28.0%",
+          "percent_full": "30.7%",
           "quota": 150
         },
         {
-          "entries": 28,
+          "entries": 30,
           "name": "Super Comp",
-          "percent_full": "18.7%",
+          "percent_full": "20.0%",
           "quota": 150
         },
         {
@@ -231,10 +231,16 @@
           "quota": 40
         },
         {
-          "entries": 7,
+          "entries": 8,
           "name": "Top Dragster",
-          "percent_full": "17.5%",
+          "percent_full": "20.0%",
           "quota": 40
+        },
+        {
+          "entries": 0,
+          "name": "Hemi Challenge",
+          "percent_full": "0.0%",
+          "quota": 50
         }
       ],
       "date": "09/02/2026",
@@ -244,6 +250,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782322236,
-  "last_checked": "2026-06-24T17:30:36.744994Z"
+  "generated_epoch": 1782328392,
+  "last_checked": "2026-06-24T19:13:12.715426Z"
 }
