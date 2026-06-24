@@ -111,9 +111,9 @@
           "quota": 45
         },
         {
-          "entries": 37,
+          "entries": 38,
           "name": "Super Comp",
-          "percent_full": "82.2%",
+          "percent_full": "84.4%",
           "quota": 45
         },
         {
@@ -201,9 +201,9 @@
     {
       "classes": [
         {
-          "entries": 21,
+          "entries": 22,
           "name": "Super Stock",
-          "percent_full": "14.0%",
+          "percent_full": "14.7%",
           "quota": 150
         },
         {
@@ -213,15 +213,15 @@
           "quota": 150
         },
         {
-          "entries": 31,
+          "entries": 33,
           "name": "Super Comp",
-          "percent_full": "20.7%",
+          "percent_full": "22.0%",
           "quota": 150
         },
         {
-          "entries": 14,
+          "entries": 18,
           "name": "Super Gas",
-          "percent_full": "9.3%",
+          "percent_full": "12.0%",
           "quota": 150
         },
         {
@@ -250,6 +250,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782334560,
-  "last_checked": "2026-06-24T20:56:00.604137Z"
+  "generated_epoch": 1782339034,
+  "last_checked": "2026-06-24T22:10:34.819360Z"
 }
