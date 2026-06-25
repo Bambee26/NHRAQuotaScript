@@ -60,9 +60,9 @@
           "quota": 55
         },
         {
-          "entries": 28,
+          "entries": 29,
           "name": "Stock Eliminator",
-          "percent_full": "50.9%",
+          "percent_full": "52.7%",
           "quota": 55
         },
         {
@@ -207,9 +207,9 @@
           "quota": 150
         },
         {
-          "entries": 61,
+          "entries": 62,
           "name": "Stock Eliminator",
-          "percent_full": "40.7%",
+          "percent_full": "41.3%",
           "quota": 150
         },
         {
@@ -250,6 +250,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782411678,
-  "last_checked": "2026-06-25T18:21:18.633800Z"
+  "generated_epoch": 1782419118,
+  "last_checked": "2026-06-25T20:25:18.349420Z"
 }
