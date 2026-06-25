@@ -174,9 +174,9 @@
           "quota": 60
         },
         {
-          "entries": 17,
+          "entries": 18,
           "name": "Super Street",
-          "percent_full": "34.0%",
+          "percent_full": "36.0%",
           "quota": 50
         },
         {
@@ -201,15 +201,15 @@
     {
       "classes": [
         {
-          "entries": 28,
+          "entries": 29,
           "name": "Super Stock",
-          "percent_full": "18.7%",
+          "percent_full": "19.3%",
           "quota": 150
         },
         {
-          "entries": 59,
+          "entries": 60,
           "name": "Stock Eliminator",
-          "percent_full": "39.3%",
+          "percent_full": "40.0%",
           "quota": 150
         },
         {
@@ -219,9 +219,9 @@
           "quota": 150
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Super Gas",
-          "percent_full": "12.0%",
+          "percent_full": "12.7%",
           "quota": 150
         },
         {
@@ -231,9 +231,9 @@
           "quota": 40
         },
         {
-          "entries": 9,
+          "entries": 10,
           "name": "Top Dragster",
-          "percent_full": "22.5%",
+          "percent_full": "25.0%",
           "quota": 40
         },
         {
@@ -250,6 +250,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782394191,
-  "last_checked": "2026-06-25T13:29:51.224926Z"
+  "generated_epoch": 1782403375,
+  "last_checked": "2026-06-25T16:02:55.814464Z"
 }
