@@ -117,15 +117,15 @@
           "quota": 45
         },
         {
-          "entries": 23,
+          "entries": 24,
           "name": "Super Gas",
-          "percent_full": "51.1%",
+          "percent_full": "53.3%",
           "quota": 45
         },
         {
-          "entries": 10,
+          "entries": 11,
           "name": "Super Street",
-          "percent_full": "22.2%",
+          "percent_full": "24.4%",
           "quota": 45
         },
         {
@@ -156,21 +156,21 @@
           "quota": 60
         },
         {
-          "entries": 59,
+          "entries": 60,
           "name": "Stock Eliminator",
-          "percent_full": "98.3%",
+          "percent_full": "100.0%",
           "quota": 60
         },
         {
-          "entries": 56,
+          "entries": 57,
           "name": "Super Comp",
-          "percent_full": "93.3%",
+          "percent_full": "95.0%",
           "quota": 60
         },
         {
-          "entries": 41,
+          "entries": 42,
           "name": "Super Gas",
-          "percent_full": "68.3%",
+          "percent_full": "70.0%",
           "quota": 60
         },
         {
@@ -201,15 +201,15 @@
     {
       "classes": [
         {
-          "entries": 24,
+          "entries": 26,
           "name": "Super Stock",
-          "percent_full": "16.0%",
+          "percent_full": "17.3%",
           "quota": 150
         },
         {
-          "entries": 50,
+          "entries": 52,
           "name": "Stock Eliminator",
-          "percent_full": "33.3%",
+          "percent_full": "34.7%",
           "quota": 150
         },
         {
@@ -225,15 +225,15 @@
           "quota": 150
         },
         {
-          "entries": 0,
+          "entries": 1,
           "name": "Top Sportsman",
-          "percent_full": "0.0%",
+          "percent_full": "2.5%",
           "quota": 40
         },
         {
-          "entries": 8,
+          "entries": 9,
           "name": "Top Dragster",
-          "percent_full": "20.0%",
+          "percent_full": "22.5%",
           "quota": 40
         },
         {
@@ -250,6 +250,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782343262,
-  "last_checked": "2026-06-24T23:21:02.323980Z"
+  "generated_epoch": 1782351002,
+  "last_checked": "2026-06-25T01:30:02.138442Z"
 }
