@@ -168,9 +168,9 @@
           "quota": 150
         },
         {
-          "entries": 22,
+          "entries": 23,
           "name": "Super Gas",
-          "percent_full": "14.7%",
+          "percent_full": "15.3%",
           "quota": 150
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782697101,
-  "last_checked": "2026-06-29T01:38:21.886165Z"
+  "generated_epoch": 1782714135,
+  "last_checked": "2026-06-29T06:22:15.324069Z"
 }
