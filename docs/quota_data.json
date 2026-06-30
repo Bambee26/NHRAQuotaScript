@@ -27,9 +27,9 @@
           "quota": 55
         },
         {
-          "entries": 27,
+          "entries": 28,
           "name": "Top Sportsman",
-          "percent_full": "75.0%",
+          "percent_full": "77.8%",
           "quota": 36
         },
         {
@@ -111,9 +111,9 @@
           "quota": 60
         },
         {
-          "entries": 59,
+          "entries": 60,
           "name": "Super Comp",
-          "percent_full": "98.3%",
+          "percent_full": "100.0%",
           "quota": 60
         },
         {
@@ -156,9 +156,9 @@
           "quota": 150
         },
         {
-          "entries": 90,
+          "entries": 91,
           "name": "Stock Eliminator",
-          "percent_full": "60.0%",
+          "percent_full": "60.7%",
           "quota": 150
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782835170,
-  "last_checked": "2026-06-30T15:59:30.018954Z"
+  "generated_epoch": 1782842279,
+  "last_checked": "2026-06-30T17:57:59.817344Z"
 }
