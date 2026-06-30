@@ -150,15 +150,15 @@
     {
       "classes": [
         {
-          "entries": 38,
+          "entries": 39,
           "name": "Super Stock",
-          "percent_full": "25.3%",
+          "percent_full": "26.0%",
           "quota": 150
         },
         {
-          "entries": 88,
+          "entries": 90,
           "name": "Stock Eliminator",
-          "percent_full": "58.7%",
+          "percent_full": "60.0%",
           "quota": 150
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782825943,
-  "last_checked": "2026-06-30T13:25:43.050236Z"
+  "generated_epoch": 1782835170,
+  "last_checked": "2026-06-30T15:59:30.018954Z"
 }
