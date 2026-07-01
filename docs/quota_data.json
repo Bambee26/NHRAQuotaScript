@@ -156,9 +156,9 @@
           "quota": 150
         },
         {
-          "entries": 95,
+          "entries": 98,
           "name": "Stock Eliminator",
-          "percent_full": "63.3%",
+          "percent_full": "65.3%",
           "quota": 150
         },
         {
@@ -168,9 +168,9 @@
           "quota": 150
         },
         {
-          "entries": 24,
+          "entries": 25,
           "name": "Super Gas",
-          "percent_full": "16.0%",
+          "percent_full": "16.7%",
           "quota": 150
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782901743,
-  "last_checked": "2026-07-01T10:29:03.943463Z"
+  "generated_epoch": 1782911826,
+  "last_checked": "2026-07-01T13:17:06.970822Z"
 }
