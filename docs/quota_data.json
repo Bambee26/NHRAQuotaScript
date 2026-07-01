@@ -9,9 +9,9 @@
           "quota": 55
         },
         {
-          "entries": 33,
+          "entries": 34,
           "name": "Stock Eliminator",
-          "percent_full": "60.0%",
+          "percent_full": "61.8%",
           "quota": 55
         },
         {
@@ -66,15 +66,15 @@
           "quota": 45
         },
         {
-          "entries": 28,
+          "entries": 29,
           "name": "Super Gas",
-          "percent_full": "62.2%",
+          "percent_full": "64.4%",
           "quota": 45
         },
         {
-          "entries": 14,
+          "entries": 15,
           "name": "Super Street",
-          "percent_full": "31.1%",
+          "percent_full": "33.3%",
           "quota": 45
         },
         {
@@ -99,9 +99,9 @@
     {
       "classes": [
         {
-          "entries": 33,
+          "entries": 34,
           "name": "Super Stock",
-          "percent_full": "55.0%",
+          "percent_full": "56.7%",
           "quota": 60
         },
         {
@@ -123,9 +123,9 @@
           "quota": 60
         },
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Super Street",
-          "percent_full": "38.0%",
+          "percent_full": "40.0%",
           "quota": 50
         },
         {
@@ -150,27 +150,27 @@
     {
       "classes": [
         {
-          "entries": 44,
+          "entries": 50,
           "name": "Super Stock",
-          "percent_full": "29.3%",
+          "percent_full": "33.3%",
           "quota": 150
         },
         {
-          "entries": 98,
+          "entries": 116,
           "name": "Stock Eliminator",
-          "percent_full": "65.3%",
+          "percent_full": "77.3%",
           "quota": 150
         },
         {
-          "entries": 40,
+          "entries": 42,
           "name": "Super Comp",
-          "percent_full": "26.7%",
+          "percent_full": "28.0%",
           "quota": 150
         },
         {
-          "entries": 25,
+          "entries": 28,
           "name": "Super Gas",
-          "percent_full": "16.7%",
+          "percent_full": "18.7%",
           "quota": 150
         },
         {
@@ -180,9 +180,9 @@
           "quota": 40
         },
         {
-          "entries": 11,
+          "entries": 12,
           "name": "Top Dragster",
-          "percent_full": "27.5%",
+          "percent_full": "30.0%",
           "quota": 40
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1782911826,
-  "last_checked": "2026-07-01T13:17:06.970822Z"
+  "generated_epoch": 1782921387,
+  "last_checked": "2026-07-01T15:56:27.428819Z"
 }
