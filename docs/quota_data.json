@@ -9,9 +9,9 @@
           "quota": 55
         },
         {
-          "entries": 35,
+          "entries": 36,
           "name": "Stock Eliminator",
-          "percent_full": "63.6%",
+          "percent_full": "65.5%",
           "quota": 55
         },
         {
@@ -156,9 +156,9 @@
           "quota": 150
         },
         {
-          "entries": 145,
+          "entries": 146,
           "name": "Stock Eliminator",
-          "percent_full": "96.7%",
+          "percent_full": "97.3%",
           "quota": 150
         },
         {
@@ -180,9 +180,9 @@
           "quota": 40
         },
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Top Dragster",
-          "percent_full": "47.5%",
+          "percent_full": "50.0%",
           "quota": 40
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1783090426,
-  "last_checked": "2026-07-03T14:53:46.205510Z"
+  "generated_epoch": 1783095443,
+  "last_checked": "2026-07-03T16:17:23.850592Z"
 }
