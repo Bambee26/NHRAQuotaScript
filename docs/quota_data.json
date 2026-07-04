@@ -15,9 +15,9 @@
           "quota": 55
         },
         {
-          "entries": 57,
+          "entries": 56,
           "name": "Super Comp",
-          "percent_full": "103.6%",
+          "percent_full": "101.8%",
           "quota": 55
         },
         {
@@ -162,9 +162,9 @@
           "quota": 150
         },
         {
-          "entries": 47,
+          "entries": 48,
           "name": "Super Comp",
-          "percent_full": "31.3%",
+          "percent_full": "32.0%",
           "quota": 150
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1783186083,
-  "last_checked": "2026-07-04T17:28:03.768107Z"
+  "generated_epoch": 1783189894,
+  "last_checked": "2026-07-04T18:31:34.124781Z"
 }
