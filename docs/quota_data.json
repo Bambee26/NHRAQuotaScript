@@ -54,9 +54,9 @@
           "quota": 45
         },
         {
-          "entries": 17,
+          "entries": 18,
           "name": "Stock Eliminator",
-          "percent_full": "37.8%",
+          "percent_full": "40.0%",
           "quota": 45
         },
         {
@@ -72,9 +72,9 @@
           "quota": 45
         },
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Super Street",
-          "percent_full": "42.2%",
+          "percent_full": "44.4%",
           "quota": 45
         },
         {
@@ -84,9 +84,9 @@
           "quota": 36
         },
         {
-          "entries": 28,
+          "entries": 30,
           "name": "Top Dragster",
-          "percent_full": "77.8%",
+          "percent_full": "83.3%",
           "quota": 36
         }
       ],
@@ -156,15 +156,15 @@
           "quota": 150
         },
         {
-          "entries": 147,
+          "entries": 148,
           "name": "Stock Eliminator",
-          "percent_full": "98.0%",
+          "percent_full": "98.7%",
           "quota": 150
         },
         {
-          "entries": 46,
+          "entries": 47,
           "name": "Super Comp",
-          "percent_full": "30.7%",
+          "percent_full": "31.3%",
           "quota": 150
         },
         {
@@ -180,9 +180,9 @@
           "quota": 40
         },
         {
-          "entries": 20,
+          "entries": 21,
           "name": "Top Dragster",
-          "percent_full": "50.0%",
+          "percent_full": "52.5%",
           "quota": 40
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1783181720,
-  "last_checked": "2026-07-04T16:15:20.408424Z"
+  "generated_epoch": 1783186083,
+  "last_checked": "2026-07-04T17:28:03.768107Z"
 }
