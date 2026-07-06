@@ -27,9 +27,9 @@
           "quota": 55
         },
         {
-          "entries": 34,
+          "entries": 35,
           "name": "Top Sportsman",
-          "percent_full": "94.4%",
+          "percent_full": "97.2%",
           "quota": 36
         },
         {
@@ -180,9 +180,9 @@
           "quota": 40
         },
         {
-          "entries": 21,
+          "entries": 22,
           "name": "Top Dragster",
-          "percent_full": "52.5%",
+          "percent_full": "55.0%",
           "quota": 40
         },
         {
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1783362507,
-  "last_checked": "2026-07-06T18:28:27.004818Z"
+  "generated_epoch": 1783369441,
+  "last_checked": "2026-07-06T20:24:01.083224Z"
 }
