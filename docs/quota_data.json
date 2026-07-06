@@ -84,9 +84,9 @@
           "quota": 36
         },
         {
-          "entries": 33,
+          "entries": 34,
           "name": "Top Dragster",
-          "percent_full": "91.7%",
+          "percent_full": "94.4%",
           "quota": 36
         }
       ],
@@ -199,6 +199,6 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
     }
   ],
-  "generated_epoch": 1783374720,
-  "last_checked": "2026-07-06T21:52:00.628592Z"
+  "generated_epoch": 1783378347,
+  "last_checked": "2026-07-06T22:52:27.965693Z"
 }
