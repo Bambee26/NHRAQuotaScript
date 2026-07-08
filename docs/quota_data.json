@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 34,
+          "entries": 35,
           "name": "Super Stock",
-          "percent_full": "61.8%",
+          "percent_full": "63.6%",
           "quota": 55
         },
         {
@@ -99,9 +99,9 @@
     {
       "classes": [
         {
-          "entries": 40,
+          "entries": 41,
           "name": "Super Stock",
-          "percent_full": "66.7%",
+          "percent_full": "68.3%",
           "quota": 60
         },
         {
@@ -117,15 +117,15 @@
           "quota": 60
         },
         {
-          "entries": 48,
+          "entries": 49,
           "name": "Super Gas",
-          "percent_full": "80.0%",
+          "percent_full": "81.7%",
           "quota": 60
         },
         {
-          "entries": 24,
+          "entries": 26,
           "name": "Super Street",
-          "percent_full": "48.0%",
+          "percent_full": "52.0%",
           "quota": 50
         },
         {
@@ -150,9 +150,9 @@
     {
       "classes": [
         {
-          "entries": 70,
+          "entries": 72,
           "name": "Super Stock",
-          "percent_full": "46.7%",
+          "percent_full": "48.0%",
           "quota": 150
         },
         {
@@ -162,9 +162,9 @@
           "quota": 150
         },
         {
-          "entries": 48,
+          "entries": 49,
           "name": "Super Comp",
-          "percent_full": "32.0%",
+          "percent_full": "32.7%",
           "quota": 150
         },
         {
@@ -180,9 +180,9 @@
           "quota": 40
         },
         {
-          "entries": 24,
+          "entries": 25,
           "name": "Top Dragster",
-          "percent_full": "60.0%",
+          "percent_full": "62.5%",
           "quota": 40
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783523781,
-  "last_checked": "2026-07-08T15:16:21.717620Z"
+  "generated_epoch": 1783529487,
+  "last_checked": "2026-07-08T16:51:27.303623Z"
 }
