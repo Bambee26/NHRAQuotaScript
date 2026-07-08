@@ -99,9 +99,9 @@
     {
       "classes": [
         {
-          "entries": 38,
+          "entries": 40,
           "name": "Super Stock",
-          "percent_full": "63.3%",
+          "percent_full": "66.7%",
           "quota": 60
         },
         {
@@ -117,15 +117,15 @@
           "quota": 60
         },
         {
-          "entries": 43,
+          "entries": 48,
           "name": "Super Gas",
-          "percent_full": "71.7%",
+          "percent_full": "80.0%",
           "quota": 60
         },
         {
-          "entries": 21,
+          "entries": 24,
           "name": "Super Street",
-          "percent_full": "42.0%",
+          "percent_full": "48.0%",
           "quota": 50
         },
         {
@@ -135,9 +135,9 @@
           "quota": 36
         },
         {
-          "entries": 11,
+          "entries": 12,
           "name": "Top Dragster",
-          "percent_full": "30.6%",
+          "percent_full": "33.3%",
           "quota": 36
         }
       ],
@@ -150,9 +150,9 @@
     {
       "classes": [
         {
-          "entries": 65,
+          "entries": 70,
           "name": "Super Stock",
-          "percent_full": "43.3%",
+          "percent_full": "46.7%",
           "quota": 150
         },
         {
@@ -174,15 +174,15 @@
           "quota": 150
         },
         {
-          "entries": 1,
+          "entries": 2,
           "name": "Top Sportsman",
-          "percent_full": "2.5%",
+          "percent_full": "5.0%",
           "quota": 40
         },
         {
-          "entries": 22,
+          "entries": 24,
           "name": "Top Dragster",
-          "percent_full": "55.0%",
+          "percent_full": "60.0%",
           "quota": 40
         },
         {
@@ -197,8 +197,23 @@
       "id": "2026II1",
       "location": "Brownsburg IN",
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
+    },
+    {
+      "classes": [
+        {
+          "entries": 0,
+          "name": "Top Sportsman",
+          "percent_full": "0.0%",
+          "quota": 36
+        }
+      ],
+      "date": "09/18/2026",
+      "has_data": true,
+      "id": "2026GM1",
+      "location": "Grand Rapids MI",
+      "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783515414,
-  "last_checked": "2026-07-08T12:56:54.678607Z"
+  "generated_epoch": 1783523781,
+  "last_checked": "2026-07-08T15:16:21.717620Z"
 }
