@@ -99,9 +99,9 @@
     {
       "classes": [
         {
-          "entries": 41,
+          "entries": 42,
           "name": "Super Stock",
-          "percent_full": "68.3%",
+          "percent_full": "70.0%",
           "quota": 60
         },
         {
@@ -123,9 +123,9 @@
           "quota": 60
         },
         {
-          "entries": 26,
+          "entries": 27,
           "name": "Super Street",
-          "percent_full": "52.0%",
+          "percent_full": "54.0%",
           "quota": 50
         },
         {
@@ -135,9 +135,9 @@
           "quota": 36
         },
         {
-          "entries": 12,
+          "entries": 14,
           "name": "Top Dragster",
-          "percent_full": "33.3%",
+          "percent_full": "38.9%",
           "quota": 36
         }
       ],
@@ -150,9 +150,9 @@
     {
       "classes": [
         {
-          "entries": 74,
+          "entries": 75,
           "name": "Super Stock",
-          "percent_full": "49.3%",
+          "percent_full": "50.0%",
           "quota": 150
         },
         {
@@ -180,9 +180,9 @@
           "quota": 40
         },
         {
-          "entries": 27,
+          "entries": 28,
           "name": "Top Dragster",
-          "percent_full": "67.5%",
+          "percent_full": "70.0%",
           "quota": 40
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783554960,
-  "last_checked": "2026-07-08T23:56:00.427269Z"
+  "generated_epoch": 1783563172,
+  "last_checked": "2026-07-09T02:12:52.714964Z"
 }
