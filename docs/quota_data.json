@@ -123,9 +123,9 @@
           "quota": 60
         },
         {
-          "entries": 27,
+          "entries": 28,
           "name": "Super Street",
-          "percent_full": "54.0%",
+          "percent_full": "56.0%",
           "quota": 50
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783630506,
-  "last_checked": "2026-07-09T20:55:06.719472Z"
+  "generated_epoch": 1783635220,
+  "last_checked": "2026-07-09T22:13:40.705162Z"
 }
