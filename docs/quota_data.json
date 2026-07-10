@@ -3,15 +3,15 @@
     {
       "classes": [
         {
-          "entries": 34,
+          "entries": 35,
           "name": "Super Stock",
-          "percent_full": "61.8%",
+          "percent_full": "63.6%",
           "quota": 55
         },
         {
-          "entries": 39,
+          "entries": 40,
           "name": "Stock Eliminator",
-          "percent_full": "70.9%",
+          "percent_full": "72.7%",
           "quota": 55
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783714977,
-  "last_checked": "2026-07-10T20:22:57.346683Z"
+  "generated_epoch": 1783719069,
+  "last_checked": "2026-07-10T21:31:09.564643Z"
 }
