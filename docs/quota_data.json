@@ -33,9 +33,9 @@
           "quota": 36
         },
         {
-          "entries": 37,
+          "entries": 36,
           "name": "Top Dragster",
-          "percent_full": "102.8%",
+          "percent_full": "100.0%",
           "quota": 36
         }
       ],
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783689993,
-  "last_checked": "2026-07-10T13:26:33.597958Z"
+  "generated_epoch": 1783698270,
+  "last_checked": "2026-07-10T15:44:30.557473Z"
 }
