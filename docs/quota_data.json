@@ -9,9 +9,9 @@
           "quota": 55
         },
         {
-          "entries": 41,
+          "entries": 40,
           "name": "Stock Eliminator",
-          "percent_full": "74.5%",
+          "percent_full": "72.7%",
           "quota": 55
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783793136,
-  "last_checked": "2026-07-11T18:05:36.712222Z"
+  "generated_epoch": 1783797656,
+  "last_checked": "2026-07-11T19:20:56.128596Z"
 }
