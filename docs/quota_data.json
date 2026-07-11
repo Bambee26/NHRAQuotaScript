@@ -60,9 +60,9 @@
           "quota": 45
         },
         {
-          "entries": 44,
+          "entries": 45,
           "name": "Super Comp",
-          "percent_full": "97.8%",
+          "percent_full": "100.0%",
           "quota": 45
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783810615,
-  "last_checked": "2026-07-11T22:56:55.378608Z"
+  "generated_epoch": 1783813854,
+  "last_checked": "2026-07-11T23:50:54.868725Z"
 }
