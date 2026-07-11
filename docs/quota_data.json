@@ -78,9 +78,9 @@
           "quota": 45
         },
         {
-          "entries": 15,
+          "entries": 16,
           "name": "Top Sportsman",
-          "percent_full": "41.7%",
+          "percent_full": "44.4%",
           "quota": 36
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783786094,
-  "last_checked": "2026-07-11T16:08:14.359350Z"
+  "generated_epoch": 1783789899,
+  "last_checked": "2026-07-11T17:11:39.299476Z"
 }
