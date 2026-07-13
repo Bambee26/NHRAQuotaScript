@@ -117,9 +117,9 @@
           "quota": 60
         },
         {
-          "entries": 50,
+          "entries": 51,
           "name": "Super Gas",
-          "percent_full": "83.3%",
+          "percent_full": "85.0%",
           "quota": 60
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783936641,
-  "last_checked": "2026-07-13T09:57:21.432750Z"
+  "generated_epoch": 1783945753,
+  "last_checked": "2026-07-13T12:29:13.317842Z"
 }
