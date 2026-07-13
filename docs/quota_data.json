@@ -54,9 +54,9 @@
           "quota": 45
         },
         {
-          "entries": 26,
+          "entries": 27,
           "name": "Stock Eliminator",
-          "percent_full": "57.8%",
+          "percent_full": "60.0%",
           "quota": 45
         },
         {
@@ -162,9 +162,9 @@
           "quota": 150
         },
         {
-          "entries": 53,
+          "entries": 54,
           "name": "Super Comp",
-          "percent_full": "35.3%",
+          "percent_full": "36.0%",
           "quota": 150
         },
         {
@@ -180,9 +180,9 @@
           "quota": 40
         },
         {
-          "entries": 36,
+          "entries": 38,
           "name": "Top Dragster",
-          "percent_full": "90.0%",
+          "percent_full": "95.0%",
           "quota": 40
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783968843,
-  "last_checked": "2026-07-13T18:54:03.587740Z"
+  "generated_epoch": 1783973125,
+  "last_checked": "2026-07-13T20:05:25.676869Z"
 }
