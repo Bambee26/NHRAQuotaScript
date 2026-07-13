@@ -3,15 +3,15 @@
     {
       "classes": [
         {
-          "entries": 35,
+          "entries": 36,
           "name": "Super Stock",
-          "percent_full": "63.6%",
+          "percent_full": "65.5%",
           "quota": 55
         },
         {
-          "entries": 41,
+          "entries": 40,
           "name": "Stock Eliminator",
-          "percent_full": "74.5%",
+          "percent_full": "72.7%",
           "quota": 55
         },
         {
@@ -33,9 +33,9 @@
           "quota": 36
         },
         {
-          "entries": 34,
+          "entries": 33,
           "name": "Top Dragster",
-          "percent_full": "94.4%",
+          "percent_full": "91.7%",
           "quota": 36
         }
       ],
@@ -48,9 +48,9 @@
     {
       "classes": [
         {
-          "entries": 25,
+          "entries": 24,
           "name": "Super Stock",
-          "percent_full": "55.6%",
+          "percent_full": "53.3%",
           "quota": 45
         },
         {
@@ -60,9 +60,9 @@
           "quota": 45
         },
         {
-          "entries": 44,
+          "entries": 43,
           "name": "Super Comp",
-          "percent_full": "97.8%",
+          "percent_full": "95.6%",
           "quota": 45
         },
         {
@@ -78,9 +78,9 @@
           "quota": 45
         },
         {
-          "entries": 17,
+          "entries": 18,
           "name": "Top Sportsman",
-          "percent_full": "47.2%",
+          "percent_full": "50.0%",
           "quota": 36
         },
         {
@@ -150,9 +150,9 @@
     {
       "classes": [
         {
-          "entries": 90,
+          "entries": 91,
           "name": "Super Stock",
-          "percent_full": "60.0%",
+          "percent_full": "60.7%",
           "quota": 150
         },
         {
@@ -168,9 +168,9 @@
           "quota": 150
         },
         {
-          "entries": 35,
+          "entries": 36,
           "name": "Super Gas",
-          "percent_full": "23.3%",
+          "percent_full": "24.0%",
           "quota": 150
         },
         {
@@ -180,9 +180,9 @@
           "quota": 40
         },
         {
-          "entries": 35,
+          "entries": 36,
           "name": "Top Dragster",
-          "percent_full": "87.5%",
+          "percent_full": "90.0%",
           "quota": 40
         },
         {
@@ -214,6 +214,6 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     }
   ],
-  "generated_epoch": 1783956137,
-  "last_checked": "2026-07-13T15:22:17.695606Z"
+  "generated_epoch": 1783963537,
+  "last_checked": "2026-07-13T17:25:37.298990Z"
 }
