@@ -48,9 +48,9 @@
     {
       "classes": [
         {
-          "entries": 27,
+          "entries": 26,
           "name": "Super Stock",
-          "percent_full": "60.0%",
+          "percent_full": "57.8%",
           "quota": 45
         },
         {
@@ -66,9 +66,9 @@
           "quota": 45
         },
         {
-          "entries": 26,
+          "entries": 27,
           "name": "Super Gas",
-          "percent_full": "57.8%",
+          "percent_full": "60.0%",
           "quota": 45
         },
         {
@@ -99,9 +99,9 @@
     {
       "classes": [
         {
-          "entries": 45,
+          "entries": 46,
           "name": "Super Stock",
-          "percent_full": "75.0%",
+          "percent_full": "76.7%",
           "quota": 60
         },
         {
@@ -216,9 +216,9 @@
     {
       "classes": [
         {
-          "entries": 14,
+          "entries": 16,
           "name": "Super Stock",
-          "percent_full": "31.1%",
+          "percent_full": "35.6%",
           "quota": 45
         },
         {
@@ -234,9 +234,9 @@
           "quota": 45
         },
         {
-          "entries": 23,
+          "entries": 25,
           "name": "Super Gas",
-          "percent_full": "51.1%",
+          "percent_full": "55.6%",
           "quota": 45
         },
         {
@@ -253,6 +253,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784136131,
-  "last_checked": "2026-07-15T17:22:11.037559Z"
+  "generated_epoch": 1784140484,
+  "last_checked": "2026-07-15T18:34:44.630495Z"
 }
