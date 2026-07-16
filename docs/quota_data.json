@@ -54,9 +54,9 @@
           "quota": 45
         },
         {
-          "entries": 29,
+          "entries": 30,
           "name": "Stock Eliminator",
-          "percent_full": "64.4%",
+          "percent_full": "66.7%",
           "quota": 45
         },
         {
@@ -72,9 +72,9 @@
           "quota": 45
         },
         {
-          "entries": 30,
+          "entries": 29,
           "name": "Super Street",
-          "percent_full": "66.7%",
+          "percent_full": "64.4%",
           "quota": 45
         },
         {
@@ -156,15 +156,15 @@
           "quota": 150
         },
         {
-          "entries": 152,
+          "entries": 153,
           "name": "Stock Eliminator",
-          "percent_full": "101.3%",
+          "percent_full": "102.0%",
           "quota": 150
         },
         {
-          "entries": 55,
+          "entries": 56,
           "name": "Super Comp",
-          "percent_full": "36.7%",
+          "percent_full": "37.3%",
           "quota": 150
         },
         {
@@ -222,9 +222,9 @@
           "quota": 45
         },
         {
-          "entries": 41,
+          "entries": 42,
           "name": "Stock Eliminator",
-          "percent_full": "91.1%",
+          "percent_full": "93.3%",
           "quota": 45
         },
         {
@@ -253,6 +253,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784163869,
-  "last_checked": "2026-07-16T01:04:29.088307Z"
+  "generated_epoch": 1784175481,
+  "last_checked": "2026-07-16T04:18:01.095983Z"
 }
