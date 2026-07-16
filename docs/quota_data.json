@@ -60,9 +60,9 @@
           "quota": 45
         },
         {
-          "entries": 44,
+          "entries": 42,
           "name": "Super Comp",
-          "percent_full": "97.8%",
+          "percent_full": "93.3%",
           "quota": 45
         },
         {
@@ -135,9 +135,9 @@
           "quota": 36
         },
         {
-          "entries": 17,
+          "entries": 18,
           "name": "Top Dragster",
-          "percent_full": "47.2%",
+          "percent_full": "50.0%",
           "quota": 36
         }
       ],
@@ -150,9 +150,9 @@
     {
       "classes": [
         {
-          "entries": 109,
+          "entries": 111,
           "name": "Super Stock",
-          "percent_full": "72.7%",
+          "percent_full": "74.0%",
           "quota": 150
         },
         {
@@ -253,6 +253,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784221033,
-  "last_checked": "2026-07-16T16:57:13.434570Z"
+  "generated_epoch": 1784224919,
+  "last_checked": "2026-07-16T18:01:59.328584Z"
 }
