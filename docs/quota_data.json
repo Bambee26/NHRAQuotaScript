@@ -33,9 +33,9 @@
           "quota": 45
         },
         {
-          "entries": 23,
+          "entries": 24,
           "name": "Top Sportsman",
-          "percent_full": "63.9%",
+          "percent_full": "66.7%",
           "quota": 36
         },
         {
@@ -208,6 +208,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784345092,
-  "last_checked": "2026-07-18T03:24:52.766277Z"
+  "generated_epoch": 1784353223,
+  "last_checked": "2026-07-18T05:40:23.785593Z"
 }
