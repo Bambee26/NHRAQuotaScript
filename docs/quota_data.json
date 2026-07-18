@@ -3,51 +3,6 @@
     {
       "classes": [
         {
-          "entries": 36,
-          "name": "Super Stock",
-          "percent_full": "65.5%",
-          "quota": 55
-        },
-        {
-          "entries": 40,
-          "name": "Stock Eliminator",
-          "percent_full": "72.7%",
-          "quota": 55
-        },
-        {
-          "entries": 55,
-          "name": "Super Comp",
-          "percent_full": "100.0%",
-          "quota": 55
-        },
-        {
-          "entries": 55,
-          "name": "Super Gas",
-          "percent_full": "100.0%",
-          "quota": 55
-        },
-        {
-          "entries": 33,
-          "name": "Top Sportsman",
-          "percent_full": "91.7%",
-          "quota": 36
-        },
-        {
-          "entries": 32,
-          "name": "Top Dragster",
-          "percent_full": "88.9%",
-          "quota": 36
-        }
-      ],
-      "date": "07/17/2026",
-      "has_data": true,
-      "id": "2026SC1",
-      "location": "Sonoma CA",
-      "name": "DENSO NHRA Sonoma Nationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 27,
           "name": "Super Stock",
           "percent_full": "60.0%",
@@ -228,9 +183,9 @@
           "quota": 45
         },
         {
-          "entries": 31,
+          "entries": 32,
           "name": "Super Comp",
-          "percent_full": "68.9%",
+          "percent_full": "71.1%",
           "quota": 45
         },
         {
@@ -253,6 +208,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784329896,
-  "last_checked": "2026-07-17T23:11:36.543475Z"
+  "generated_epoch": 1784333244,
+  "last_checked": "2026-07-18T00:07:24.005573Z"
 }
