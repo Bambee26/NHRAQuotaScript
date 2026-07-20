@@ -54,9 +54,9 @@
     {
       "classes": [
         {
-          "entries": 46,
+          "entries": 47,
           "name": "Super Stock",
-          "percent_full": "76.7%",
+          "percent_full": "78.3%",
           "quota": 60
         },
         {
@@ -208,6 +208,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784585529,
-  "last_checked": "2026-07-20T22:12:09.686838Z"
+  "generated_epoch": 1784589242,
+  "last_checked": "2026-07-20T23:14:02.514317Z"
 }
