@@ -15,9 +15,9 @@
           "quota": 45
         },
         {
-          "entries": 38,
+          "entries": 39,
           "name": "Super Comp",
-          "percent_full": "84.4%",
+          "percent_full": "86.7%",
           "quota": 45
         },
         {
@@ -129,9 +129,9 @@
           "quota": 150
         },
         {
-          "entries": 2,
+          "entries": 3,
           "name": "Top Sportsman",
-          "percent_full": "5.0%",
+          "percent_full": "7.5%",
           "quota": 40
         },
         {
@@ -208,6 +208,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784581877,
-  "last_checked": "2026-07-20T21:11:17.902293Z"
+  "generated_epoch": 1784585529,
+  "last_checked": "2026-07-20T22:12:09.686838Z"
 }
