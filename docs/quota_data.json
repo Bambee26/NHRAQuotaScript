@@ -9,9 +9,9 @@
           "quota": 45
         },
         {
-          "entries": 32,
+          "entries": 31,
           "name": "Stock Eliminator",
-          "percent_full": "71.1%",
+          "percent_full": "68.9%",
           "quota": 45
         },
         {
@@ -21,9 +21,9 @@
           "quota": 45
         },
         {
-          "entries": 32,
+          "entries": 33,
           "name": "Super Gas",
-          "percent_full": "71.1%",
+          "percent_full": "73.3%",
           "quota": 45
         },
         {
@@ -33,15 +33,15 @@
           "quota": 45
         },
         {
-          "entries": 26,
+          "entries": 27,
           "name": "Top Sportsman",
-          "percent_full": "72.2%",
+          "percent_full": "75.0%",
           "quota": 36
         },
         {
-          "entries": 36,
+          "entries": 34,
           "name": "Top Dragster",
-          "percent_full": "100.0%",
+          "percent_full": "94.4%",
           "quota": 36
         }
       ],
@@ -105,9 +105,9 @@
     {
       "classes": [
         {
-          "entries": 115,
+          "entries": 116,
           "name": "Super Stock",
-          "percent_full": "76.7%",
+          "percent_full": "77.3%",
           "quota": 150
         },
         {
@@ -208,6 +208,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784571366,
-  "last_checked": "2026-07-20T18:16:06.822341Z"
+  "generated_epoch": 1784577484,
+  "last_checked": "2026-07-20T19:58:04.128329Z"
 }
