@@ -15,9 +15,9 @@
           "quota": 45
         },
         {
-          "entries": 38,
+          "entries": 37,
           "name": "Super Comp",
-          "percent_full": "84.4%",
+          "percent_full": "82.2%",
           "quota": 45
         },
         {
@@ -27,9 +27,9 @@
           "quota": 45
         },
         {
-          "entries": 31,
+          "entries": 32,
           "name": "Super Street",
-          "percent_full": "68.9%",
+          "percent_full": "71.1%",
           "quota": 45
         },
         {
@@ -39,9 +39,9 @@
           "quota": 36
         },
         {
-          "entries": 35,
+          "entries": 36,
           "name": "Top Dragster",
-          "percent_full": "97.2%",
+          "percent_full": "100.0%",
           "quota": 36
         }
       ],
@@ -54,9 +54,9 @@
     {
       "classes": [
         {
-          "entries": 47,
+          "entries": 46,
           "name": "Super Stock",
-          "percent_full": "78.3%",
+          "percent_full": "76.7%",
           "quota": 60
         },
         {
@@ -171,9 +171,9 @@
     {
       "classes": [
         {
-          "entries": 25,
+          "entries": 26,
           "name": "Super Stock",
-          "percent_full": "55.6%",
+          "percent_full": "57.8%",
           "quota": 45
         },
         {
@@ -189,9 +189,9 @@
           "quota": 45
         },
         {
-          "entries": 32,
+          "entries": 33,
           "name": "Super Gas",
-          "percent_full": "71.1%",
+          "percent_full": "73.3%",
           "quota": 45
         },
         {
@@ -208,6 +208,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784557783,
-  "last_checked": "2026-07-20T14:29:43.428728Z"
+  "generated_epoch": 1784563746,
+  "last_checked": "2026-07-20T16:09:06.911921Z"
 }
