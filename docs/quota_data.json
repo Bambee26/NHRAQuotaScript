@@ -33,15 +33,15 @@
           "quota": 45
         },
         {
-          "entries": 25,
+          "entries": 24,
           "name": "Top Sportsman",
-          "percent_full": "69.4%",
+          "percent_full": "66.7%",
           "quota": 36
         },
         {
-          "entries": 36,
+          "entries": 35,
           "name": "Top Dragster",
-          "percent_full": "100.0%",
+          "percent_full": "97.2%",
           "quota": 36
         }
       ],
@@ -208,6 +208,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784530562,
-  "last_checked": "2026-07-20T06:56:02.750715Z"
+  "generated_epoch": 1784541170,
+  "last_checked": "2026-07-20T09:52:50.931500Z"
 }
