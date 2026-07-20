@@ -117,9 +117,9 @@
           "quota": 150
         },
         {
-          "entries": 59,
+          "entries": 60,
           "name": "Super Comp",
-          "percent_full": "39.3%",
+          "percent_full": "40.0%",
           "quota": 150
         },
         {
@@ -208,6 +208,6 @@
       "name": "NHRA Nationals at The Rock"
     }
   ],
-  "generated_epoch": 1784577484,
-  "last_checked": "2026-07-20T19:58:04.128329Z"
+  "generated_epoch": 1784581877,
+  "last_checked": "2026-07-20T21:11:17.902293Z"
 }
