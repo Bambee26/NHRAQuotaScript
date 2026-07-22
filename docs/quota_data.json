@@ -54,15 +54,15 @@
     {
       "classes": [
         {
-          "entries": 52,
+          "entries": 54,
           "name": "Super Stock",
-          "percent_full": "86.7%",
+          "percent_full": "90.0%",
           "quota": 60
         },
         {
-          "entries": 59,
+          "entries": 60,
           "name": "Stock Eliminator",
-          "percent_full": "98.3%",
+          "percent_full": "100.0%",
           "quota": 60
         },
         {
@@ -90,9 +90,9 @@
           "quota": 36
         },
         {
-          "entries": 30,
+          "entries": 32,
           "name": "Top Dragster",
-          "percent_full": "83.3%",
+          "percent_full": "88.9%",
           "quota": 36
         }
       ],
@@ -105,9 +105,9 @@
     {
       "classes": [
         {
-          "entries": 125,
+          "entries": 126,
           "name": "Super Stock",
-          "percent_full": "83.3%",
+          "percent_full": "84.0%",
           "quota": 150
         },
         {
@@ -123,9 +123,9 @@
           "quota": 150
         },
         {
-          "entries": 48,
+          "entries": 49,
           "name": "Super Gas",
-          "percent_full": "32.0%",
+          "percent_full": "32.7%",
           "quota": 150
         },
         {
@@ -210,21 +210,21 @@
     {
       "classes": [
         {
-          "entries": 23,
+          "entries": 25,
           "name": "Super Stock",
-          "percent_full": "38.3%",
+          "percent_full": "41.7%",
           "quota": 60
         },
         {
-          "entries": 42,
+          "entries": 44,
           "name": "Stock Eliminator",
-          "percent_full": "70.0%",
+          "percent_full": "73.3%",
           "quota": 60
         },
         {
-          "entries": 56,
+          "entries": 58,
           "name": "Super Comp",
-          "percent_full": "93.3%",
+          "percent_full": "96.7%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1784740475,
-  "last_checked": "2026-07-22T17:14:35.236353Z"
+  "generated_epoch": 1784745272,
+  "last_checked": "2026-07-22T18:34:32.237798Z"
 }
