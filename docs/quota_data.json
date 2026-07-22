@@ -60,9 +60,9 @@
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 59,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -117,15 +117,15 @@
           "quota": 150
         },
         {
-          "entries": 64,
+          "entries": 65,
           "name": "Super Comp",
-          "percent_full": "42.7%",
+          "percent_full": "43.3%",
           "quota": 150
         },
         {
-          "entries": 47,
+          "entries": 48,
           "name": "Super Gas",
-          "percent_full": "31.3%",
+          "percent_full": "32.0%",
           "quota": 150
         },
         {
@@ -156,9 +156,9 @@
     {
       "classes": [
         {
-          "entries": 0,
+          "entries": 1,
           "name": "Top Sportsman",
-          "percent_full": "0.0%",
+          "percent_full": "2.8%",
           "quota": 36
         }
       ],
@@ -210,27 +210,27 @@
     {
       "classes": [
         {
-          "entries": 18,
+          "entries": 23,
           "name": "Super Stock",
-          "percent_full": "30.0%",
+          "percent_full": "38.3%",
           "quota": 60
         },
         {
-          "entries": 37,
+          "entries": 42,
           "name": "Stock Eliminator",
-          "percent_full": "61.7%",
+          "percent_full": "70.0%",
           "quota": 60
         },
         {
-          "entries": 51,
+          "entries": 56,
           "name": "Super Comp",
-          "percent_full": "85.0%",
+          "percent_full": "93.3%",
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 61,
           "name": "Super Gas",
-          "percent_full": "100.0%",
+          "percent_full": "101.7%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1784735866,
-  "last_checked": "2026-07-22T15:57:46.672696Z"
+  "generated_epoch": 1784740475,
+  "last_checked": "2026-07-22T17:14:35.236353Z"
 }
