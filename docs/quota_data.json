@@ -3,57 +3,6 @@
     {
       "classes": [
         {
-          "entries": 28,
-          "name": "Super Stock",
-          "percent_full": "62.2%",
-          "quota": 45
-        },
-        {
-          "entries": 31,
-          "name": "Stock Eliminator",
-          "percent_full": "68.9%",
-          "quota": 45
-        },
-        {
-          "entries": 39,
-          "name": "Super Comp",
-          "percent_full": "86.7%",
-          "quota": 45
-        },
-        {
-          "entries": 33,
-          "name": "Super Gas",
-          "percent_full": "73.3%",
-          "quota": 45
-        },
-        {
-          "entries": 33,
-          "name": "Super Street",
-          "percent_full": "73.3%",
-          "quota": 45
-        },
-        {
-          "entries": 27,
-          "name": "Top Sportsman",
-          "percent_full": "75.0%",
-          "quota": 36
-        },
-        {
-          "entries": 34,
-          "name": "Top Dragster",
-          "percent_full": "94.4%",
-          "quota": 36
-        }
-      ],
-      "date": "07/24/2026",
-      "has_data": true,
-      "id": "2026SW1",
-      "location": "Seattle WA",
-      "name": "Muckleshoot Casino Resort NHRA Northwest Nationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 60,
           "name": "Super Stock",
           "percent_full": "100.0%",
@@ -189,9 +138,9 @@
           "quota": 45
         },
         {
-          "entries": 42,
+          "entries": 43,
           "name": "Super Gas",
-          "percent_full": "93.3%",
+          "percent_full": "95.6%",
           "quota": 45
         },
         {
@@ -247,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1784935986,
-  "last_checked": "2026-07-24T23:33:06.791309Z"
+  "generated_epoch": 1784941477,
+  "last_checked": "2026-07-25T01:04:37.659717Z"
 }
