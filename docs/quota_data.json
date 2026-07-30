@@ -66,9 +66,9 @@
           "quota": 150
         },
         {
-          "entries": 77,
+          "entries": 76,
           "name": "Super Comp",
-          "percent_full": "51.3%",
+          "percent_full": "50.7%",
           "quota": 150
         },
         {
@@ -196,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785433609,
-  "last_checked": "2026-07-30T17:46:49.284394Z"
+  "generated_epoch": 1785438120,
+  "last_checked": "2026-07-30T19:02:00.210226Z"
 }
