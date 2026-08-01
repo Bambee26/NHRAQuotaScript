@@ -78,9 +78,9 @@
           "quota": 150
         },
         {
-          "entries": 6,
+          "entries": 7,
           "name": "Top Sportsman",
-          "percent_full": "15.0%",
+          "percent_full": "17.5%",
           "quota": 40
         },
         {
@@ -196,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785604622,
-  "last_checked": "2026-08-01T17:17:02.778487Z"
+  "generated_epoch": 1785608007,
+  "last_checked": "2026-08-01T18:13:27.231375Z"
 }
