@@ -90,9 +90,9 @@
           "quota": 40
         },
         {
-          "entries": 0,
+          "entries": 1,
           "name": "Hemi Challenge",
-          "percent_full": "0.0%",
+          "percent_full": "2.0%",
           "quota": 50
         }
       ],
@@ -196,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785674649,
-  "last_checked": "2026-08-02T12:44:09.244253Z"
+  "generated_epoch": 1785680084,
+  "last_checked": "2026-08-02T14:14:44.404157Z"
 }
