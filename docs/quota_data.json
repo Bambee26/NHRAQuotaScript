@@ -9,9 +9,9 @@
           "quota": 60
         },
         {
-          "entries": 62,
+          "entries": 61,
           "name": "Stock Eliminator",
-          "percent_full": "103.3%",
+          "percent_full": "101.7%",
           "quota": 60
         },
         {
@@ -196,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785787168,
-  "last_checked": "2026-08-03T19:59:28.861803Z"
+  "generated_epoch": 1785791072,
+  "last_checked": "2026-08-03T21:04:32.226386Z"
 }
