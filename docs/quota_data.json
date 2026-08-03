@@ -9,9 +9,9 @@
           "quota": 60
         },
         {
-          "entries": 61,
+          "entries": 62,
           "name": "Stock Eliminator",
-          "percent_full": "101.7%",
+          "percent_full": "103.3%",
           "quota": 60
         },
         {
@@ -27,9 +27,9 @@
           "quota": 60
         },
         {
-          "entries": 47,
+          "entries": 46,
           "name": "Super Street",
-          "percent_full": "94.0%",
+          "percent_full": "92.0%",
           "quota": 50
         },
         {
@@ -60,9 +60,9 @@
           "quota": 150
         },
         {
-          "entries": 151,
+          "entries": 152,
           "name": "Stock Eliminator",
-          "percent_full": "100.7%",
+          "percent_full": "101.3%",
           "quota": 150
         },
         {
@@ -72,9 +72,9 @@
           "quota": 150
         },
         {
-          "entries": 63,
+          "entries": 64,
           "name": "Super Gas",
-          "percent_full": "42.0%",
+          "percent_full": "42.7%",
           "quota": 150
         },
         {
@@ -177,9 +177,9 @@
           "quota": 60
         },
         {
-          "entries": 62,
+          "entries": 63,
           "name": "Super Gas",
-          "percent_full": "103.3%",
+          "percent_full": "105.0%",
           "quota": 60
         },
         {
@@ -196,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785774444,
-  "last_checked": "2026-08-03T16:27:24.355959Z"
+  "generated_epoch": 1785780931,
+  "last_checked": "2026-08-03T18:15:31.863143Z"
 }
