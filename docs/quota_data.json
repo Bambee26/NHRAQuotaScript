@@ -72,9 +72,9 @@
           "quota": 150
         },
         {
-          "entries": 62,
+          "entries": 63,
           "name": "Super Gas",
-          "percent_full": "41.3%",
+          "percent_full": "42.0%",
           "quota": 150
         },
         {
@@ -196,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785756992,
-  "last_checked": "2026-08-03T11:36:32.987374Z"
+  "generated_epoch": 1785765565,
+  "last_checked": "2026-08-03T13:59:25.433130Z"
 }
