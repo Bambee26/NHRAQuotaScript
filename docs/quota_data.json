@@ -9,9 +9,9 @@
           "quota": 60
         },
         {
-          "entries": 61,
+          "entries": 60,
           "name": "Stock Eliminator",
-          "percent_full": "101.7%",
+          "percent_full": "100.0%",
           "quota": 60
         },
         {
@@ -33,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 13,
+          "entries": 14,
           "name": "Top Sportsman",
-          "percent_full": "36.1%",
+          "percent_full": "38.9%",
           "quota": 36
         },
         {
@@ -78,9 +78,9 @@
           "quota": 150
         },
         {
-          "entries": 8,
+          "entries": 9,
           "name": "Top Sportsman",
-          "percent_full": "20.0%",
+          "percent_full": "22.5%",
           "quota": 40
         },
         {
@@ -196,6 +196,6 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785802668,
-  "last_checked": "2026-08-04T00:17:48.468496Z"
+  "generated_epoch": 1785814938,
+  "last_checked": "2026-08-04T03:42:18.197953Z"
 }
