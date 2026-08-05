@@ -157,45 +157,14 @@
       "name": "NHRA Nationals at The Rock"
     },
     {
-      "classes": [
-        {
-          "entries": 60,
-          "name": "Super Stock",
-          "percent_full": "100.0%",
-          "quota": 60
-        },
-        {
-          "entries": 60,
-          "name": "Stock Eliminator",
-          "percent_full": "100.0%",
-          "quota": 60
-        },
-        {
-          "entries": 60,
-          "name": "Super Comp",
-          "percent_full": "100.0%",
-          "quota": 60
-        },
-        {
-          "entries": 63,
-          "name": "Super Gas",
-          "percent_full": "105.0%",
-          "quota": 60
-        },
-        {
-          "entries": 8,
-          "name": "Top Dragster",
-          "percent_full": "22.2%",
-          "quota": 36
-        }
-      ],
+      "classes": [],
       "date": "10/02/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026MI1",
       "location": "St. Louis MO",
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     }
   ],
-  "generated_epoch": 1785912379,
-  "last_checked": "2026-08-05T06:46:19.355433Z"
+  "generated_epoch": 1785922030,
+  "last_checked": "2026-08-05T09:27:10.339192Z"
 }
