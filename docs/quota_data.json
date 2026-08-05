@@ -66,9 +66,9 @@
           "quota": 150
         },
         {
-          "entries": 81,
+          "entries": 82,
           "name": "Super Comp",
-          "percent_full": "54.0%",
+          "percent_full": "54.7%",
           "quota": 150
         },
         {
@@ -78,9 +78,9 @@
           "quota": 150
         },
         {
-          "entries": 10,
+          "entries": 11,
           "name": "Top Sportsman",
-          "percent_full": "25.0%",
+          "percent_full": "27.5%",
           "quota": 40
         },
         {
@@ -138,15 +138,15 @@
           "quota": 45
         },
         {
-          "entries": 45,
+          "entries": 44,
           "name": "Super Gas",
-          "percent_full": "100.0%",
+          "percent_full": "97.8%",
           "quota": 45
         },
         {
-          "entries": 8,
+          "entries": 9,
           "name": "Top Dragster",
-          "percent_full": "22.2%",
+          "percent_full": "25.0%",
           "quota": 36
         }
       ],
@@ -183,9 +183,9 @@
           "quota": 60
         },
         {
-          "entries": 8,
+          "entries": 9,
           "name": "Top Dragster",
-          "percent_full": "22.2%",
+          "percent_full": "25.0%",
           "quota": 36
         }
       ],
@@ -194,8 +194,59 @@
       "id": "2026MI1",
       "location": "St. Louis MO",
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
+    },
+    {
+      "classes": [
+        {
+          "entries": 7,
+          "name": "Super Stock",
+          "percent_full": "8.8%",
+          "quota": 80
+        },
+        {
+          "entries": 21,
+          "name": "Stock Eliminator",
+          "percent_full": "26.3%",
+          "quota": 80
+        },
+        {
+          "entries": 48,
+          "name": "Super Comp",
+          "percent_full": "60.0%",
+          "quota": 80
+        },
+        {
+          "entries": 28,
+          "name": "Super Gas",
+          "percent_full": "35.0%",
+          "quota": 80
+        },
+        {
+          "entries": 12,
+          "name": "Super Street",
+          "percent_full": "17.1%",
+          "quota": 70
+        },
+        {
+          "entries": 1,
+          "name": "Top Sportsman",
+          "percent_full": "2.5%",
+          "quota": 40
+        },
+        {
+          "entries": 10,
+          "name": "Top Dragster",
+          "percent_full": "25.0%",
+          "quota": 40
+        }
+      ],
+      "date": "10/14/2026",
+      "has_data": true,
+      "id": "2026DT1",
+      "location": "Ennis TX",
+      "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1785935835,
-  "last_checked": "2026-08-05T13:17:15.716422Z"
+  "generated_epoch": 1785943839,
+  "last_checked": "2026-08-05T15:30:39.903286Z"
 }
