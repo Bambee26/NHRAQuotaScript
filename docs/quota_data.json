@@ -72,15 +72,15 @@
           "quota": 150
         },
         {
-          "entries": 68,
+          "entries": 70,
           "name": "Super Gas",
-          "percent_full": "45.3%",
+          "percent_full": "46.7%",
           "quota": 150
         },
         {
-          "entries": 11,
+          "entries": 13,
           "name": "Top Sportsman",
-          "percent_full": "27.5%",
+          "percent_full": "32.5%",
           "quota": 40
         },
         {
@@ -204,27 +204,27 @@
           "quota": 80
         },
         {
-          "entries": 28,
+          "entries": 29,
           "name": "Stock Eliminator",
-          "percent_full": "35.0%",
+          "percent_full": "36.3%",
           "quota": 80
         },
         {
-          "entries": 57,
+          "entries": 61,
           "name": "Super Comp",
-          "percent_full": "71.3%",
+          "percent_full": "76.3%",
           "quota": 80
         },
         {
-          "entries": 30,
+          "entries": 32,
           "name": "Super Gas",
-          "percent_full": "37.5%",
+          "percent_full": "40.0%",
           "quota": 80
         },
         {
-          "entries": 14,
+          "entries": 16,
           "name": "Super Street",
-          "percent_full": "20.0%",
+          "percent_full": "22.9%",
           "quota": 70
         },
         {
@@ -234,9 +234,9 @@
           "quota": 40
         },
         {
-          "entries": 10,
+          "entries": 11,
           "name": "Top Dragster",
-          "percent_full": "25.0%",
+          "percent_full": "27.5%",
           "quota": 40
         }
       ],
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1785949464,
-  "last_checked": "2026-08-05T17:04:24.172152Z"
+  "generated_epoch": 1785955337,
+  "last_checked": "2026-08-05T18:42:17.529802Z"
 }
