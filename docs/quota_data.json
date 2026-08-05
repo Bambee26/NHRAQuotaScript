@@ -27,9 +27,9 @@
           "quota": 60
         },
         {
-          "entries": 48,
+          "entries": 49,
           "name": "Super Street",
-          "percent_full": "96.0%",
+          "percent_full": "98.0%",
           "quota": 50
         },
         {
@@ -72,9 +72,9 @@
           "quota": 150
         },
         {
-          "entries": 67,
+          "entries": 68,
           "name": "Super Gas",
-          "percent_full": "44.7%",
+          "percent_full": "45.3%",
           "quota": 150
         },
         {
@@ -165,9 +165,9 @@
           "quota": 60
         },
         {
-          "entries": 60,
+          "entries": 61,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "101.7%",
           "quota": 60
         },
         {
@@ -198,33 +198,33 @@
     {
       "classes": [
         {
-          "entries": 7,
+          "entries": 15,
           "name": "Super Stock",
-          "percent_full": "8.8%",
-          "quota": 80
-        },
-        {
-          "entries": 21,
-          "name": "Stock Eliminator",
-          "percent_full": "26.3%",
-          "quota": 80
-        },
-        {
-          "entries": 48,
-          "name": "Super Comp",
-          "percent_full": "60.0%",
+          "percent_full": "18.8%",
           "quota": 80
         },
         {
           "entries": 28,
-          "name": "Super Gas",
+          "name": "Stock Eliminator",
           "percent_full": "35.0%",
           "quota": 80
         },
         {
-          "entries": 12,
+          "entries": 57,
+          "name": "Super Comp",
+          "percent_full": "71.3%",
+          "quota": 80
+        },
+        {
+          "entries": 30,
+          "name": "Super Gas",
+          "percent_full": "37.5%",
+          "quota": 80
+        },
+        {
+          "entries": 14,
           "name": "Super Street",
-          "percent_full": "17.1%",
+          "percent_full": "20.0%",
           "quota": 70
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1785943839,
-  "last_checked": "2026-08-05T15:30:39.903286Z"
+  "generated_epoch": 1785949464,
+  "last_checked": "2026-08-05T17:04:24.172152Z"
 }
