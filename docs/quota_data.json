@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 60,
+          "entries": 59,
           "name": "Super Stock",
-          "percent_full": "100.0%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -198,21 +198,21 @@
     {
       "classes": [
         {
-          "entries": 16,
+          "entries": 17,
           "name": "Super Stock",
-          "percent_full": "20.0%",
+          "percent_full": "21.3%",
           "quota": 80
         },
         {
-          "entries": 32,
+          "entries": 33,
           "name": "Stock Eliminator",
-          "percent_full": "40.0%",
+          "percent_full": "41.3%",
           "quota": 80
         },
         {
-          "entries": 68,
+          "entries": 69,
           "name": "Super Comp",
-          "percent_full": "85.0%",
+          "percent_full": "86.3%",
           "quota": 80
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786116368,
-  "last_checked": "2026-08-07T15:26:08.896951Z"
+  "generated_epoch": 1786119259,
+  "last_checked": "2026-08-07T16:14:19.375397Z"
 }
