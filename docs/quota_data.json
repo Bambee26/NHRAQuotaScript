@@ -72,9 +72,9 @@
           "quota": 150
         },
         {
-          "entries": 70,
+          "entries": 71,
           "name": "Super Gas",
-          "percent_full": "46.7%",
+          "percent_full": "47.3%",
           "quota": 150
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786112946,
-  "last_checked": "2026-08-07T14:29:06.108483Z"
+  "generated_epoch": 1786116368,
+  "last_checked": "2026-08-07T15:26:08.896951Z"
 }
