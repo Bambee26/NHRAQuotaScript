@@ -198,9 +198,9 @@
     {
       "classes": [
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Super Stock",
-          "percent_full": "23.8%",
+          "percent_full": "25.0%",
           "quota": 80
         },
         {
@@ -234,9 +234,9 @@
           "quota": 40
         },
         {
-          "entries": 13,
+          "entries": 14,
           "name": "Top Dragster",
-          "percent_full": "32.5%",
+          "percent_full": "35.0%",
           "quota": 40
         }
       ],
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786147356,
-  "last_checked": "2026-08-08T00:02:36.260695Z"
+  "generated_epoch": 1786154963,
+  "last_checked": "2026-08-08T02:09:23.838680Z"
 }
