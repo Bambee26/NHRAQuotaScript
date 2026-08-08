@@ -27,9 +27,9 @@
           "quota": 60
         },
         {
-          "entries": 48,
+          "entries": 47,
           "name": "Super Street",
-          "percent_full": "96.0%",
+          "percent_full": "94.0%",
           "quota": 50
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786225597,
-  "last_checked": "2026-08-08T21:46:37.288620Z"
+  "generated_epoch": 1786226747,
+  "last_checked": "2026-08-08T22:05:47.338139Z"
 }
