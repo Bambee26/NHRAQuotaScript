@@ -15,9 +15,9 @@
           "quota": 60
         },
         {
-          "entries": 58,
+          "entries": 59,
           "name": "Super Comp",
-          "percent_full": "96.7%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786287700,
-  "last_checked": "2026-08-09T15:01:40.192813Z"
+  "generated_epoch": 1786289942,
+  "last_checked": "2026-08-09T15:39:02.585003Z"
 }
