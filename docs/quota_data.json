@@ -33,9 +33,9 @@
           "quota": 50
         },
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Top Sportsman",
-          "percent_full": "52.8%",
+          "percent_full": "55.6%",
           "quota": 36
         },
         {
@@ -90,9 +90,9 @@
           "quota": 40
         },
         {
-          "entries": 1,
+          "entries": 2,
           "name": "Hemi Challenge",
-          "percent_full": "2.0%",
+          "percent_full": "4.0%",
           "quota": 50
         }
       ],
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786384678,
-  "last_checked": "2026-08-10T17:57:58.235616Z"
+  "generated_epoch": 1786388022,
+  "last_checked": "2026-08-10T18:53:42.689789Z"
 }
