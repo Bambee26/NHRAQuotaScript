@@ -72,9 +72,9 @@
           "quota": 150
         },
         {
-          "entries": 78,
+          "entries": 79,
           "name": "Super Gas",
-          "percent_full": "52.0%",
+          "percent_full": "52.7%",
           "quota": 150
         },
         {
@@ -105,9 +105,9 @@
     {
       "classes": [
         {
-          "entries": 1,
+          "entries": 2,
           "name": "Top Sportsman",
-          "percent_full": "2.8%",
+          "percent_full": "5.6%",
           "quota": 36
         }
       ],
@@ -198,9 +198,9 @@
     {
       "classes": [
         {
-          "entries": 22,
+          "entries": 23,
           "name": "Super Stock",
-          "percent_full": "27.5%",
+          "percent_full": "28.8%",
           "quota": 80
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786489793,
-  "last_checked": "2026-08-11T23:09:53.789404Z"
+  "generated_epoch": 1786492591,
+  "last_checked": "2026-08-11T23:56:31.066189Z"
 }
