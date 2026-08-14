@@ -90,9 +90,9 @@
           "quota": 40
         },
         {
-          "entries": 3,
+          "entries": 4,
           "name": "Hemi Challenge",
-          "percent_full": "6.0%",
+          "percent_full": "8.0%",
           "quota": 50
         }
       ],
@@ -216,9 +216,9 @@
           "quota": 80
         },
         {
-          "entries": 56,
+          "entries": 57,
           "name": "Super Gas",
-          "percent_full": "70.0%",
+          "percent_full": "71.3%",
           "quota": 80
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786724936,
-  "last_checked": "2026-08-14T16:28:56.706879Z"
+  "generated_epoch": 1786728533,
+  "last_checked": "2026-08-14T17:28:53.567401Z"
 }
