@@ -52,9 +52,52 @@
       "name": "NHRA Brainerd Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 151,
+          "name": "Super Stock",
+          "percent_full": "100.7%",
+          "quota": 150
+        },
+        {
+          "entries": 151,
+          "name": "Stock Eliminator",
+          "percent_full": "100.7%",
+          "quota": 150
+        },
+        {
+          "entries": 91,
+          "name": "Super Comp",
+          "percent_full": "60.7%",
+          "quota": 150
+        },
+        {
+          "entries": 82,
+          "name": "Super Gas",
+          "percent_full": "54.7%",
+          "quota": 150
+        },
+        {
+          "entries": 17,
+          "name": "Top Sportsman",
+          "percent_full": "42.5%",
+          "quota": 40
+        },
+        {
+          "entries": 43,
+          "name": "Top Dragster",
+          "percent_full": "107.5%",
+          "quota": 40
+        },
+        {
+          "entries": 4,
+          "name": "Hemi Challenge",
+          "percent_full": "8.0%",
+          "quota": 50
+        }
+      ],
       "date": "09/02/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026II1",
       "location": "Brownsburg IN",
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
@@ -75,9 +118,40 @@
       "name": "Dodge NHRA Great Lakes Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 45,
+          "name": "Super Stock",
+          "percent_full": "100.0%",
+          "quota": 45
+        },
+        {
+          "entries": 45,
+          "name": "Stock Eliminator",
+          "percent_full": "100.0%",
+          "quota": 45
+        },
+        {
+          "entries": 45,
+          "name": "Super Comp",
+          "percent_full": "100.0%",
+          "quota": 45
+        },
+        {
+          "entries": 45,
+          "name": "Super Gas",
+          "percent_full": "100.0%",
+          "quota": 45
+        },
+        {
+          "entries": 11,
+          "name": "Top Dragster",
+          "percent_full": "30.6%",
+          "quota": 36
+        }
+      ],
       "date": "09/25/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026RN1",
       "location": "Rockingham NC",
       "name": "NHRA Nationals at The Rock"
@@ -122,14 +196,57 @@
       "name": "NAPA Auto Parts NHRA Midwest Nationals"
     },
     {
-      "classes": [],
+      "classes": [
+        {
+          "entries": 31,
+          "name": "Super Stock",
+          "percent_full": "38.8%",
+          "quota": 80
+        },
+        {
+          "entries": 50,
+          "name": "Stock Eliminator",
+          "percent_full": "62.5%",
+          "quota": 80
+        },
+        {
+          "entries": 80,
+          "name": "Super Comp",
+          "percent_full": "100.0%",
+          "quota": 80
+        },
+        {
+          "entries": 59,
+          "name": "Super Gas",
+          "percent_full": "73.8%",
+          "quota": 80
+        },
+        {
+          "entries": 36,
+          "name": "Super Street",
+          "percent_full": "51.4%",
+          "quota": 70
+        },
+        {
+          "entries": 8,
+          "name": "Top Sportsman",
+          "percent_full": "20.0%",
+          "quota": 40
+        },
+        {
+          "entries": 22,
+          "name": "Top Dragster",
+          "percent_full": "55.0%",
+          "quota": 40
+        }
+      ],
       "date": "10/14/2026",
-      "has_data": false,
+      "has_data": true,
       "id": "2026DT1",
       "location": "Ennis TX",
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786753646,
-  "last_checked": "2026-08-15T00:27:26.587732Z"
+  "generated_epoch": 1786758873,
+  "last_checked": "2026-08-15T01:54:33.884295Z"
 }
