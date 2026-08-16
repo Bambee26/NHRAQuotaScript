@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 58,
+          "entries": 59,
           "name": "Super Stock",
-          "percent_full": "96.7%",
+          "percent_full": "98.3%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786913158,
-  "last_checked": "2026-08-16T20:45:58.226903Z"
+  "generated_epoch": 1786913979,
+  "last_checked": "2026-08-16T20:59:39.826635Z"
 }
