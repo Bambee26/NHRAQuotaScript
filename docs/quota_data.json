@@ -39,9 +39,9 @@
           "quota": 36
         },
         {
-          "entries": 36,
+          "entries": 35,
           "name": "Top Dragster",
-          "percent_full": "100.0%",
+          "percent_full": "97.2%",
           "quota": 36
         }
       ],
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786886453,
-  "last_checked": "2026-08-16T13:20:53.842920Z"
+  "generated_epoch": 1786888083,
+  "last_checked": "2026-08-16T13:48:03.186851Z"
 }
