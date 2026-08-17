@@ -33,15 +33,15 @@
           "quota": 50
         },
         {
-          "entries": 23,
+          "entries": 22,
           "name": "Top Sportsman",
-          "percent_full": "63.9%",
+          "percent_full": "61.1%",
           "quota": 36
         },
         {
-          "entries": 36,
+          "entries": 35,
           "name": "Top Dragster",
-          "percent_full": "100.0%",
+          "percent_full": "97.2%",
           "quota": 36
         }
       ],
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786988228,
-  "last_checked": "2026-08-17T17:37:08.611514Z"
+  "generated_epoch": 1786989603,
+  "last_checked": "2026-08-17T18:00:03.593909Z"
 }
