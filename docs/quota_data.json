@@ -9,9 +9,9 @@
           "quota": 60
         },
         {
-          "entries": 63,
+          "entries": 64,
           "name": "Stock Eliminator",
-          "percent_full": "105.0%",
+          "percent_full": "106.7%",
           "quota": 60
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786983061,
-  "last_checked": "2026-08-17T16:11:01.670502Z"
+  "generated_epoch": 1786985048,
+  "last_checked": "2026-08-17T16:44:08.749914Z"
 }
