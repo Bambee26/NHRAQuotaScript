@@ -9,9 +9,9 @@
           "quota": 60
         },
         {
-          "entries": 61,
+          "entries": 62,
           "name": "Stock Eliminator",
-          "percent_full": "101.7%",
+          "percent_full": "103.3%",
           "quota": 60
         },
         {
@@ -72,15 +72,15 @@
           "quota": 150
         },
         {
-          "entries": 87,
+          "entries": 88,
           "name": "Super Gas",
-          "percent_full": "58.0%",
+          "percent_full": "58.7%",
           "quota": 150
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Top Sportsman",
-          "percent_full": "45.0%",
+          "percent_full": "47.5%",
           "quota": 40
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786974625,
-  "last_checked": "2026-08-17T13:50:25.795803Z"
+  "generated_epoch": 1786976008,
+  "last_checked": "2026-08-17T14:13:28.712083Z"
 }
