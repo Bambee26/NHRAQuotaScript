@@ -15,9 +15,9 @@
           "quota": 60
         },
         {
-          "entries": 55,
+          "entries": 54,
           "name": "Super Comp",
-          "percent_full": "91.7%",
+          "percent_full": "90.0%",
           "quota": 60
         },
         {
@@ -27,9 +27,9 @@
           "quota": 60
         },
         {
-          "entries": 47,
+          "entries": 48,
           "name": "Super Street",
-          "percent_full": "94.0%",
+          "percent_full": "96.0%",
           "quota": 50
         },
         {
@@ -54,9 +54,9 @@
     {
       "classes": [
         {
-          "entries": 150,
+          "entries": 151,
           "name": "Super Stock",
-          "percent_full": "100.0%",
+          "percent_full": "100.7%",
           "quota": 150
         },
         {
@@ -66,9 +66,9 @@
           "quota": 150
         },
         {
-          "entries": 93,
+          "entries": 94,
           "name": "Super Comp",
-          "percent_full": "62.0%",
+          "percent_full": "62.7%",
           "quota": 150
         },
         {
@@ -183,9 +183,9 @@
           "quota": 60
         },
         {
-          "entries": 15,
+          "entries": 16,
           "name": "Top Dragster",
-          "percent_full": "41.7%",
+          "percent_full": "44.4%",
           "quota": 36
         }
       ],
@@ -198,15 +198,15 @@
     {
       "classes": [
         {
-          "entries": 32,
+          "entries": 31,
           "name": "Super Stock",
-          "percent_full": "40.0%",
+          "percent_full": "38.8%",
           "quota": 80
         },
         {
-          "entries": 52,
+          "entries": 53,
           "name": "Stock Eliminator",
-          "percent_full": "65.0%",
+          "percent_full": "66.3%",
           "quota": 80
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1786989603,
-  "last_checked": "2026-08-17T18:00:03.593909Z"
+  "generated_epoch": 1786992235,
+  "last_checked": "2026-08-17T18:43:55.503523Z"
 }
