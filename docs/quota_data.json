@@ -1,52 +1,9 @@
 {
   "events": [
     {
-      "classes": [
-        {
-          "entries": 60,
-          "name": "Super Stock",
-          "percent_full": "100.0%",
-          "quota": 60
-        },
-        {
-          "entries": 65,
-          "name": "Stock Eliminator",
-          "percent_full": "108.3%",
-          "quota": 60
-        },
-        {
-          "entries": 54,
-          "name": "Super Comp",
-          "percent_full": "90.0%",
-          "quota": 60
-        },
-        {
-          "entries": 48,
-          "name": "Super Gas",
-          "percent_full": "80.0%",
-          "quota": 60
-        },
-        {
-          "entries": 48,
-          "name": "Super Street",
-          "percent_full": "96.0%",
-          "quota": 50
-        },
-        {
-          "entries": 22,
-          "name": "Top Sportsman",
-          "percent_full": "61.1%",
-          "quota": 36
-        },
-        {
-          "entries": 35,
-          "name": "Top Dragster",
-          "percent_full": "97.2%",
-          "quota": 36
-        }
-      ],
+      "classes": [],
       "date": "08/20/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026BM1",
       "location": "Brainerd MN",
       "name": "NHRA Brainerd Nationals"
@@ -247,6 +204,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1787042977,
-  "last_checked": "2026-08-18T08:49:37.543134Z"
+  "generated_epoch": 1787044629,
+  "last_checked": "2026-08-18T09:17:09.026964Z"
 }
