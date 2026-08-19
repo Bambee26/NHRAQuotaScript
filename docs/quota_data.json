@@ -78,9 +78,9 @@
           "quota": 150
         },
         {
-          "entries": 24,
+          "entries": 25,
           "name": "Top Sportsman",
-          "percent_full": "60.0%",
+          "percent_full": "62.5%",
           "quota": 40
         },
         {
@@ -292,6 +292,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787172571,
-  "last_checked": "2026-08-19T20:49:31.310082Z"
+  "generated_epoch": 1787173897,
+  "last_checked": "2026-08-19T21:11:37.934765Z"
 }
