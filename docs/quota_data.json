@@ -78,9 +78,9 @@
           "quota": 150
         },
         {
-          "entries": 23,
+          "entries": 24,
           "name": "Top Sportsman",
-          "percent_full": "57.5%",
+          "percent_full": "60.0%",
           "quota": 40
         },
         {
@@ -222,9 +222,9 @@
           "quota": 80
         },
         {
-          "entries": 38,
+          "entries": 39,
           "name": "Super Street",
-          "percent_full": "54.3%",
+          "percent_full": "55.7%",
           "quota": 70
         },
         {
@@ -247,6 +247,6 @@
       "name": "Texas NHRA FallNationals"
     }
   ],
-  "generated_epoch": 1787147873,
-  "last_checked": "2026-08-19T13:57:53.761317Z"
+  "generated_epoch": 1787149821,
+  "last_checked": "2026-08-19T14:30:21.128374Z"
 }
