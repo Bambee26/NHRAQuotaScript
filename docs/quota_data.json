@@ -216,9 +216,9 @@
           "quota": 80
         },
         {
-          "entries": 67,
+          "entries": 68,
           "name": "Super Gas",
-          "percent_full": "83.8%",
+          "percent_full": "85.0%",
           "quota": 80
         },
         {
@@ -249,15 +249,15 @@
     {
       "classes": [
         {
-          "entries": 22,
+          "entries": 23,
           "name": "Super Stock",
-          "percent_full": "31.4%",
+          "percent_full": "32.9%",
           "quota": 70
         },
         {
-          "entries": 31,
+          "entries": 32,
           "name": "Stock Eliminator",
-          "percent_full": "44.3%",
+          "percent_full": "45.7%",
           "quota": 70
         },
         {
@@ -292,6 +292,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787242650,
-  "last_checked": "2026-08-20T16:17:30.568687Z"
+  "generated_epoch": 1787244851,
+  "last_checked": "2026-08-20T16:54:11.495553Z"
 }
