@@ -105,9 +105,9 @@
     {
       "classes": [
         {
-          "entries": 5,
+          "entries": 6,
           "name": "Top Sportsman",
-          "percent_full": "13.9%",
+          "percent_full": "16.7%",
           "quota": 36
         }
       ],
@@ -279,9 +279,9 @@
           "quota": 36
         },
         {
-          "entries": 11,
+          "entries": 12,
           "name": "Top Dragster",
-          "percent_full": "30.6%",
+          "percent_full": "33.3%",
           "quota": 36
         }
       ],
@@ -292,6 +292,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787232704,
-  "last_checked": "2026-08-20T13:31:44.440623Z"
+  "generated_epoch": 1787234997,
+  "last_checked": "2026-08-20T14:09:57.179807Z"
 }
