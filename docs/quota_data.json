@@ -171,9 +171,9 @@
           "quota": 80
         },
         {
-          "entries": 42,
+          "entries": 43,
           "name": "Super Street",
-          "percent_full": "60.0%",
+          "percent_full": "61.4%",
           "quota": 70
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787291159,
-  "last_checked": "2026-08-21T05:45:59.674378Z"
+  "generated_epoch": 1787293051,
+  "last_checked": "2026-08-21T06:17:31.745699Z"
 }
