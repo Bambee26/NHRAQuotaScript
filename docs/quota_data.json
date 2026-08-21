@@ -3,15 +3,15 @@
     {
       "classes": [
         {
-          "entries": 151,
+          "entries": 150,
           "name": "Super Stock",
-          "percent_full": "100.7%",
+          "percent_full": "100.0%",
           "quota": 150
         },
         {
-          "entries": 151,
+          "entries": 150,
           "name": "Stock Eliminator",
-          "percent_full": "100.7%",
+          "percent_full": "100.0%",
           "quota": 150
         },
         {
@@ -27,9 +27,9 @@
           "quota": 150
         },
         {
-          "entries": 28,
+          "entries": 29,
           "name": "Top Sportsman",
-          "percent_full": "70.0%",
+          "percent_full": "72.5%",
           "quota": 40
         },
         {
@@ -147,15 +147,15 @@
     {
       "classes": [
         {
-          "entries": 42,
+          "entries": 43,
           "name": "Super Stock",
-          "percent_full": "52.5%",
+          "percent_full": "53.8%",
           "quota": 80
         },
         {
-          "entries": 66,
+          "entries": 68,
           "name": "Stock Eliminator",
-          "percent_full": "82.5%",
+          "percent_full": "85.0%",
           "quota": 80
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787334434,
-  "last_checked": "2026-08-21T17:47:14.163479Z"
+  "generated_epoch": 1787336040,
+  "last_checked": "2026-08-21T18:14:00.526827Z"
 }
