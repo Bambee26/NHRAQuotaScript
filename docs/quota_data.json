@@ -21,9 +21,9 @@
           "quota": 150
         },
         {
-          "entries": 114,
+          "entries": 115,
           "name": "Super Gas",
-          "percent_full": "76.0%",
+          "percent_full": "76.7%",
           "quota": 150
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787520372,
-  "last_checked": "2026-08-23T21:26:12.348290Z"
+  "generated_epoch": 1787521402,
+  "last_checked": "2026-08-23T21:43:22.513427Z"
 }
