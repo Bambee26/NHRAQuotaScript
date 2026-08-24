@@ -9,9 +9,9 @@
           "quota": 150
         },
         {
-          "entries": 150,
+          "entries": 151,
           "name": "Stock Eliminator",
-          "percent_full": "100.0%",
+          "percent_full": "100.7%",
           "quota": 150
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787573921,
-  "last_checked": "2026-08-24T12:18:41.878758Z"
+  "generated_epoch": 1787577429,
+  "last_checked": "2026-08-24T13:17:09.455830Z"
 }
