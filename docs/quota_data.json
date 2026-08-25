@@ -1,52 +1,9 @@
 {
   "events": [
     {
-      "classes": [
-        {
-          "entries": 151,
-          "name": "Super Stock",
-          "percent_full": "100.7%",
-          "quota": 150
-        },
-        {
-          "entries": 151,
-          "name": "Stock Eliminator",
-          "percent_full": "100.7%",
-          "quota": 150
-        },
-        {
-          "entries": 118,
-          "name": "Super Comp",
-          "percent_full": "78.7%",
-          "quota": 150
-        },
-        {
-          "entries": 121,
-          "name": "Super Gas",
-          "percent_full": "80.7%",
-          "quota": 150
-        },
-        {
-          "entries": 33,
-          "name": "Top Sportsman",
-          "percent_full": "82.5%",
-          "quota": 40
-        },
-        {
-          "entries": 42,
-          "name": "Top Dragster",
-          "percent_full": "105.0%",
-          "quota": 40
-        },
-        {
-          "entries": 9,
-          "name": "Hemi Challenge",
-          "percent_full": "18.0%",
-          "quota": 50
-        }
-      ],
+      "classes": [],
       "date": "09/02/2026",
-      "has_data": true,
+      "has_data": false,
       "id": "2026II1",
       "location": "Brownsburg IN",
       "name": "Cornwell Quality Tools NHRA U.S. Nationals"
@@ -241,6 +198,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787647161,
-  "last_checked": "2026-08-25T08:39:21.115690Z"
+  "generated_epoch": 1787649532,
+  "last_checked": "2026-08-25T09:18:52.745296Z"
 }
