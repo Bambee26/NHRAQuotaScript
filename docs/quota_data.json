@@ -21,9 +21,9 @@
           "quota": 150
         },
         {
-          "entries": 131,
+          "entries": 132,
           "name": "Super Gas",
-          "percent_full": "87.3%",
+          "percent_full": "88.0%",
           "quota": 150
         },
         {
@@ -39,9 +39,9 @@
           "quota": 40
         },
         {
-          "entries": 14,
+          "entries": 15,
           "name": "Hemi Challenge",
-          "percent_full": "28.0%",
+          "percent_full": "30.0%",
           "quota": 50
         }
       ],
@@ -93,9 +93,9 @@
           "quota": 45
         },
         {
-          "entries": 15,
+          "entries": 16,
           "name": "Top Dragster",
-          "percent_full": "41.7%",
+          "percent_full": "44.4%",
           "quota": 36
         }
       ],
@@ -147,9 +147,9 @@
     {
       "classes": [
         {
-          "entries": 47,
+          "entries": 49,
           "name": "Super Stock",
-          "percent_full": "58.8%",
+          "percent_full": "61.3%",
           "quota": 80
         },
         {
@@ -183,9 +183,9 @@
           "quota": 40
         },
         {
-          "entries": 32,
+          "entries": 33,
           "name": "Top Dragster",
-          "percent_full": "80.0%",
+          "percent_full": "82.5%",
           "quota": 40
         }
       ],
@@ -216,9 +216,9 @@
           "quota": 70
         },
         {
-          "entries": 64,
+          "entries": 66,
           "name": "Super Gas",
-          "percent_full": "91.4%",
+          "percent_full": "94.3%",
           "quota": 70
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787761266,
-  "last_checked": "2026-08-26T16:21:06.998127Z"
+  "generated_epoch": 1787767665,
+  "last_checked": "2026-08-26T18:07:45.414587Z"
 }
