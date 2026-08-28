@@ -15,9 +15,9 @@
           "quota": 150
         },
         {
-          "entries": 128,
+          "entries": 129,
           "name": "Super Comp",
-          "percent_full": "85.3%",
+          "percent_full": "86.0%",
           "quota": 150
         },
         {
@@ -39,9 +39,9 @@
           "quota": 40
         },
         {
-          "entries": 16,
+          "entries": 17,
           "name": "Hemi Challenge",
-          "percent_full": "32.0%",
+          "percent_full": "34.0%",
           "quota": 50
         }
       ],
@@ -171,9 +171,9 @@
           "quota": 80
         },
         {
-          "entries": 49,
+          "entries": 50,
           "name": "Super Street",
-          "percent_full": "70.0%",
+          "percent_full": "71.4%",
           "quota": 70
         },
         {
@@ -204,9 +204,9 @@
           "quota": 70
         },
         {
-          "entries": 44,
+          "entries": 46,
           "name": "Stock Eliminator",
-          "percent_full": "62.9%",
+          "percent_full": "65.7%",
           "quota": 70
         },
         {
@@ -216,9 +216,9 @@
           "quota": 70
         },
         {
-          "entries": 70,
+          "entries": 71,
           "name": "Super Gas",
-          "percent_full": "100.0%",
+          "percent_full": "101.4%",
           "quota": 70
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787843253,
-  "last_checked": "2026-08-27T15:07:33.700030Z"
+  "generated_epoch": 1787876576,
+  "last_checked": "2026-08-28T00:22:56.439138Z"
 }
