@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 151,
+          "entries": 152,
           "name": "Super Stock",
-          "percent_full": "100.7%",
+          "percent_full": "101.3%",
           "quota": 150
         },
         {
@@ -15,9 +15,9 @@
           "quota": 150
         },
         {
-          "entries": 128,
+          "entries": 131,
           "name": "Super Comp",
-          "percent_full": "85.3%",
+          "percent_full": "87.3%",
           "quota": 150
         },
         {
@@ -27,9 +27,9 @@
           "quota": 150
         },
         {
-          "entries": 35,
+          "entries": 36,
           "name": "Top Sportsman",
-          "percent_full": "87.5%",
+          "percent_full": "90.0%",
           "quota": 40
         },
         {
@@ -54,9 +54,9 @@
     {
       "classes": [
         {
-          "entries": 13,
+          "entries": 14,
           "name": "Top Sportsman",
-          "percent_full": "36.1%",
+          "percent_full": "38.9%",
           "quota": 36
         }
       ],
@@ -93,9 +93,9 @@
           "quota": 45
         },
         {
-          "entries": 17,
+          "entries": 18,
           "name": "Top Dragster",
-          "percent_full": "47.2%",
+          "percent_full": "50.0%",
           "quota": 36
         }
       ],
@@ -222,9 +222,9 @@
           "quota": 70
         },
         {
-          "entries": 6,
+          "entries": 7,
           "name": "Top Sportsman",
-          "percent_full": "16.7%",
+          "percent_full": "19.4%",
           "quota": 36
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787916771,
-  "last_checked": "2026-08-28T11:32:51.111325Z"
+  "generated_epoch": 1787952586,
+  "last_checked": "2026-08-28T21:29:46.102559Z"
 }
