@@ -198,9 +198,9 @@
     {
       "classes": [
         {
-          "entries": 32,
+          "entries": 33,
           "name": "Super Stock",
-          "percent_full": "45.7%",
+          "percent_full": "47.1%",
           "quota": 70
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787973369,
-  "last_checked": "2026-08-29T03:16:09.294811Z"
+  "generated_epoch": 1787998131,
+  "last_checked": "2026-08-29T10:08:51.176308Z"
 }
