@@ -21,9 +21,9 @@
           "quota": 150
         },
         {
-          "entries": 133,
+          "entries": 132,
           "name": "Super Gas",
-          "percent_full": "88.7%",
+          "percent_full": "88.0%",
           "quota": 150
         },
         {
@@ -93,9 +93,9 @@
           "quota": 45
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Top Dragster",
-          "percent_full": "50.0%",
+          "percent_full": "52.8%",
           "quota": 36
         }
       ],
@@ -177,9 +177,9 @@
           "quota": 70
         },
         {
-          "entries": 11,
+          "entries": 12,
           "name": "Top Sportsman",
-          "percent_full": "27.5%",
+          "percent_full": "30.0%",
           "quota": 40
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1787998131,
-  "last_checked": "2026-08-29T10:08:51.176308Z"
+  "generated_epoch": 1788015740,
+  "last_checked": "2026-08-29T15:02:20.985124Z"
 }
