@@ -33,9 +33,9 @@
           "quota": 40
         },
         {
-          "entries": 40,
+          "entries": 39,
           "name": "Top Dragster",
-          "percent_full": "100.0%",
+          "percent_full": "97.5%",
           "quota": 40
         },
         {
@@ -241,6 +241,6 @@
       "name": "MOPAR NHRA Las Vegas Nationals"
     }
   ],
-  "generated_epoch": 1788044739,
-  "last_checked": "2026-08-29T23:05:39.140481Z"
+  "generated_epoch": 1788052371,
+  "last_checked": "2026-08-30T01:12:51.303679Z"
 }
