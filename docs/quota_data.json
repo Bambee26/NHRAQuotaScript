@@ -3,57 +3,6 @@
     {
       "classes": [
         {
-          "entries": 150,
-          "name": "Super Stock",
-          "percent_full": "100.0%",
-          "quota": 150
-        },
-        {
-          "entries": 152,
-          "name": "Stock Eliminator",
-          "percent_full": "101.3%",
-          "quota": 150
-        },
-        {
-          "entries": 132,
-          "name": "Super Comp",
-          "percent_full": "88.0%",
-          "quota": 150
-        },
-        {
-          "entries": 127,
-          "name": "Super Gas",
-          "percent_full": "84.7%",
-          "quota": 150
-        },
-        {
-          "entries": 37,
-          "name": "Top Sportsman",
-          "percent_full": "92.5%",
-          "quota": 40
-        },
-        {
-          "entries": 38,
-          "name": "Top Dragster",
-          "percent_full": "95.0%",
-          "quota": 40
-        },
-        {
-          "entries": 18,
-          "name": "Hemi Challenge",
-          "percent_full": "36.0%",
-          "quota": 50
-        }
-      ],
-      "date": "09/02/2026",
-      "has_data": true,
-      "id": "2026II1",
-      "location": "Brownsburg IN",
-      "name": "Cornwell Quality Tools NHRA U.S. Nationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 15,
           "name": "Top Sportsman",
           "percent_full": "41.7%",
@@ -249,9 +198,9 @@
           "quota": 60
         },
         {
-          "entries": 8,
+          "entries": 9,
           "name": "Stock Eliminator",
-          "percent_full": "13.3%",
+          "percent_full": "15.0%",
           "quota": 60
         },
         {
@@ -261,9 +210,9 @@
           "quota": 60
         },
         {
-          "entries": 28,
+          "entries": 29,
           "name": "Super Gas",
-          "percent_full": "46.7%",
+          "percent_full": "48.3%",
           "quota": 60
         },
         {
@@ -273,9 +222,9 @@
           "quota": 36
         },
         {
-          "entries": 5,
+          "entries": 7,
           "name": "Top Dragster",
-          "percent_full": "13.9%",
+          "percent_full": "19.4%",
           "quota": 36
         }
       ],
@@ -286,6 +235,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1788388500,
-  "last_checked": "2026-09-02T22:35:00.935457Z"
+  "generated_epoch": 1788395702,
+  "last_checked": "2026-09-03T00:35:02.958276Z"
 }
