@@ -30,9 +30,9 @@
           "quota": 45
         },
         {
-          "entries": 45,
+          "entries": 44,
           "name": "Super Comp",
-          "percent_full": "100.0%",
+          "percent_full": "97.8%",
           "quota": 45
         },
         {
@@ -126,9 +126,9 @@
           "quota": 70
         },
         {
-          "entries": 13,
+          "entries": 14,
           "name": "Top Sportsman",
-          "percent_full": "32.5%",
+          "percent_full": "35.0%",
           "quota": 40
         },
         {
@@ -153,9 +153,9 @@
           "quota": 70
         },
         {
-          "entries": 53,
+          "entries": 54,
           "name": "Stock Eliminator",
-          "percent_full": "75.7%",
+          "percent_full": "77.1%",
           "quota": 70
         },
         {
@@ -192,15 +192,15 @@
     {
       "classes": [
         {
-          "entries": 9,
+          "entries": 10,
           "name": "Super Stock",
-          "percent_full": "15.0%",
+          "percent_full": "16.7%",
           "quota": 60
         },
         {
-          "entries": 10,
+          "entries": 11,
           "name": "Stock Eliminator",
-          "percent_full": "16.7%",
+          "percent_full": "18.3%",
           "quota": 60
         },
         {
@@ -210,9 +210,9 @@
           "quota": 60
         },
         {
-          "entries": 31,
+          "entries": 32,
           "name": "Super Gas",
-          "percent_full": "51.7%",
+          "percent_full": "53.3%",
           "quota": 60
         },
         {
@@ -222,9 +222,9 @@
           "quota": 36
         },
         {
-          "entries": 7,
+          "entries": 8,
           "name": "Top Dragster",
-          "percent_full": "19.4%",
+          "percent_full": "22.2%",
           "quota": 36
         }
       ],
@@ -235,6 +235,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1788443068,
-  "last_checked": "2026-09-03T13:44:28.160539Z"
+  "generated_epoch": 1788455776,
+  "last_checked": "2026-09-03T17:16:16.865227Z"
 }
