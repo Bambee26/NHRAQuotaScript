@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Top Sportsman",
-          "percent_full": "52.8%",
+          "percent_full": "55.6%",
           "quota": 36
         }
       ],
@@ -235,6 +235,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1789124066,
-  "last_checked": "2026-09-11T10:54:26.223505Z"
+  "generated_epoch": 1789137623,
+  "last_checked": "2026-09-11T14:40:23.435206Z"
 }
