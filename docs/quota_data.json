@@ -42,9 +42,9 @@
           "quota": 45
         },
         {
-          "entries": 32,
+          "entries": 31,
           "name": "Top Dragster",
-          "percent_full": "88.9%",
+          "percent_full": "86.1%",
           "quota": 36
         }
       ],
@@ -63,9 +63,9 @@
           "quota": 60
         },
         {
-          "entries": 61,
+          "entries": 62,
           "name": "Stock Eliminator",
-          "percent_full": "101.7%",
+          "percent_full": "103.3%",
           "quota": 60
         },
         {
@@ -75,9 +75,9 @@
           "quota": 60
         },
         {
-          "entries": 66,
+          "entries": 67,
           "name": "Super Gas",
-          "percent_full": "110.0%",
+          "percent_full": "111.7%",
           "quota": 60
         },
         {
@@ -96,9 +96,9 @@
     {
       "classes": [
         {
-          "entries": 68,
+          "entries": 73,
           "name": "Super Stock",
-          "percent_full": "85.0%",
+          "percent_full": "91.3%",
           "quota": 80
         },
         {
@@ -132,9 +132,9 @@
           "quota": 40
         },
         {
-          "entries": 39,
+          "entries": 40,
           "name": "Top Dragster",
-          "percent_full": "97.5%",
+          "percent_full": "100.0%",
           "quota": 40
         }
       ],
@@ -147,15 +147,15 @@
     {
       "classes": [
         {
-          "entries": 58,
+          "entries": 63,
           "name": "Super Stock",
-          "percent_full": "82.9%",
+          "percent_full": "90.0%",
           "quota": 70
         },
         {
-          "entries": 61,
+          "entries": 65,
           "name": "Stock Eliminator",
-          "percent_full": "87.1%",
+          "percent_full": "92.9%",
           "quota": 70
         },
         {
@@ -165,15 +165,15 @@
           "quota": 70
         },
         {
-          "entries": 71,
+          "entries": 72,
           "name": "Super Gas",
-          "percent_full": "101.4%",
+          "percent_full": "102.9%",
           "quota": 70
         },
         {
-          "entries": 16,
+          "entries": 17,
           "name": "Top Sportsman",
-          "percent_full": "44.4%",
+          "percent_full": "47.2%",
           "quota": 36
         },
         {
@@ -192,15 +192,15 @@
     {
       "classes": [
         {
-          "entries": 17,
+          "entries": 19,
           "name": "Super Stock",
-          "percent_full": "28.3%",
+          "percent_full": "31.7%",
           "quota": 60
         },
         {
-          "entries": 27,
+          "entries": 32,
           "name": "Stock Eliminator",
-          "percent_full": "45.0%",
+          "percent_full": "53.3%",
           "quota": 60
         },
         {
@@ -210,9 +210,9 @@
           "quota": 60
         },
         {
-          "entries": 61,
+          "entries": 62,
           "name": "Super Gas",
-          "percent_full": "101.7%",
+          "percent_full": "103.3%",
           "quota": 60
         },
         {
@@ -222,9 +222,9 @@
           "quota": 36
         },
         {
-          "entries": 15,
+          "entries": 17,
           "name": "Top Dragster",
-          "percent_full": "41.7%",
+          "percent_full": "47.2%",
           "quota": 36
         }
       ],
@@ -235,6 +235,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1789569289,
-  "last_checked": "2026-09-16T14:34:49.597092Z"
+  "generated_epoch": 1789583008,
+  "last_checked": "2026-09-16T18:23:28.680400Z"
 }
