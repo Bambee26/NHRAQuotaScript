@@ -3,21 +3,6 @@
     {
       "classes": [
         {
-          "entries": 25,
-          "name": "Top Sportsman",
-          "percent_full": "69.4%",
-          "quota": 36
-        }
-      ],
-      "date": "09/18/2026",
-      "has_data": true,
-      "id": "2026GM1",
-      "location": "Grand Rapids MI",
-      "name": "Dodge NHRA Great Lakes Nationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 47,
           "name": "Super Stock",
           "percent_full": "104.4%",
@@ -171,9 +156,9 @@
           "quota": 70
         },
         {
-          "entries": 18,
+          "entries": 19,
           "name": "Top Sportsman",
-          "percent_full": "50.0%",
+          "percent_full": "52.8%",
           "quota": 36
         },
         {
@@ -222,9 +207,9 @@
           "quota": 36
         },
         {
-          "entries": 19,
+          "entries": 20,
           "name": "Top Dragster",
-          "percent_full": "52.8%",
+          "percent_full": "55.6%",
           "quota": 36
         }
       ],
@@ -235,6 +220,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1789774786,
-  "last_checked": "2026-09-18T23:39:46.489114Z"
+  "generated_epoch": 1789781662,
+  "last_checked": "2026-09-19T01:34:22.011620Z"
 }
