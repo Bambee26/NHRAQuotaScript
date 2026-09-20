@@ -60,9 +60,9 @@
           "quota": 60
         },
         {
-          "entries": 66,
+          "entries": 67,
           "name": "Super Gas",
-          "percent_full": "110.0%",
+          "percent_full": "111.7%",
           "quota": 60
         },
         {
@@ -111,9 +111,9 @@
           "quota": 70
         },
         {
-          "entries": 26,
+          "entries": 27,
           "name": "Top Sportsman",
-          "percent_full": "65.0%",
+          "percent_full": "67.5%",
           "quota": 40
         },
         {
@@ -220,6 +220,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1789860446,
-  "last_checked": "2026-09-19T23:27:26.058031Z"
+  "generated_epoch": 1789867342,
+  "last_checked": "2026-09-20T01:22:22.746853Z"
 }
