@@ -105,9 +105,9 @@
           "quota": 80
         },
         {
-          "entries": 70,
+          "entries": 69,
           "name": "Super Street",
-          "percent_full": "100.0%",
+          "percent_full": "98.6%",
           "quota": 70
         },
         {
@@ -220,6 +220,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1789904437,
-  "last_checked": "2026-09-20T11:40:37.631423Z"
+  "generated_epoch": 1789915875,
+  "last_checked": "2026-09-20T14:51:15.460013Z"
 }
