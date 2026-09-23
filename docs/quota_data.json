@@ -60,15 +60,15 @@
           "quota": 60
         },
         {
-          "entries": 65,
+          "entries": 66,
           "name": "Super Gas",
-          "percent_full": "108.3%",
+          "percent_full": "110.0%",
           "quota": 60
         },
         {
-          "entries": 38,
+          "entries": 39,
           "name": "Top Dragster",
-          "percent_full": "105.6%",
+          "percent_full": "108.3%",
           "quota": 36
         }
       ],
@@ -105,9 +105,9 @@
           "quota": 80
         },
         {
-          "entries": 70,
+          "entries": 71,
           "name": "Super Street",
-          "percent_full": "100.0%",
+          "percent_full": "101.4%",
           "quota": 70
         },
         {
@@ -183,9 +183,9 @@
           "quota": 60
         },
         {
-          "entries": 40,
+          "entries": 42,
           "name": "Stock Eliminator",
-          "percent_full": "66.7%",
+          "percent_full": "70.0%",
           "quota": 60
         },
         {
@@ -220,6 +220,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1790188063,
-  "last_checked": "2026-09-23T18:27:43.148324Z"
+  "generated_epoch": 1790199524,
+  "last_checked": "2026-09-23T21:38:44.677115Z"
 }
