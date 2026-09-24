@@ -132,9 +132,9 @@
     {
       "classes": [
         {
-          "entries": 69,
+          "entries": 70,
           "name": "Super Stock",
-          "percent_full": "98.6%",
+          "percent_full": "100.0%",
           "quota": 70
         },
         {
@@ -156,9 +156,9 @@
           "quota": 70
         },
         {
-          "entries": 20,
+          "entries": 21,
           "name": "Top Sportsman",
-          "percent_full": "55.6%",
+          "percent_full": "58.3%",
           "quota": 36
         },
         {
@@ -177,15 +177,15 @@
     {
       "classes": [
         {
-          "entries": 25,
+          "entries": 26,
           "name": "Super Stock",
-          "percent_full": "41.7%",
+          "percent_full": "43.3%",
           "quota": 60
         },
         {
-          "entries": 42,
+          "entries": 43,
           "name": "Stock Eliminator",
-          "percent_full": "70.0%",
+          "percent_full": "71.7%",
           "quota": 60
         },
         {
@@ -220,6 +220,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1790217901,
-  "last_checked": "2026-09-24T02:45:01.230891Z"
+  "generated_epoch": 1790236180,
+  "last_checked": "2026-09-24T07:49:40.240704Z"
 }
