@@ -66,9 +66,9 @@
           "quota": 60
         },
         {
-          "entries": 39,
+          "entries": 40,
           "name": "Top Dragster",
-          "percent_full": "108.3%",
+          "percent_full": "111.1%",
           "quota": 36
         }
       ],
@@ -183,9 +183,9 @@
           "quota": 60
         },
         {
-          "entries": 43,
+          "entries": 44,
           "name": "Stock Eliminator",
-          "percent_full": "71.7%",
+          "percent_full": "73.3%",
           "quota": 60
         },
         {
@@ -220,6 +220,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1790254524,
-  "last_checked": "2026-09-24T12:55:24.204631Z"
+  "generated_epoch": 1790271577,
+  "last_checked": "2026-09-24T17:39:37.768491Z"
 }
