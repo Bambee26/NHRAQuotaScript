@@ -3,45 +3,6 @@
     {
       "classes": [
         {
-          "entries": 45,
-          "name": "Super Stock",
-          "percent_full": "100.0%",
-          "quota": 45
-        },
-        {
-          "entries": 46,
-          "name": "Stock Eliminator",
-          "percent_full": "102.2%",
-          "quota": 45
-        },
-        {
-          "entries": 40,
-          "name": "Super Comp",
-          "percent_full": "88.9%",
-          "quota": 45
-        },
-        {
-          "entries": 42,
-          "name": "Super Gas",
-          "percent_full": "93.3%",
-          "quota": 45
-        },
-        {
-          "entries": 31,
-          "name": "Top Dragster",
-          "percent_full": "86.1%",
-          "quota": 36
-        }
-      ],
-      "date": "09/25/2026",
-      "has_data": true,
-      "id": "2026RN1",
-      "location": "Rockingham NC",
-      "name": "NHRA Nationals at The Rock"
-    },
-    {
-      "classes": [
-        {
           "entries": 62,
           "name": "Super Stock",
           "percent_full": "103.3%",
@@ -220,6 +181,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1790378759,
-  "last_checked": "2026-09-25T23:25:59.357774Z"
+  "generated_epoch": 1790387172,
+  "last_checked": "2026-09-26T01:46:12.696089Z"
 }
