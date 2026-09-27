@@ -3,9 +3,9 @@
     {
       "classes": [
         {
-          "entries": 62,
+          "entries": 61,
           "name": "Super Stock",
-          "percent_full": "103.3%",
+          "percent_full": "101.7%",
           "quota": 60
         },
         {
@@ -181,6 +181,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1790493069,
-  "last_checked": "2026-09-27T07:11:09.818120Z"
+  "generated_epoch": 1790513999,
+  "last_checked": "2026-09-27T12:59:59.155744Z"
 }
