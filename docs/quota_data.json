@@ -3,60 +3,9 @@
     {
       "classes": [
         {
-          "entries": 76,
+          "entries": 68,
           "name": "Super Stock",
-          "percent_full": "95.0%",
-          "quota": 80
-        },
-        {
-          "entries": 74,
-          "name": "Stock Eliminator",
-          "percent_full": "92.5%",
-          "quota": 80
-        },
-        {
-          "entries": 81,
-          "name": "Super Comp",
-          "percent_full": "101.3%",
-          "quota": 80
-        },
-        {
-          "entries": 80,
-          "name": "Super Gas",
-          "percent_full": "100.0%",
-          "quota": 80
-        },
-        {
-          "entries": 70,
-          "name": "Super Street",
-          "percent_full": "100.0%",
-          "quota": 70
-        },
-        {
-          "entries": 40,
-          "name": "Top Sportsman",
-          "percent_full": "100.0%",
-          "quota": 40
-        },
-        {
-          "entries": 40,
-          "name": "Top Dragster",
-          "percent_full": "100.0%",
-          "quota": 40
-        }
-      ],
-      "date": "10/14/2026",
-      "has_data": true,
-      "id": "2026DT1",
-      "location": "Ennis TX",
-      "name": "Texas NHRA FallNationals"
-    },
-    {
-      "classes": [
-        {
-          "entries": 69,
-          "name": "Super Stock",
-          "percent_full": "98.6%",
+          "percent_full": "97.1%",
           "quota": 70
         },
         {
@@ -72,9 +21,9 @@
           "quota": 70
         },
         {
-          "entries": 73,
+          "entries": 72,
           "name": "Super Gas",
-          "percent_full": "104.3%",
+          "percent_full": "102.9%",
           "quota": 70
         },
         {
@@ -142,6 +91,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1792013767,
-  "last_checked": "2026-10-14T21:36:07.561266Z"
+  "generated_epoch": 1792022632,
+  "last_checked": "2026-10-15T00:03:52.253882Z"
 }
