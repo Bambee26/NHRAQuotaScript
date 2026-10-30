@@ -3,51 +3,6 @@
     {
       "classes": [
         {
-          "entries": 62,
-          "name": "Super Stock",
-          "percent_full": "88.6%",
-          "quota": 70
-        },
-        {
-          "entries": 58,
-          "name": "Stock Eliminator",
-          "percent_full": "82.9%",
-          "quota": 70
-        },
-        {
-          "entries": 67,
-          "name": "Super Comp",
-          "percent_full": "95.7%",
-          "quota": 70
-        },
-        {
-          "entries": 68,
-          "name": "Super Gas",
-          "percent_full": "97.1%",
-          "quota": 70
-        },
-        {
-          "entries": 34,
-          "name": "Top Sportsman",
-          "percent_full": "94.4%",
-          "quota": 36
-        },
-        {
-          "entries": 31,
-          "name": "Top Dragster",
-          "percent_full": "86.1%",
-          "quota": 36
-        }
-      ],
-      "date": "10/29/2026",
-      "has_data": true,
-      "id": "2026LN1",
-      "location": "Las Vegas NV",
-      "name": "MOPAR NHRA Las Vegas Nationals"
-    },
-    {
-      "classes": [
-        {
           "entries": 53,
           "name": "Super Stock",
           "percent_full": "88.3%",
@@ -91,6 +46,6 @@
       "name": "In-N-Out Burger NHRA Finals"
     }
   ],
-  "generated_epoch": 1793306376,
-  "last_checked": "2026-10-29T20:39:36.403094Z"
+  "generated_epoch": 1793319641,
+  "last_checked": "2026-10-30T00:20:41.864382Z"
 }
