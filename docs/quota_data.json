@@ -1,5 +1,51 @@
 {
-  "events": [],
-  "generated_epoch": 1795500946,
-  "last_checked": "2026-11-24T06:15:46.105046Z"
+  "events": [
+    {
+      "classes": [
+        {
+          "entries": 0,
+          "name": "Super Stock",
+          "percent_full": "0.0%",
+          "quota": 70
+        },
+        {
+          "entries": 0,
+          "name": "Stock Eliminator",
+          "percent_full": "0.0%",
+          "quota": 70
+        },
+        {
+          "entries": 0,
+          "name": "Super Comp",
+          "percent_full": "0.0%",
+          "quota": 70
+        },
+        {
+          "entries": 0,
+          "name": "Super Gas",
+          "percent_full": "0.0%",
+          "quota": 70
+        },
+        {
+          "entries": 0,
+          "name": "Top Sportsman",
+          "percent_full": "0.0%",
+          "quota": 36
+        },
+        {
+          "entries": 0,
+          "name": "Top Dragster",
+          "percent_full": "0.0%",
+          "quota": 36
+        }
+      ],
+      "date": "02/18/2027",
+      "has_data": true,
+      "id": "2027PC1",
+      "location": "Pomona CA",
+      "name": "Lucas Oil NHRA Winternationals"
+    }
+  ],
+  "generated_epoch": 1795542646,
+  "last_checked": "2026-11-24T17:50:46.156245Z"
 }
